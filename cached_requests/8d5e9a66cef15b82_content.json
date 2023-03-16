@@ -1,0 +1,104 @@
+{
+  "docs": [
+    {
+      "externalId": {
+        "kpHD": "4a345ea5184cf90eb2a56f05b465e217",
+        "imdb": "tt0209144",
+        "tmdb": 77
+      },
+      "rating": {
+        "kp": 7.879,
+        "imdb": 8.4,
+        "filmCritics": 8.3,
+        "russianFilmCritics": 85.7143,
+        "await": 0
+      },
+      "votes": {
+        "kp": 233250,
+        "imdb": 1251511,
+        "filmCritics": 179,
+        "russianFilmCritics": 7,
+        "await": 0
+      },
+      "movieLength": 113,
+      "id": 335,
+      "type": "movie",
+      "name": "\u041c\u0435\u043c\u0435\u043d\u0442\u043e",
+      "description": "\u041b\u0435\u043e\u043d\u0430\u0440\u0434 \u0428\u0435\u043b\u0431\u0438 \u0438\u0437\u044b\u0441\u043a\u0430\u043d\u043d\u043e \u0438 \u0434\u043e\u0440\u043e\u0433\u043e \u043e\u0434\u0435\u0442, \u0435\u0437\u0434\u0438\u0442 \u043d\u0430 \u043d\u043e\u0432\u0435\u043d\u044c\u043a\u043e\u043c \u00ab\u042f\u0433\u0443\u0430\u0440\u0435\u00bb, \u043d\u043e \u043f\u0440\u043e\u0436\u0438\u0432\u0430\u0435\u0442 \u0432 \u0434\u0435\u0448\u0435\u0432\u044b\u0445 \u043c\u043e\u0442\u0435\u043b\u044f\u0445. \u0415\u0433\u043e \u0446\u0435\u043b\u044c \u0432 \u0436\u0438\u0437\u043d\u0438 \u2014 \u043d\u0430\u0439\u0442\u0438 \u0443\u0431\u0438\u0439\u0446\u0443 \u0436\u0435\u043d\u044b. \u0415\u0433\u043e \u043f\u0440\u043e\u0431\u043b\u0435\u043c\u0430 \u2014 \u0440\u0435\u0434\u043a\u0430\u044f \u0444\u043e\u0440\u043c\u0430 \u0430\u043c\u043d\u0435\u0437\u0438\u0438, \u043f\u043e\u0442\u0435\u0440\u044f \u043a\u043e\u0440\u043e\u0442\u043a\u043e\u0439 \u043f\u0430\u043c\u044f\u0442\u0438, \u043f\u043e\u043c\u043d\u044f \u0432\u0441\u0435 \u0434\u043e \u0443\u0431\u0438\u0439\u0441\u0442\u0432\u0430, \u043e\u043d \u043d\u0435 \u043f\u043e\u043c\u043d\u0438\u0442, \u0447\u0442\u043e \u0431\u044b\u043b\u043e \u043f\u044f\u0442\u043d\u0430\u0434\u0446\u0430\u0442\u044c \u043c\u0438\u043d\u0443\u0442 \u043d\u0430\u0437\u0430\u0434.",
+      "year": 2000,
+      "poster": {
+        "url": "https://st.kp.yandex.net/images/film_big/335.jpg",
+        "previewUrl": "https://st.kp.yandex.net/images/film_iphone/iphone360_335.jpg"
+      },
+      "genres": [
+        {
+          "name": "\u0442\u0440\u0438\u043b\u043b\u0435\u0440"
+        },
+        {
+          "name": "\u0434\u0435\u0442\u0435\u043a\u0442\u0438\u0432"
+        },
+        {
+          "name": "\u0434\u0440\u0430\u043c\u0430"
+        },
+        {
+          "name": "\u043a\u0440\u0438\u043c\u0438\u043d\u0430\u043b"
+        }
+      ],
+      "countries": [
+        {
+          "name": "\u0421\u0428\u0410"
+        }
+      ],
+      "alternativeName": "Memento",
+      "enName": null,
+      "names": [
+        {
+          "name": "\u041c\u0435\u043c\u0435\u043d\u0442\u043e"
+        },
+        {
+          "name": "Memento"
+        }
+      ],
+      "shortDescription": "\u041b\u0435\u043e\u043d\u0430\u0440\u0434 \u0438\u0449\u0435\u0442 \u0443\u0431\u0438\u0439\u0446\u0443 \u0436\u0435\u043d\u044b, \u043d\u043e \u0435\u043c\u0443 \u043c\u0435\u0448\u0430\u0435\u0442 \u0430\u043c\u043d\u0435\u0437\u0438\u044f. \u0412\u0438\u0440\u0442\u0443\u043e\u0437\u043d\u044b\u0439 \u0442\u0440\u0438\u043b\u043b\u0435\u0440, \u0441\u0434\u0435\u043b\u0430\u0432\u0448\u0438\u0439 \u041a\u0440\u0438\u0441\u0442\u043e\u0444\u0435\u0440\u0430 \u041d\u043e\u043b\u0430\u043d\u0430 \u0441\u0443\u043f\u0435\u0440\u0437\u0432\u0435\u0437\u0434\u043e\u0439",
+      "logo": {
+        "url": "https://avatars.mds.yandex.net/get-ott/1648503/2a0000016fc7d8bc0be31ee37cf20f7a0ced/orig"
+      },
+      "watchability": {
+        "items": [
+          {
+            "name": "Okko",
+            "logo": {
+              "url": "https://avatars.mds.yandex.net/get-ott/239697/7713e586-17d1-42d1-ac62-53e9ef1e70c3/orig"
+            },
+            "url": "https://okko.tv/movie/memento?utm_medium=referral&utm_source=yandex_search&utm_campaign=new_search_feed"
+          },
+          {
+            "name": "PREMIER",
+            "logo": {
+              "url": "https://avatars.mds.yandex.net/get-ott/239697/0f86e907-9531-47e9-87bd-5101a08d4e30/orig"
+            },
+            "url": "https://premier.one/show/19817?utm_source=yandex&utm_medium=yandex_feed_search&utm_campaign=yandex_feed"
+          },
+          {
+            "name": "Wink",
+            "logo": {
+              "url": "https://avatars.mds.yandex.net/get-ott/1672343/54096cbe-cc3b-41c9-8e44-990ebbca8d61/orig"
+            },
+            "url": "https://wink.ru/media_items/77749504?utm_source=yandex&utm_medium=koldunschick&utm_content=name"
+          },
+          {
+            "name": "24\u0422\u0412",
+            "logo": {
+              "url": "https://avatars.mds.yandex.net/get-ott/2439731/85e83b8d-1159-4781-bad5-ce0a809b3843/orig"
+            },
+            "url": "https://24h.tv/contents/2000-memento-546399501150061145"
+          }
+        ]
+      }
+    }
+  ],
+  "total": 1,
+  "limit": 10,
+  "page": 1,
+  "pages": 1
+}
