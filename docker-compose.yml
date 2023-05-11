@@ -1,0 +1,10 @@
+version: "3.4"
+
+services:
+  py_bot:
+    image: movie_bot:latest
+    build: ./
+    env_file:
+      - .env
+
+

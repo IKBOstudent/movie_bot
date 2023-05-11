@@ -4,66 +4,79 @@ import telebot.types as tt
 from dotenv import load_dotenv
 
 from utils import FilmFetch
+from handlers import form_result
+
 
 load_dotenv()  # .env variables
+if not os.environ['BOT_TOKEN'] or not os.environ['API_KEY']:
+    print('env variables not set correctly')
+    quit(1)
 
 bot_service = telebot.TeleBot(os.environ['BOT_TOKEN'])  # bot instance
 
 
-@bot_service.message_handler(commands=['start', 'help'])
-def send_welcome(message):
-    """Welcome message"""
-    bot_service.send_message(message.chat.id, "Это бот, который поможет найти нужный фильм или сериал :)")
+class Bot:
+    def __init__(self):
+        self.prev_command = ''
+
+    def handlers(self):
+
+        @bot_service.message_handler(commands=['start', 'help'])
+        def send_welcome(message):
+            """Welcome message"""
+            bot_service.send_message(message.chat.id, "Это бот, который поможет найти нужный фильм или сериал")
+
+        @bot_service.message_handler(commands=['test'])
+        def test_message(message):
+            """test buttons"""
+            markup = tt.ReplyKeyboardMarkup(resize_keyboard=True)
+            item1 = tt.KeyboardButton("/start")
+            item2 = tt.KeyboardButton("/help")
+            markup.add(item1, item2)
+            bot_service.send_message(message.chat.id, 'Выберите из меню', reply_markup=markup)
+
+        @bot_service.message_handler(commands=['find'])
+        def send_film_test(message):
+            self.prev_command = 'find'
+            bot_service.send_message(message.chat.id, "Напишите назавние искомого фильма или сериала")
 
 
-@bot_service.message_handler(commands=['test'])
-def test_message(message):
-    """test buttons"""
-    markup = tt.ReplyKeyboardMarkup(resize_keyboard=True)
-    item1 = tt.KeyboardButton("Кнопка Раз")
-    item2 = tt.KeyboardButton("Кнопка Два")
-    markup.add(item1, item2)
-    bot_service.send_message(message.chat.id, 'Выберите из меню', reply_markup=markup)
+        @bot_service.message_handler(func=lambda m: True)
+        def echo_all(message):
+            """Reply for any other message"""
+            if self.prev_command == 'find':
+                print(message.text)
+                url = 'https://api.kinopoisk.dev/v1.2/movie/search'
+                headers = {"X-API-KEY": os.environ["API_KEY"]}
+                # params = {'id': 335}
+                params = {'query': message.text}
+                Fetch = FilmFetch(url, headers, params)
 
+                try:
+                    data = Fetch.cached_request()  # кэшированный запрос
+                    bot_service.reply_to(message, f"По вашему запросу найдено {data['total']} результатов")
 
-@bot_service.message_handler(commands=['find'])
-def send_film_test(message):
-    """test film"""
+                    for info in data['docs']:
+                        poster, caption = form_result(info)
 
-    url = 'https://api.kinopoisk.dev/v1/movie'
-    headers = {"X-API-KEY": os.environ["API_KEY"]}
-    params = {'id': 335}
-    Fetch = FilmFetch(url, headers, params)
-    try:
-        info = Fetch.cached_request()['docs'][0]  # кэшированный запрос
-        poster = info['poster']['url']
-        caption = f"Фильм: {info['name']}\n" \
-                  f"Рейтинг: {info['rating']['kp']}\n" \
-                  f"Год: {info['year']}\n\n" \
-                  f"{info['description']}"
+                        bot_service.send_photo(message.chat.id, photo=poster, caption=caption)
 
-        markup = tt.InlineKeyboardMarkup()
+                except Exception as e:
+                    print("Request unsuccessful", e)
 
-        if info['externalId']['kpHD'] is not None:
-            btn_my_site = tt.InlineKeyboardButton(
-                text='Смотреть онлайн',
-                url=f"https://hd.kinopoisk.ru/film/{info['externalId']['kpHD']}")
-            markup.add(btn_my_site)
+                finally:
+                    self.prev_command = ''
 
-        bot_service.send_photo(message.chat.id, photo=poster, caption=caption, reply_markup=markup)
-    except Exception:
-        print("Request unsuccessful")
-
-
-@bot_service.message_handler(func=lambda m: True)
-def echo_all(message):
-    """Reply for any other message"""
-    bot_service.reply_to(message, "Не понял :/")
+            else:
+                bot_service.reply_to(message, "Не понял :/")
 
 
 if __name__ == "__main__":
+    bot = Bot()
+    bot.handlers()
     print("bot running")
     bot_service.infinity_polling()
+
 
 
 
