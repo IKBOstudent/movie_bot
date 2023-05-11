@@ -8,7 +8,10 @@ from handlers import form_result
 
 
 load_dotenv()  # .env variables
-if not os.environ['BOT_TOKEN'] or not os.environ['API_KEY']:
+try:
+    a = os.environ['BOT_TOKEN']
+    b = os.environ['API_KEY']
+except Exception:
     print('env variables not set correctly')
     quit(1)
 
