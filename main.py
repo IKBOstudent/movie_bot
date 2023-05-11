@@ -15,7 +15,11 @@ except Exception:
     print('env variables not set correctly')
     quit(1)
 
+
 bot_service = telebot.TeleBot(os.environ['BOT_TOKEN'])  # bot instance
+
+if "DEPLOY" in list(os.environ.keys()):
+    bot_service.set_webhook(url="https://api.render.com/deploy/srv-cheb0abhp8ubgo64r380?key=nwonSG26CSI")
 
 
 class Bot:
