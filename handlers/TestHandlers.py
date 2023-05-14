@@ -6,7 +6,6 @@ from telegram.ext import ContextTypes
 
 class TestHandlers:
     """Test handlers"""
-    
     def __init__(self, logger):
         self.logger = logger
 

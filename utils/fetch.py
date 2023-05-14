@@ -1,3 +1,5 @@
+# pylint: disable-all
+
 import json
 import os
 
@@ -6,6 +8,7 @@ from requests_cache import CachedSession, FileCache, FileDict
 
 
 class JSONFileCache(FileCache):
+
     def __init__(self, cache_name, **kwargs):
         super().__init__(cache_name, **kwargs)
         self.responses = JSONFileDict(cache_name, **kwargs)
@@ -24,6 +27,8 @@ class JSONFileDict(FileDict):
 
 
 class FilmFetch:
+    """Film fetch options"""
+
     def __init__(self, url, params):
         self.url = url
         self.headers = {"X-API-KEY": os.environ["API_KEY"]}

@@ -55,6 +55,7 @@ application.add_handler(CommandHandler("test_keyboard", test.test_keyboard))
 
 
 async def cancel(update: Update, context: ContextTypes.DEFAULT_TYPE):
+    """Cancels conversation"""
     await update.effective_user.send_message('Canceled', reply_markup=default_markup)
     return ConversationHandler.END
 
@@ -63,7 +64,9 @@ conv_handler = ConversationHandler(
     entry_points=[CommandHandler('find', search.send_film)],
     states={
         STATES.START: [],
-        STATES.FIND_BY_NAME: [MessageHandler(filters.TEXT & ~filters.COMMAND, search.response_film)],
+        STATES.FIND_BY_NAME: [
+            MessageHandler(filters.TEXT & ~filters.COMMAND, search.response_film)
+        ],
     },
     fallbacks=[CommandHandler("cancel", cancel)],
 )
@@ -84,4 +87,3 @@ if len(sys.argv) > 1 and sys.argv[1] == "PRODUCTION":
 else:
     print("starting bot...")
     application.run_polling(drop_pending_updates=True)
-

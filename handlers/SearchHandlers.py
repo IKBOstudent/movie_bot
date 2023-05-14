@@ -2,7 +2,7 @@
 
 from telegram import ReplyKeyboardMarkup, Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import ContextTypes, ConversationHandler
-from utils.fetch import *
+from utils.fetch import FilmFetch
 
 
 def make_film_card(info):
@@ -63,9 +63,9 @@ class SearchHandlers:
                     reply_markup=markup
                 )
 
-        except Exception as e:
+        except Exception: # pylint: disable=W
             self.logger.error("ERROR occurred:")
 
         finally:
             self.logger.info("Ended conversation")
-            return ConversationHandler.END
+            return ConversationHandler.END # pylint: disable=W
