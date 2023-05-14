@@ -1,3 +1,5 @@
+"""telegram movie bot"""
+
 import os
 import sys
 import logging
@@ -32,6 +34,7 @@ application = Application.builder().token(TOKEN).build()
 
 
 class STATES:
+    """states for conversations"""
     START = 0
     FIND_BY_NAME = 1
 

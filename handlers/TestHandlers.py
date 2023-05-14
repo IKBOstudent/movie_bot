@@ -1,8 +1,12 @@
-from telegram import ForceReply, Update, ReplyKeyboardMarkup
-from telegram.ext import Application, CommandHandler, ContextTypes, MessageHandler, filters, ConversationHandler
+"""Test handlers"""
+
+from telegram import Update, ReplyKeyboardMarkup
+from telegram.ext import ContextTypes
 
 
 class TestHandlers:
+    """Test handlers"""
+    
     def __init__(self, logger):
         self.logger = logger
 

@@ -1,8 +1,12 @@
-from telegram import ForceReply, Update, ReplyKeyboardMarkup
-from telegram.ext import CommandHandler, ContextTypes, MessageHandler, filters, ConversationHandler
+"""Welcome and help messages"""
+
+from telegram import Update
+from telegram.ext import ContextTypes
 
 
 class DefaultHandlers:
+    """Default commands handlers"""
+
     def __init__(self, logger, default_markup):
         self.logger = logger
         self.default_markup = default_markup

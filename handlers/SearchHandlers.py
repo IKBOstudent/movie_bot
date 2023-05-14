@@ -1,9 +1,12 @@
+"""Film searching module"""
+
 from telegram import ReplyKeyboardMarkup, Update, InlineKeyboardButton, InlineKeyboardMarkup
-from telegram.ext import Application, CommandHandler, ContextTypes, MessageHandler, filters, ConversationHandler
+from telegram.ext import ContextTypes, ConversationHandler
 from utils.fetch import *
 
 
 def make_film_card(info):
+    """Forms a card response"""
     print(info)
     poster = info['poster']['url']
 
@@ -24,11 +27,13 @@ def make_film_card(info):
 
 
 class SearchHandlers:
+    """Search commands handlers"""
     def __init__(self, states, logger):
         self.logger = logger
         self.states = states
 
     async def send_film(self, update: Update, context: ContextTypes.DEFAULT_TYPE):
+        """Prompt a name"""
         await update.message.reply_text(
             "Напишите название фильма или сериала",
             reply_markup=ReplyKeyboardMarkup([['/cancel']])
@@ -37,7 +42,7 @@ class SearchHandlers:
         return self.states.FIND_BY_NAME
 
     async def response_film(self, update: Update, context: ContextTypes.DEFAULT_TYPE):
-        """Reply for any other message"""
+        """Reply for film find"""
         url = 'https://api.kinopoisk.dev/v1/movie'
         params = {'id': 335}
         # params = {'query': message.text}
