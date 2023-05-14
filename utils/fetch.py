@@ -1,5 +1,5 @@
 import json
-from os.path import splitext
+import os
 
 import requests
 from requests_cache import CachedSession, FileCache, FileDict
@@ -14,7 +14,7 @@ class JSONFileCache(FileCache):
 class JSONFileDict(FileDict):
     def __setitem__(self, key: str, value: requests.Response):
         super().__setitem__(key, value)
-        response_path = splitext(self._path(key))[0]
+        response_path = os.path.splitext(self._path(key))[0]
         json_path = f'{response_path}_content.json'
 
         with self._try_io(ignore_errors=True):
@@ -24,9 +24,9 @@ class JSONFileDict(FileDict):
 
 
 class FilmFetch:
-    def __init__(self, url, headers, params):
+    def __init__(self, url, params):
         self.url = url
-        self.headers = headers
+        self.headers = {"X-API-KEY": os.environ["API_KEY"]}
         self.params = params
 
     def cached_request(self):
@@ -40,6 +40,7 @@ class FilmFetch:
 
         custom_backend = JSONFileCache('cached_requests', serializer='json')
         session = CachedSession(backend=custom_backend)
+
         data = session.get(self.url, headers=self.headers, params=self.params).json()
         return data
 
