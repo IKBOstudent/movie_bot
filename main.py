@@ -1,12 +1,11 @@
-
 import os
 import sys
-from dotenv import load_dotenv
 import logging
+from dotenv import load_dotenv
 
-from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup, ReplyKeyboardMarkup
-from telegram.ext import Application, TypeHandler, CommandHandler, CallbackContext, ContextTypes, MessageHandler, \
-    filters, ExtBot, CallbackQueryHandler, ConversationHandler
+from telegram import Update, ReplyKeyboardMarkup
+from telegram.ext import Application, CommandHandler, ContextTypes, MessageHandler, \
+    filters, ConversationHandler
 
 from handlers.SearchHandlers import SearchHandlers
 from handlers.TestHandlers import TestHandlers
@@ -82,8 +81,4 @@ if len(sys.argv) > 1 and sys.argv[1] == "PRODUCTION":
 else:
     print("starting bot...")
     application.run_polling(drop_pending_updates=True)
-
-
-
-
 
