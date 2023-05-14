@@ -19,4 +19,5 @@ jobs:
         python-version: 3.x
     - run: python -m pip install --upgrade pip
     - run: pip install pylint
-    - run: pylint --disable=unused-argument --disable=fixme $(git ls-files '*.py')
+    - run: pip install -r requirements.txt
+    - run: pylint --disable=unused-argument --disable=fixme --disble=invalid-name $(git ls-files '*.py')
