@@ -1,4 +1,5 @@
-import telebot.types as tt
+from telegram import ReplyKeyboardMarkup, Update, InlineKeyboardButton, InlineKeyboardMarkup
+from telegram.ext import Application, CommandHandler, ContextTypes, MessageHandler, filters, ConversationHandler
 from utils.fetch import *
 
 
@@ -11,57 +12,55 @@ def make_film_card(info):
               f"Год: {info['year']}\n\n" \
               f"{info['description']}"
 
-    markup = tt.InlineKeyboardMarkup()
-
+    markup_buttons = []
     if info['externalId']['kpHD'] is not None:
-        btn_my_site = tt.InlineKeyboardButton(
+        markup_buttons.append([InlineKeyboardButton(
             text='Смотреть онлайн',
-            url=f"https://hd.kinopoisk.ru/film/{info['externalId']['kpHD']}")
-        markup.add(btn_my_site)
+            url=f"https://hd.kinopoisk.ru/film/{info['externalId']['kpHD']}")])
+
+    markup = InlineKeyboardMarkup(markup_buttons)
 
     return poster, caption, markup
 
 
 class SearchHandlers:
-    def __init__(self, bot_service):
-        self.bot_service = bot_service
+    def __init__(self, states, logger):
+        self.logger = logger
+        self.states = states
 
-    def set_handlers(self):
-        @self.bot_service.message_handler(commands=['find'])
-        def send_film_test(message):
-            """Film searching"""
-            self.prev_command = 'find'
-            self.bot_service.send_message(
-                message.chat.id,
-                "Напишите название искомого фильма или сериала",
-                reply_markup=tt.ReplyKeyboardRemove()
+    async def send_film(self, update: Update, context: ContextTypes.DEFAULT_TYPE):
+        await update.message.reply_text(
+            "Напишите название фильма или сериала",
+            reply_markup=ReplyKeyboardMarkup([['/cancel']])
+        )
+        self.logger.info("SENT reply with state {FIND_BY_NAME}")
+        return self.states.FIND_BY_NAME
+
+    async def response_film(self, update: Update, context: ContextTypes.DEFAULT_TYPE):
+        """Reply for any other message"""
+        url = 'https://api.kinopoisk.dev/v1/movie'
+        params = {'id': 335}
+        # params = {'query': message.text}
+        Fetch = FilmFetch(url, params)
+        try:
+            data = Fetch.cached_request()
+
+            await update.message.reply_text(
+                f"По вашему запросу найдено результатов: {data['total']}"
             )
 
-        @self.bot_service.message_handler(text=['film'])
-        def response_film(message):
-            """Reply for any other message"""
-            print(message.text)
-            url = 'https://api.kinopoisk.dev/v1.2/movie/search'
+            for info in data['docs']:
+                poster, caption, markup = make_film_card(info)
 
-            params = {'id': 335}
-            # params = {'query': message.text}
-            Fetch = FilmFetch(url, params)
-            try:
-                data = Fetch.cached_request()
-                self.bot_service.reply_to(
-                    message,
-                    f"По вашему запросу найдено {data['total']} результатов"
+                await update.message.reply_photo(
+                    photo=poster,
+                    caption=caption,
+                    reply_markup=markup
                 )
 
-                for info in data['docs']:
-                    poster, caption, markup = make_film_card(info)
+        except Exception as e:
+            self.logger.error("ERROR occurred:")
 
-                    self.bot_service.send_photo(
-                        message.chat.id,
-                        photo=poster,
-                        caption=caption,
-                        reply_markup=markup
-                    )
-
-            except Exception as e:
-                print("Request unsuccessful", e)
+        finally:
+            self.logger.info("Ended conversation")
+            return ConversationHandler.END

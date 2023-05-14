@@ -1,16 +1,19 @@
-import telebot.types as tt
+from telegram import ForceReply, Update, ReplyKeyboardMarkup
+from telegram.ext import Application, CommandHandler, ContextTypes, MessageHandler, filters, ConversationHandler
 
 
 class TestHandlers:
-    def __init__(self, bot_service):
-        self.bot_service = bot_service
+    def __init__(self, logger):
+        self.logger = logger
 
-    def set_handlers(self):
-        @self.bot_service.message_handler(commands=['test_keyboard'])
-        def test_message(message):
-            """test buttons"""
-            markup = tt.ReplyKeyboardMarkup(resize_keyboard=True)
-            item1 = tt.KeyboardButton("/start")
-            item2 = tt.KeyboardButton("/help")
-            markup.add(item1, item2)
-            self.bot_service.send_message(message.chat.id, 'Выберите из меню', reply_markup=markup)
+    async def test_keyboard(self, update: Update, context: ContextTypes.DEFAULT_TYPE):
+        """test buttons"""
+        markup = ReplyKeyboardMarkup(
+            [
+                ["/start"],
+                ["/help"]
+            ],
+            one_time_keyboard=True,
+            resize_keyboard=True
+        )
+        await update.message.reply_text("Выберите из меню", reply_markup=markup)
