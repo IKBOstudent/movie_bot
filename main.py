@@ -50,18 +50,9 @@ test = TestHandlers(logger)
 search = SearchHandlers(STATES, logger)
 
 
-async def keyboard_callback(update, context):
-    query = update.callback_query
-    # print('query:', query)
-
-    print('query.data:', query.data)
-    query.answer(f'selected: {query.data}')
-
-
 application.add_handler(CommandHandler("start", default.send_welcome))
 application.add_handler(CommandHandler("help", default.send_help))
 application.add_handler(CommandHandler("test_keyboard", test.test_keyboard))
-#application.add_handler(CallbackQueryHandler(keyboard_callback))
 
 
 async def cancel(update: Update, context: ContextTypes.DEFAULT_TYPE):

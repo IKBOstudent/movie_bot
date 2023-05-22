@@ -113,7 +113,7 @@ class SearchHandlers:
             for info in data['docs']:
                 await query.message.reply_text(info['review'], parse_mode="html")
 
-        except Exception:
+        except Exception: # pylint: disable=W
             self.logger.error("SOME ERROR OCCURED")
         print('Просматривается отзыв для фильма с номером:', query.data)
         await query.answer()
