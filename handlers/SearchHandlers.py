@@ -1,7 +1,7 @@
 """Film searching module"""
 
 from telegram import ReplyKeyboardMarkup, Update, InlineKeyboardButton, InlineKeyboardMarkup
-from telegram.ext import ContextTypes, ConversationHandler
+from telegram.ext import ContextTypes
 from utils.fetch import FilmFetch
 
 
