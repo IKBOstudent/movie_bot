@@ -1,4 +1,4 @@
-# pylint: disable-all
+    # pylint: disable-all
 
 import json
 import os
@@ -31,7 +31,7 @@ class FilmFetch:
 
     def __init__(self, url, params):
         self.url = url
-        self.headers = {"X-API-KEY": os.environ["API_KEY"]}
+        self.headers = {"X-API-KEY": "9RM0E02-E2BMGJ0-HZ1YJSS-43SH5RX"}
         self.params = params
 
     def cached_request(self):
@@ -51,5 +51,6 @@ class FilmFetch:
 
     def standard_request(self):
         """Standard HTTP request"""
+        print("Отрпавил запрос")
         data = requests.get(self.url, headers=self.headers, params=self.params).json()
         return data

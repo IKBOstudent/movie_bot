@@ -7,13 +7,13 @@ from dotenv import load_dotenv
 
 from telegram import Update, ReplyKeyboardMarkup
 from telegram.ext import Application, CommandHandler, ContextTypes, MessageHandler, \
-    filters, ConversationHandler
+    filters, ConversationHandler, CallbackQueryHandler
 
 from handlers.SearchHandlers import SearchHandlers
 from handlers.TestHandlers import TestHandlers
 from handlers.DefaultHandlers import DefaultHandlers
-
-
+from handlers.CategoryHandlers import CategoryHandler
+from handlers.CategoryHandlers import buttonFilmHandler
 load_dotenv()
 
 try:
@@ -28,7 +28,7 @@ logging.basicConfig(
 )
 logger = logging.getLogger(__name__)
 
-TOKEN = os.environ['BOT_TOKEN']
+TOKEN = "6139492767:AAEjKZ1ofZLMU50ctZSDad1kzvtXwvxfwPk"
 
 application = Application.builder().token(TOKEN).build()
 
@@ -37,23 +37,25 @@ class STATES:
     """states for conversations"""
     START = 0
     FIND_BY_NAME = 1
+    GET_CATEGORY = 2
 
 
 default_markup = ReplyKeyboardMarkup([
             ['/find', '/help'],
-            ['/test_keyboard']
+            ['/test_keyboard'],['/category']
         ], resize_keyboard=True)
 
 default = DefaultHandlers(logger, default_markup)
 test = TestHandlers(logger)
 search = SearchHandlers(STATES, logger)
+category = CategoryHandler(STATES,logger)
 
-
+application.add_handler(CommandHandler("start", default.send_welcome))
 application.add_handler(CommandHandler("start", default.send_welcome))
 application.add_handler(CommandHandler("help", default.send_help))
 application.add_handler(CommandHandler("test_keyboard", test.test_keyboard))
-
-
+#application.add_handler(CallbackQueryHandler(buttonHandler))
+application.add_handler(CallbackQueryHandler(buttonFilmHandler))
 async def cancel(update: Update, context: ContextTypes.DEFAULT_TYPE):
     """Cancels conversation"""
     await update.effective_user.send_message('Canceled', reply_markup=default_markup)
@@ -69,9 +71,21 @@ conv_handler = ConversationHandler(
         ],
     },
     fallbacks=[CommandHandler("cancel", cancel)],
+
+)
+
+categ_handler = ConversationHandler(
+    entry_points=[CommandHandler('category',category.response_categories)],
+    states={
+        STATES.START:[],
+        STATES.GET_CATEGORY:[],
+    },
+    fallbacks=[CommandHandler("cancel", cancel)],
 )
 
 application.add_handler(conv_handler)
+
+application.add_handler(categ_handler)
 
 
 async def send_unknown(update: Update, context: ContextTypes.DEFAULT_TYPE):
