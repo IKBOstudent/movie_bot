@@ -1,0 +1,1358 @@
+{
+  "docs": [
+    {
+      "externalId": {
+        "kpHD": "4506518307e2f5db99126d1f7edbdaeb",
+        "imdb": "tt9376612",
+        "tmdb": 566525
+      },
+      "rating": {
+        "kp": 7.329,
+        "imdb": 7.4,
+        "filmCritics": 7.5,
+        "russianFilmCritics": 84.6154,
+        "await": null
+      },
+      "votes": {
+        "kp": 460456,
+        "imdb": 400271,
+        "filmCritics": 340,
+        "russianFilmCritics": 13,
+        "await": 12114
+      },
+      "movieLength": 132,
+      "id": 1219149,
+      "type": "movie",
+      "name": "\u0428\u0430\u043d-\u0427\u0438 \u0438 \u043b\u0435\u0433\u0435\u043d\u0434\u0430 \u0434\u0435\u0441\u044f\u0442\u0438 \u043a\u043e\u043b\u0435\u0446",
+      "description": "\u041c\u043d\u043e\u0433\u043e \u0441\u043e\u0442\u0435\u043d \u043b\u0435\u0442\u00a0\u043d\u0430\u0437\u0430\u0434 \u0430\u043c\u0431\u0438\u0446\u0438\u043e\u0437\u043d\u044b\u0439 \u0432\u043e\u0438\u043d \u0421\u044e\u0439\u00a0\u0412\u044d\u043d\u044c\u0443 \u0437\u0430\u0432\u043b\u0430\u0434\u0435\u043b \u0432\u043e\u043b\u0448\u0435\u0431\u043d\u044b\u043c \u0431\u043e\u0435\u0432\u044b\u043c \u0430\u0440\u0442\u0435\u0444\u0430\u043a\u0442\u043e\u043c\u00a0\u2014\u00a0\u0434\u0435\u0441\u044f\u0442\u044c\u044e \u043a\u043e\u043b\u044c\u0446\u0430\u043c\u0438, \u0441\u00a0\u043f\u043e\u043c\u043e\u0449\u044c\u044e \u043a\u043e\u0442\u043e\u0440\u044b\u0445 \u043e\u043d\u00a0\u043f\u043e\u0431\u0435\u0434\u0438\u043b \u0432\u0441\u0435\u0445 \u0432\u0440\u0430\u0433\u043e\u0432 \u0438\u00a0\u0441\u043e\u0437\u0434\u0430\u043b \u0442\u0430\u0439\u043d\u0443\u044e \u043e\u0440\u0433\u0430\u043d\u0438\u0437\u0430\u0446\u0438\u044e. \u041d\u0430\u00a0\u043f\u0440\u043e\u0442\u044f\u0436\u0435\u043d\u0438\u0438 \u0432\u0435\u043a\u043e\u0432 \u043e\u043d\u00a0\u0441\u043e\u0431\u0438\u0440\u0430\u043b \u0430\u0440\u043c\u0438\u044e \u0438\u00a0\u0442\u0430\u0439\u043d\u043e \u0432\u043c\u0435\u0448\u0438\u0432\u0430\u043b\u0441\u044f \u0432\u00a0\u0445\u043e\u0434 \u043c\u0438\u0440\u043e\u0432\u043e\u0439 \u0438\u0441\u0442\u043e\u0440\u0438\u0438, \u043d\u043e\u00a0\u0432 1996 \u0433\u043e\u0434\u0443 \u0432\u0441\u0442\u0440\u0435\u0442\u0438\u043b \u043f\u0440\u0435\u043a\u0440\u0430\u0441\u043d\u0443\u044e \u0434\u0435\u0432\u0443\u0448\u043a\u0443, \u043c\u0430\u0441\u0442\u0435\u0440\u0430 \u0431\u043e\u0435\u0432\u044b\u0445 \u0438\u0441\u043a\u0443\u0441\u0441\u0442\u0432 \u0441\u043a\u0440\u044b\u0442\u043e\u0439 \u043e\u0442\u00a0\u043f\u043e\u0441\u0442\u043e\u0440\u043e\u043d\u043d\u0438\u0445 \u0433\u043b\u0430\u0437 \u0434\u0435\u0440\u0435\u0432\u043d\u0438 \u0422\u0430\u00a0\u041b\u043e, \u043e\u0441\u0442\u0435\u043f\u0435\u043d\u0438\u043b\u0441\u044f \u0438\u00a0\u0437\u0430\u0432\u0451\u043b \u0441\u0435\u043c\u044c\u044e. \n\n\u0421\u0430\u043d-\u0424\u0440\u0430\u043d\u0446\u0438\u0441\u043a\u043e, 25\u00a0\u043b\u0435\u0442 \u0441\u043f\u0443\u0441\u0442\u044f. \u041f\u0430\u0440\u0435\u043d\u044c \u0428\u043e\u043d\u00a0\u0440\u0430\u0431\u043e\u0442\u0430\u0435\u0442 \u043e\u0431\u044b\u0447\u043d\u044b\u043c \u043f\u0430\u0440\u043a\u043e\u0432\u0449\u0438\u043a\u043e\u043c, \u0430\u00a0\u0432\u0435\u0447\u0435\u0440\u0430 \u043f\u0440\u043e\u0432\u043e\u0434\u0438\u0442 \u0432\u00a0\u043a\u0430\u0440\u0430\u043e\u043a\u0435 \u0441\u00a0\u043f\u043e\u0434\u0440\u0443\u0433\u043e\u0439 \u0438\u00a0\u043a\u043e\u043b\u043b\u0435\u0433\u043e\u0439 \u041a\u044d\u0442\u0438\u00a0\u2014\u00a0\u0431\u043e\u043b\u044c\u0448\u043e\u0439 \u043b\u044e\u0431\u0438\u0442\u0435\u043b\u044c\u043d\u0438\u0446\u0435\u0439 \u0441\u043a\u043e\u0440\u043e\u0441\u0442\u043d\u044b\u0445 \u0430\u0432\u0442\u043e\u043c\u043e\u0431\u0438\u043b\u0435\u0439. \u041e\u0434\u043d\u0430\u0436\u0434\u044b \u043f\u043e\u00a0\u0434\u043e\u0440\u043e\u0433\u0435 \u043d\u0430\u00a0\u0440\u0430\u0431\u043e\u0442\u0443 \u043d\u0430\u00a0\u043f\u0440\u0438\u044f\u0442\u0435\u043b\u0435\u0439 \u043d\u0430\u043f\u0430\u0434\u0430\u044e\u0442 \u0445\u043e\u0440\u043e\u0448\u043e \u043f\u043e\u0434\u0433\u043e\u0442\u043e\u0432\u043b\u0435\u043d\u043d\u044b\u0435 \u0432\u043e\u0438\u043d\u044b \u0441\u00a0\u0446\u0435\u043b\u044c\u044e \u0437\u0430\u0431\u0440\u0430\u0442\u044c \u0443\u00a0\u0428\u043e\u043d\u0430 \u043f\u043e\u0434\u0430\u0440\u0435\u043d\u043d\u044b\u0439 \u043c\u0430\u0442\u0435\u0440\u044c\u044e \u043c\u0435\u0434\u0430\u043b\u044c\u043e\u043d.",
+      "year": 2021,
+      "poster": {
+        "url": "https://st.kp.yandex.net/images/film_big/1219149.jpg",
+        "previewUrl": "https://st.kp.yandex.net/images/film_iphone/iphone360_1219149.jpg"
+      },
+      "genres": [
+        {
+          "name": "\u0444\u044d\u043d\u0442\u0435\u0437\u0438"
+        },
+        {
+          "name": "\u0431\u043e\u0435\u0432\u0438\u043a"
+        },
+        {
+          "name": "\u043a\u043e\u043c\u0435\u0434\u0438\u044f"
+        },
+        {
+          "name": "\u043f\u0440\u0438\u043a\u043b\u044e\u0447\u0435\u043d\u0438\u044f"
+        },
+        {
+          "name": "\u0444\u0430\u043d\u0442\u0430\u0441\u0442\u0438\u043a\u0430"
+        }
+      ],
+      "countries": [
+        {
+          "name": "\u0421\u0428\u0410"
+        }
+      ],
+      "alternativeName": "Shang-Chi and the Legend of the Ten Rings",
+      "enName": null,
+      "names": [
+        {
+          "name": "\u0428\u0430\u043d-\u0427\u0438 \u0438 \u043b\u0435\u0433\u0435\u043d\u0434\u0430 \u0434\u0435\u0441\u044f\u0442\u0438 \u043a\u043e\u043b\u0435\u0446"
+        },
+        {
+          "name": "Shang-Chi and the Legend of the Ten Rings"
+        },
+        {
+          "name": "\u5c1a\u6c14\u4e0e\u5341\u6212\u4f20\u5947",
+          "language": "CN",
+          "type": "Mandarin title"
+        },
+        {
+          "name": "\u0428\u0430\u043d\u0491 \u0427\u0456 \u0442\u0430 \u041b\u0435\u0433\u0435\u043d\u0434\u0430 \u0414\u0435\u0441\u044f\u0442\u0438 \u041a\u0456\u043b\u0435\u0446\u044c",
+          "language": "UA",
+          "type": null
+        },
+        {
+          "name": "Shang Chi y la leyenda de los diez anillos",
+          "language": "AR",
+          "type": null
+        },
+        {
+          "name": "\u0634\u0627\u0646\u063a-\u0686\u064a \u0648\u0623\u0633\u0637\u0648\u0631\u0629 \u0627\u0644\u062d\u0644\u0642\u0627\u062a \u0627\u0644\u0639\u0634\u0631",
+          "language": "IQ",
+          "type": null
+        },
+        {
+          "name": "Shang-Chi at ang Alamat ng Sampung Singsing",
+          "language": "PH",
+          "type": null
+        },
+        {
+          "name": "\u0634\u0627\u0646\u062c \u0634\u064a \u0648\u0623\u0633\u0637\u0648\u0631\u0629 \u0627\u0644\u062e\u0648\u0627\u062a\u0645 \u0627\u0644\u0639\u0634\u0631\u0629",
+          "language": "EG",
+          "type": null
+        },
+        {
+          "name": "Shang-Chi ja K\u00fcmne R\u00f5nga legend",
+          "language": "EE",
+          "type": null
+        },
+        {
+          "name": "Shang-Chi \u00e9s a T\u00edz Gy\u0171r\u0171 legend\u00e1ja",
+          "language": "HU",
+          "type": null
+        },
+        {
+          "name": "\u0936\u093e\u0902\u0917-\u091a\u0940 \u090f\u0902\u0921 \u0926 \u0932\u0940\u091c\u0947\u0902\u0921 \u0911\u092b \u0926 \u091f\u0947\u0928 \u0930\u093f\u0902\u0917\u094d\u0938",
+          "language": "IN",
+          "type": "Hindi title"
+        },
+        {
+          "name": "Shang-Chi e la leggenda dei Dieci Anelli",
+          "language": "IT",
+          "type": null
+        },
+        {
+          "name": "\u0634\u0627\u0646\u063a-\u0634\u064a: \u0630\u0627 \u0644\u064a\u062c\u064a\u0646\u062f \u0627\u0648\u0641 \u0630\u0627 10 \u0631\u064a\u0646\u0642\u0632",
+          "language": "SA",
+          "type": null
+        },
+        {
+          "name": "\u0160eng-\u010ci i legenda o deset prstenova",
+          "language": "RS",
+          "type": null
+        },
+        {
+          "name": "Shang-Chi E La Leggenda Dei Dieci Anelli",
+          "language": "CH",
+          "type": null
+        },
+        {
+          "name": "Shan-Chi va o'n uzuk afsonasi",
+          "language": "UZ",
+          "type": null
+        },
+        {
+          "name": "Steamboat",
+          "language": "US",
+          "type": "working title"
+        },
+        {
+          "name": "\u5c1a\u6c23\u8207\u5341\u74b0\u5e6b\u50b3\u5947",
+          "language": "HK",
+          "type": null
+        },
+        {
+          "name": "\u4e0a\u6c14",
+          "language": "CN",
+          "type": null
+        },
+        {
+          "name": "\u5c1a\u6c14",
+          "language": "CN",
+          "type": null
+        },
+        {
+          "name": "\u5c1a\u6c14\u4e0e\u5341\u6307\u73af\u4f20\u5947",
+          "language": "CN",
+          "type": null
+        },
+        {
+          "name": "\u4e0a\u6c14\u4e0e\u5341\u6212\u4f20\u5947",
+          "language": "CN",
+          "type": null
+        },
+        {
+          "name": "\u4e0a\u6c14\uff1a\u5341\u6212\u4f20\u5947",
+          "language": "CN",
+          "type": null
+        },
+        {
+          "name": "\u4e0a\u6c14\u4e0e\u5341\u8beb\u4f20\u8bf4",
+          "language": "CN",
+          "type": null
+        },
+        {
+          "name": "\u0e0a\u0e32\u0e07-\u0e0a\u0e35 \u0e01\u0e31\u0e1a\u0e15\u0e33\u0e19\u0e32\u0e19\u0e25\u0e31\u0e1a\u0e40\u0e17\u0e47\u0e19\u0e23\u0e34\u0e07\u0e2a\u0e4c",
+          "language": "TH",
+          "type": null
+        },
+        {
+          "name": "\u5c1a\u6c23\u8207\u5341\u74b0\u50b3\u5947",
+          "language": "TW",
+          "type": null
+        },
+        {
+          "name": "Shang-Chi i legenda dziesi\u0119ciu pier\u015bcieni",
+          "language": "PL",
+          "type": null
+        },
+        {
+          "name": "Shang-Chi i legenda dziesi\u0119ciu pier\u015bcieni - Shang-Chi and the Legend of the Ten Rings",
+          "language": "PL",
+          "type": null
+        },
+        {
+          "name": "Marvel - Shang-Chi et la L\u00e9gende des Dix Anneaux",
+          "language": "FR",
+          "type": null
+        },
+        {
+          "name": "Shang-Chi: Shang-Chi v\u00e0 Huy\u1ec1n Tho\u1ea1i Th\u1eadp Lu\u00e2n",
+          "language": "VN",
+          "type": null
+        },
+        {
+          "name": "\uc0f9\uce58\uc640 \ud150 \ub9c1\uc988\uc758 \uc804\uc124",
+          "language": "KR",
+          "type": null
+        },
+        {
+          "name": "\u05e9\u05d0\u05e0\u05d2-\u05e6'\u05d9: \u05d5\u05d0\u05d2\u05d3\u05ea 10 \u05d4\u05d8\u05d1\u05e2\u05d5\u05ea",
+          "language": "IL",
+          "type": null
+        }
+      ],
+      "shortDescription": "\u0428\u0430\u043d-\u0427\u0438 \u0432\u043e\u0437\u0432\u0440\u0430\u0449\u0430\u0435\u0442\u0441\u044f \u043d\u0430 \u0440\u043e\u0434\u0438\u043d\u0443, \u0447\u0442\u043e\u0431\u044b \u0438\u0441\u0442\u0440\u0435\u0431\u0438\u0442\u044c \u041e\u0431\u0438\u0442\u0430\u0442\u0435\u043b\u044f \u0422\u044c\u043c\u044b. \u041f\u0435\u0440\u0432\u044b\u0439 \u0444\u0438\u043b\u044c\u043c Marvel \u043e\u0431 \u0430\u0437\u0438\u0430\u0442\u0441\u043a\u043e\u043c \u0441\u0443\u043f\u0435\u0440\u0433\u0435\u0440\u043e\u0435",
+      "logo": {
+        "url": "https://avatars.mds.yandex.net/get-ott/1534341/2a0000017fcecc71ffb6dafe4ac4b6f759ed/orig"
+      },
+      "watchability": {
+        "items": [
+          {
+            "name": "24\u0422\u0412",
+            "logo": {
+              "url": "https://avatars.mds.yandex.net/get-ott/2439731/85e83b8d-1159-4781-bad5-ce0a809b3843/orig"
+            },
+            "url": "https://24h.tv/contents/2021-shang-chi-and-the-legend-o-672299781583959980"
+          }
+        ]
+      }
+    },
+    {
+      "id": 195524,
+      "type": "movie",
+      "externalId": {
+        "kpHD": "494e472b9f745b1aa4405b86da653b6c",
+        "imdb": "tt0480249",
+        "tmdb": 6479
+      },
+      "name": "\u042f \u2014 \u043b\u0435\u0433\u0435\u043d\u0434\u0430",
+      "rating": {
+        "kp": 7.865,
+        "imdb": 7.2,
+        "filmCritics": 6.3,
+        "russianFilmCritics": 71.4286,
+        "await": null
+      },
+      "description": "\u041d\u0435\u0438\u0437\u0432\u0435\u0441\u0442\u043d\u044b\u0439 \u0432\u0438\u0440\u0443\u0441 \u0443\u043d\u0451\u0441 \u0436\u0438\u0437\u043d\u0438 \u043f\u043e\u043b\u043e\u0432\u0438\u043d\u044b \u043d\u0430\u0441\u0435\u043b\u0435\u043d\u0438\u044f \u0437\u0435\u043c\u043d\u043e\u0433\u043e \u0448\u0430\u0440\u0430, \u0430 \u043e\u0441\u0442\u0430\u043b\u044c\u043d\u0443\u044e \u043f\u043e\u043b\u043e\u0432\u0438\u043d\u0443 \u043f\u0440\u0435\u0432\u0440\u0430\u0442\u0438\u043b \u0432 \u0432\u0430\u043c\u043f\u0438\u0440\u043e\u0432. \u0415\u0434\u0438\u043d\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0439 \u0443\u0446\u0435\u043b\u0435\u0432\u0448\u0438\u0439 \u0447\u0435\u043b\u043e\u0432\u0435\u043a \u0441 \u0438\u043c\u043c\u0443\u043d\u0438\u0442\u0435\u0442\u043e\u043c \u043a \u0437\u0430\u0431\u043e\u043b\u0435\u0432\u0430\u043d\u0438\u044e \u043d\u043e\u0447\u0430\u043c\u0438 \u0434\u0435\u0440\u0436\u0438\u0442 \u043e\u0441\u0430\u0434\u0443 \u0443\u043f\u044b\u0440\u0435\u0439, \u0430 \u0434\u043d\u0435\u043c \u043f\u044b\u0442\u0430\u0435\u0442\u0441\u044f \u043d\u0430\u0439\u0442\u0438 \u043f\u0440\u043e\u0442\u0438\u0432\u043e\u044f\u0434\u0438\u0435 \u0438 \u0434\u043e\u043a\u043e\u043f\u0430\u0442\u044c\u0441\u044f \u0434\u043e \u043f\u0440\u0438\u0447\u0438\u043d \u044d\u043f\u0438\u0434\u0435\u043c\u0438\u0438.",
+      "votes": {
+        "kp": 460112,
+        "imdb": 777138,
+        "filmCritics": 216,
+        "russianFilmCritics": 7,
+        "await": 0
+      },
+      "year": 2007,
+      "poster": {
+        "url": "https://st.kp.yandex.net/images/film_big/195524.jpg",
+        "previewUrl": "https://st.kp.yandex.net/images/film_iphone/iphone360_195524.jpg"
+      },
+      "genres": [
+        {
+          "name": "\u0443\u0436\u0430\u0441\u044b"
+        },
+        {
+          "name": "\u0444\u0430\u043d\u0442\u0430\u0441\u0442\u0438\u043a\u0430"
+        },
+        {
+          "name": "\u0431\u043e\u0435\u0432\u0438\u043a"
+        },
+        {
+          "name": "\u0442\u0440\u0438\u043b\u043b\u0435\u0440"
+        },
+        {
+          "name": "\u0434\u0440\u0430\u043c\u0430"
+        }
+      ],
+      "countries": [
+        {
+          "name": "\u0421\u0428\u0410"
+        }
+      ],
+      "alternativeName": "I Am Legend",
+      "enName": null,
+      "movieLength": 96,
+      "names": [
+        {
+          "name": "\u042f \u2014 \u043b\u0435\u0433\u0435\u043d\u0434\u0430"
+        },
+        {
+          "name": "I Am Legend"
+        }
+      ],
+      "shortDescription": "\u0420\u043e\u0431\u0435\u0440\u0442 \u0438 \u0435\u0433\u043e \u0441\u043e\u0431\u0430\u043a\u0430 \u2014 \u043f\u043e\u0441\u043b\u0435\u0434\u043d\u0438\u0435 \u0432\u044b\u0436\u0438\u0432\u0448\u0438\u0435 \u0432 \u041d\u044c\u044e-\u0419\u043e\u0440\u043a\u0435, \u043d\u0430\u0441\u0435\u043b\u0435\u043d\u043d\u043e\u043c \u0445\u0438\u0449\u043d\u044b\u043c\u0438 \u043c\u0443\u0442\u0430\u043d\u0442\u0430\u043c\u0438. \u0411\u043b\u043e\u043a\u0431\u0430\u0441\u0442\u0435\u0440 \u0441 \u0423\u0438\u043b\u043b\u043e\u043c \u0421\u043c\u0438\u0442\u043e\u043c",
+      "logo": {
+        "url": "https://avatars.mds.yandex.net/get-ott/1672343/2a000001732e3d616c3fb7b66e1546644f4d/orig"
+      },
+      "watchability": {
+        "items": null
+      }
+    },
+    {
+      "externalId": {
+        "kpHD": "490d0db81856de5cab659f678081db27",
+        "imdb": "tt0103064",
+        "tmdb": 280
+      },
+      "rating": {
+        "kp": 8.339,
+        "imdb": 8.6,
+        "filmCritics": 8.5,
+        "russianFilmCritics": 100,
+        "await": null
+      },
+      "votes": {
+        "kp": 451951,
+        "imdb": 1119152,
+        "filmCritics": 84,
+        "russianFilmCritics": 6,
+        "await": 0
+      },
+      "movieLength": 137,
+      "id": 444,
+      "type": "movie",
+      "name": "\u0422\u0435\u0440\u043c\u0438\u043d\u0430\u0442\u043e\u0440 2: \u0421\u0443\u0434\u043d\u044b\u0439 \u0434\u0435\u043d\u044c",
+      "description": "\u041f\u0440\u043e\u0448\u043b\u043e \u0431\u043e\u043b\u0435\u0435 \u0434\u0435\u0441\u044f\u0442\u0438 \u043b\u0435\u0442 \u0441 \u0442\u0435\u0445 \u043f\u043e\u0440, \u043a\u0430\u043a \u043a\u0438\u0431\u043e\u0440\u0433 \u0438\u0437 2029 \u0433\u043e\u0434\u0430 \u043f\u044b\u0442\u0430\u043b\u0441\u044f \u0443\u043d\u0438\u0447\u0442\u043e\u0436\u0438\u0442\u044c \u0421\u0430\u0440\u0443 \u041a\u043e\u043d\u043d\u043e\u0440 \u2014 \u0436\u0435\u043d\u0449\u0438\u043d\u0443, \u0447\u0435\u0439 \u0431\u0443\u0434\u0443\u0449\u0438\u0439 \u0441\u044b\u043d \u0432\u044b\u0438\u0433\u0440\u0430\u0435\u0442 \u0432\u043e\u0439\u043d\u0443 \u0447\u0435\u043b\u043e\u0432\u0435\u0447\u0435\u0441\u0442\u0432\u0430 \u043f\u0440\u043e\u0442\u0438\u0432 \u043c\u0430\u0448\u0438\u043d.\n\n\u0422\u0435\u043f\u0435\u0440\u044c \u0443 \u0421\u0430\u0440\u044b \u0440\u043e\u0434\u0438\u043b\u0441\u044f \u0441\u044b\u043d \u0414\u0436\u043e\u043d \u0438 \u0432\u0440\u0435\u043c\u044f, \u043a\u043e\u0433\u0434\u0430 \u043e\u043d \u043f\u043e\u0432\u0435\u0434\u0451\u0442 \u0437\u0430 \u0441\u043e\u0431\u043e\u0439 \u0432\u044b\u0436\u0438\u0432\u0448\u0438\u0445 \u043b\u044e\u0434\u0435\u0439 \u043d\u0430 \u0431\u043e\u0440\u044c\u0431\u0443 \u0441 \u043c\u0430\u0448\u0438\u043d\u0430\u043c\u0438, \u043d\u0435\u0443\u043c\u043e\u043b\u0438\u043c\u043e \u043f\u0440\u0438\u0431\u043b\u0438\u0436\u0430\u0435\u0442\u0441\u044f. \u0418\u043c\u0435\u043d\u043d\u043e \u0432 \u044d\u0442\u043e\u0442 \u043c\u043e\u043c\u0435\u043d\u0442 \u0438\u0437 \u043f\u043e\u0441\u0442\u0430\u043f\u043e\u043a\u0430\u043b\u0438\u043f\u0442\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u0431\u0443\u0434\u0443\u0449\u0435\u0433\u043e \u043f\u0440\u0438\u0431\u044b\u0432\u0430\u0435\u0442 \u043d\u043e\u0432\u044b\u0439 \u0442\u0435\u0440\u043c\u0438\u043d\u0430\u0442\u043e\u0440 \u2014 \u043f\u0440\u0430\u043a\u0442\u0438\u0447\u0435\u0441\u043a\u0438 \u043d\u0435\u0443\u044f\u0437\u0432\u0438\u043c\u0430\u044f \u043c\u043e\u0434\u0435\u043b\u044c T-1000, \u0441\u043f\u043e\u0441\u043e\u0431\u043d\u0430\u044f \u043f\u0440\u0438\u043d\u0438\u043c\u0430\u0442\u044c \u043b\u044e\u0431\u043e\u0435 \u043e\u0431\u043b\u0438\u0447\u044c\u0435. \u0426\u0435\u043b\u044c \u043d\u043e\u0432\u043e\u0433\u043e \u0442\u0435\u0440\u043c\u0438\u043d\u0430\u0442\u043e\u0440\u0430 \u0443\u0436\u0435 \u043d\u0435 \u0421\u0430\u0440\u0430, \u0430 \u0443\u043d\u0438\u0447\u0442\u043e\u0436\u0435\u043d\u0438\u0435 \u043c\u043e\u043b\u043e\u0434\u043e\u0433\u043e \u0414\u0436\u043e\u043d\u0430 \u041a\u043e\u043d\u043d\u043e\u0440\u0430.\n\n\u041e\u0434\u043d\u0430\u043a\u043e \u0448\u0430\u043d\u0441\u044b \u0414\u0436\u043e\u043d\u0430 \u043d\u0430 \u0441\u043f\u0430\u0441\u0435\u043d\u0438\u0435 \u0441\u0443\u0449\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u043e \u043f\u043e\u0432\u044b\u0448\u0430\u044e\u0442\u0441\u044f, \u043a\u043e\u0433\u0434\u0430 \u043d\u0430 \u043f\u043e\u043c\u043e\u0449\u044c \u043f\u0440\u0438\u0445\u043e\u0434\u0438\u0442 \u043f\u0435\u0440\u0435\u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u044b\u0439 \u0441\u043e\u043f\u0440\u043e\u0442\u0438\u0432\u043b\u0435\u043d\u0438\u0435\u043c \u0442\u0435\u0440\u043c\u0438\u043d\u0430\u0442\u043e\u0440 \u043f\u0440\u0435\u0434\u044b\u0434\u0443\u0449\u0435\u0433\u043e \u043f\u043e\u043a\u043e\u043b\u0435\u043d\u0438\u044f. \u041e\u0431\u0430 \u043a\u0438\u0431\u043e\u0440\u0433\u0430 \u0432\u0441\u0442\u0443\u043f\u0430\u044e\u0442 \u0432 \u0441\u043c\u0435\u0440\u0442\u0435\u043b\u044c\u043d\u044b\u0439 \u0431\u043e\u0439, \u043e\u0442 \u0438\u0441\u0445\u043e\u0434\u0430 \u043a\u043e\u0442\u043e\u0440\u043e\u0433\u043e \u0437\u0430\u0432\u0438\u0441\u0438\u0442 \u0441\u0443\u0434\u044c\u0431\u0430 \u0447\u0435\u043b\u043e\u0432\u0435\u0447\u0435\u0441\u0442\u0432\u0430.",
+      "year": 1991,
+      "poster": {
+        "url": "https://st.kp.yandex.net/images/film_big/444.jpg",
+        "previewUrl": "https://st.kp.yandex.net/images/film_iphone/iphone360_444.jpg"
+      },
+      "genres": [
+        {
+          "name": "\u0444\u0430\u043d\u0442\u0430\u0441\u0442\u0438\u043a\u0430"
+        },
+        {
+          "name": "\u0431\u043e\u0435\u0432\u0438\u043a"
+        },
+        {
+          "name": "\u0442\u0440\u0438\u043b\u043b\u0435\u0440"
+        }
+      ],
+      "countries": [
+        {
+          "name": "\u0421\u0428\u0410"
+        }
+      ],
+      "alternativeName": "Terminator 2: Judgment Day",
+      "enName": null,
+      "names": [
+        {
+          "name": "\u0422\u0435\u0440\u043c\u0438\u043d\u0430\u0442\u043e\u0440 2: \u0421\u0443\u0434\u043d\u044b\u0439 \u0434\u0435\u043d\u044c"
+        },
+        {
+          "name": "Terminator 2: Judgment Day"
+        },
+        {
+          "name": "\u672a\u4f86\u6230\u58eb\u7e8c\u96c6",
+          "language": "HK",
+          "type": null
+        },
+        {
+          "name": "T2",
+          "language": "US",
+          "type": "promotional abbreviation"
+        },
+        {
+          "name": "Terminator 2: Judgement Day",
+          "language": "GB",
+          "type": null
+        },
+        {
+          "name": "Terminator 2 - Il giorno del giudizio - Director's Cut",
+          "language": "IT",
+          "type": "Director's Cut"
+        },
+        {
+          "name": "Tort\u00edmandinn: D\u00f3msdagur",
+          "language": "IS",
+          "type": null
+        },
+        {
+          "name": "Terminaator 2: Kohtup\u00e4ev",
+          "language": "EE",
+          "type": null
+        },
+        {
+          "name": "Terminatorius 2: paskutinio teismo diena",
+          "language": "LT",
+          "type": null
+        },
+        {
+          "name": "Ke Huy Diet 2: Ngay Phan Xet",
+          "language": "VN",
+          "type": null
+        },
+        {
+          "name": "Terminator 2 - Sodni dan",
+          "language": "SI",
+          "type": null
+        },
+        {
+          "name": "\u7ec8\u7ed3\u80052",
+          "language": "CN",
+          "type": null
+        },
+        {
+          "name": "Terminator 2",
+          "language": "US",
+          "type": null
+        },
+        {
+          "name": "Terminator 2 - Judgement Day  (Directors Cut)",
+          "language": "GB",
+          "type": "Blu-Ray - Directors Cut"
+        },
+        {
+          "name": "Terminator 2 - Judgement Day  (Skynet Edition)",
+          "language": "GB",
+          "type": "Blu-Ray - Skynet Edition"
+        },
+        {
+          "name": "Terminator  2 Judgment Day",
+          "language": "US",
+          "type": null
+        },
+        {
+          "name": "Terminator 2 - Judgement Day",
+          "language": "GB",
+          "type": "Blu-Ray - Theatrical Release  Edition"
+        },
+        {
+          "name": "\u0422\u0435\u0440\u043c\u0438\u043d\u0430\u0442\u043e\u0440 2 \u0421\u0443\u0434\u043d\u044b\u0439 \u0434\u0435\u043d\u044c",
+          "language": "RU",
+          "type": null
+        },
+        {
+          "name": "Terminator 2",
+          "language": "ES",
+          "type": null
+        },
+        {
+          "name": "Terminator 2 - Judgment Day (Special Edition)",
+          "language": "US",
+          "type": null
+        },
+        {
+          "name": "Terminator 2: Dzie\u0144 S\u0105du",
+          "language": "PL",
+          "type": null
+        },
+        {
+          "name": "Terminator 2 - Le Jugement Dernier",
+          "language": "FR",
+          "type": null
+        },
+        {
+          "name": "O Exterminador do Futuro 2 - O Dia do Julgamento",
+          "language": "BR",
+          "type": null
+        },
+        {
+          "name": "Terminator 2: Judgment Day 3D",
+          "language": "US",
+          "type": "3D version"
+        },
+        {
+          "name": "Terminator 2\u0589 Judgment Day 3D",
+          "language": "US",
+          "type": "3D version"
+        },
+        {
+          "name": "Terminator 2\u0589 Judgment Day",
+          "language": "US",
+          "type": null
+        },
+        {
+          "name": "\u0e40\u0e17\u0e2d\u0e23\u0e4c\u0e21\u0e34\u0e40\u0e19\u0e40\u0e15\u0e2d\u0e23\u0e4c 2 : \u0e27\u0e31\u0e19\u0e1e\u0e34\u0e1e\u0e32\u0e01\u0e29\u0e32",
+          "language": "TH",
+          "type": null
+        },
+        {
+          "name": "\u0422\u0435\u0440\u043c\u0438\u043d\u0430\u0442\u043e\u0440 2. \u0421\u0443\u0434\u043d\u044b\u0439 \u0434\u0435\u043d\u044c",
+          "language": "RU",
+          "type": null
+        },
+        {
+          "name": "Terminator 2 - Dommens dag",
+          "language": "NO",
+          "type": null
+        },
+        {
+          "name": "Terminator II: Judgment Day",
+          "language": "US",
+          "type": "Alternative Title"
+        }
+      ],
+      "shortDescription": "\u041f\u0435\u0440\u0435\u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u044b\u0439 \u0440\u043e\u0431\u043e\u0442 \u0434\u043e\u043b\u0436\u0435\u043d \u0437\u0430\u0449\u0438\u0442\u0438\u0442\u044c \u043c\u0430\u043b\u0435\u043d\u044c\u043a\u043e\u0433\u043e \u0414\u0436\u043e\u043d\u0430 \u041a\u043e\u043d\u043d\u043e\u0440\u0430. \u0421\u0430\u043c\u044b\u0439 \u0434\u043e\u0440\u043e\u0433\u043e\u0439 \u0431\u043b\u043e\u043a\u0431\u0430\u0441\u0442\u0435\u0440 \u0441\u0432\u043e\u0435\u0433\u043e \u0432\u0440\u0435\u043c\u0435\u043d\u0438",
+      "logo": {
+        "url": "https://avatars.mds.yandex.net/get-ott/2419418/2a00000171792bde9b5f45a69b0268a9d453/orig"
+      },
+      "watchability": {
+        "items": [
+          {
+            "name": "Okko",
+            "logo": {
+              "url": "https://avatars.mds.yandex.net/get-ott/239697/7713e586-17d1-42d1-ac62-53e9ef1e70c3/orig"
+            },
+            "url": "https://okko.tv/movie/terminator-2-judgment-day?utm_medium=referral&utm_source=yandex_search&utm_campaign=new_search_feed"
+          },
+          {
+            "name": "PREMIER",
+            "logo": {
+              "url": "https://avatars.mds.yandex.net/get-ott/239697/0f86e907-9531-47e9-87bd-5101a08d4e30/orig"
+            },
+            "url": "https://premier.one/show/19600?utm_source=yandex&utm_medium=yandex_feed_search&utm_campaign=yandex_feed"
+          },
+          {
+            "name": "Wink",
+            "logo": {
+              "url": "https://avatars.mds.yandex.net/get-ott/1672343/54096cbe-cc3b-41c9-8e44-990ebbca8d61/orig"
+            },
+            "url": "https://wink.ru/media_items/72209389?utm_source=yandex&utm_medium=koldunschick&utm_content=name"
+          },
+          {
+            "name": "24\u0422\u0412",
+            "logo": {
+              "url": "https://avatars.mds.yandex.net/get-ott/2439731/85e83b8d-1159-4781-bad5-ce0a809b3843/orig"
+            },
+            "url": "https://24h.tv/contents/1991-terminator-2-judgment-day-546316173113820123"
+          }
+        ]
+      }
+    },
+    {
+      "externalId": {
+        "kpHD": null,
+        "imdb": "tt4574334",
+        "tmdb": 66732
+      },
+      "rating": {
+        "kp": 8.381,
+        "imdb": 8.7,
+        "filmCritics": 0,
+        "russianFilmCritics": 95,
+        "await": null
+      },
+      "votes": {
+        "kp": 450480,
+        "imdb": 1236816,
+        "filmCritics": 0,
+        "russianFilmCritics": 20,
+        "await": 664
+      },
+      "id": 915196,
+      "type": "tv-series",
+      "name": "\u041e\u0447\u0435\u043d\u044c \u0441\u0442\u0440\u0430\u043d\u043d\u044b\u0435 \u0434\u0435\u043b\u0430",
+      "description": "1980-\u0435 \u0433\u043e\u0434\u044b, \u0442\u0438\u0445\u0438\u0439 \u043f\u0440\u043e\u0432\u0438\u043d\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0439 \u0430\u043c\u0435\u0440\u0438\u043a\u0430\u043d\u0441\u043a\u0438\u0439 \u0433\u043e\u0440\u043e\u0434\u043e\u043a. \u0411\u043b\u0430\u0433\u043e\u043f\u0440\u0438\u044f\u0442\u043d\u043e\u0435 \u0442\u0435\u0447\u0435\u043d\u0438\u0435 \u043c\u0435\u0441\u0442\u043d\u043e\u0439 \u0436\u0438\u0437\u043d\u0438 \u043d\u0430\u0440\u0443\u0448\u0430\u0435\u0442 \u0437\u0430\u0433\u0430\u0434\u043e\u0447\u043d\u043e\u0435 \u0438\u0441\u0447\u0435\u0437\u043d\u043e\u0432\u0435\u043d\u0438\u0435 \u043f\u043e\u0434\u0440\u043e\u0441\u0442\u043a\u0430 \u043f\u043e \u0438\u043c\u0435\u043d\u0438 \u0423\u0438\u043b\u043b. \u0412\u044b\u044f\u0441\u043d\u0438\u0442\u044c \u043e\u0431\u0441\u0442\u043e\u044f\u0442\u0435\u043b\u044c\u0441\u0442\u0432\u0430 \u0434\u0435\u043b\u0430 \u043f\u043e\u043b\u043d\u044b \u0440\u0435\u0448\u0438\u043c\u043e\u0441\u0442\u0438 \u0440\u043e\u0434\u043d\u044b\u0435 \u043c\u0430\u043b\u044c\u0447\u0438\u043a\u0430 \u0438 \u043c\u0435\u0441\u0442\u043d\u044b\u0439 \u0448\u0435\u0440\u0438\u0444, \u0442\u0430\u043a\u0436\u0435 \u0441\u043e\u0431\u044b\u0442\u0438\u044f \u0437\u0430\u0442\u0440\u0430\u0433\u0438\u0432\u0430\u044e\u0442 \u043b\u0443\u0447\u0448\u0435\u0433\u043e \u0434\u0440\u0443\u0433\u0430 \u0423\u0438\u043b\u043b\u0430 \u2013 \u041c\u0430\u0439\u043a\u0430. \u041e\u043d \u043d\u0430\u0447\u0438\u043d\u0430\u0435\u0442 \u0441\u043e\u0431\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0435 \u0440\u0430\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u043d\u0438\u0435. \u041c\u0430\u0439\u043a \u0443\u0432\u0435\u0440\u0435\u043d, \u0447\u0442\u043e \u0431\u043b\u0438\u0437\u043e\u043a \u043a \u0440\u0430\u0437\u0433\u0430\u0434\u043a\u0435, \u0438 \u0442\u0435\u043f\u0435\u0440\u044c \u0435\u043c\u0443 \u043f\u0440\u0435\u0434\u0441\u0442\u043e\u0438\u0442 \u043e\u043a\u0430\u0437\u0430\u0442\u044c\u0441\u044f \u0432 \u044d\u043f\u0438\u0446\u0435\u043d\u0442\u0440\u0435 \u043e\u0436\u0435\u0441\u0442\u043e\u0447\u0435\u043d\u043d\u043e\u0439 \u0431\u0438\u0442\u0432\u044b \u043f\u043e\u0442\u0443\u0441\u0442\u043e\u0440\u043e\u043d\u043d\u0438\u0445 \u0441\u0438\u043b.",
+      "year": 2016,
+      "poster": {
+        "url": "https://st.kp.yandex.net/images/film_big/915196.jpg",
+        "previewUrl": "https://st.kp.yandex.net/images/film_iphone/iphone360_915196.jpg"
+      },
+      "genres": [
+        {
+          "name": "\u0443\u0436\u0430\u0441\u044b"
+        },
+        {
+          "name": "\u0444\u0430\u043d\u0442\u0430\u0441\u0442\u0438\u043a\u0430"
+        },
+        {
+          "name": "\u0444\u044d\u043d\u0442\u0435\u0437\u0438"
+        },
+        {
+          "name": "\u0442\u0440\u0438\u043b\u043b\u0435\u0440"
+        },
+        {
+          "name": "\u0434\u0440\u0430\u043c\u0430"
+        },
+        {
+          "name": "\u0434\u0435\u0442\u0435\u043a\u0442\u0438\u0432"
+        }
+      ],
+      "countries": [
+        {
+          "name": "\u0421\u0428\u0410"
+        }
+      ],
+      "alternativeName": "Stranger Things",
+      "enName": "Stranger Things",
+      "names": [
+        {
+          "name": "\u041e\u0447\u0435\u043d\u044c \u0441\u0442\u0440\u0430\u043d\u043d\u044b\u0435 \u0434\u0435\u043b\u0430"
+        },
+        {
+          "name": "Stranger Things"
+        },
+        {
+          "name": "Bagulhos Sinistros",
+          "language": "BR",
+          "type": null
+        },
+        {
+          "name": "\u602a\u5947\u7269\u8bed",
+          "language": "CN",
+          "type": "\u5267\u60c5 / \u6050\u6016 / \u5947\u5e7b"
+        },
+        {
+          "name": "\u10e3\u10ea\u10dc\u10d0\u10e3\u10e0\u10d8 \u10e1\u10d0\u10e5\u10db\u10d4\u10d4\u10d1\u10d8",
+          "language": "GE",
+          "type": null
+        },
+        {
+          "name": "\u03a0\u03b1\u03c1\u03ac\u03be\u03b5\u03bd\u03b1 \u03a0\u03c1\u03ac\u03b3\u03bc\u03b1\u03c4\u03b1",
+          "language": "GR",
+          "type": null
+        },
+        {
+          "name": "\u0627\u062a\u0641\u0627\u0642\u0627\u062a \u0639\u062c\u06cc\u0628",
+          "language": "IR",
+          "type": null
+        },
+        {
+          "name": "\u30b9\u30c8\u30ec\u30f3\u30b8\u30e3\u30fc\u30fb\u30b7\u30f3\u30b0\u30b9",
+          "language": "JP",
+          "type": null
+        },
+        {
+          "name": "\uae30\ubb18\ud55c \uc774\uc57c\uae30",
+          "language": "KR",
+          "type": null
+        },
+        {
+          "name": "\u0427\u0443\u0434\u043d\u0438 \u041d\u0435\u0448\u0442\u0430",
+          "language": "MK",
+          "type": null
+        },
+        {
+          "name": "\u0421\u0442\u0440\u0430\u043d\u043d\u044b\u0435 \u0432\u0435\u0449\u0438",
+          "language": "RU",
+          "type": null
+        },
+        {
+          "name": "\u041a\u0440\u0430\u0439\u043d\u0435 \u0441\u0442\u0440\u0430\u043d\u043d\u044b\u0435 \u0441\u043e\u0431\u044b\u0442\u0438\u044f",
+          "language": "RU",
+          "type": null
+        },
+        {
+          "name": "\u0417\u0430\u0433\u0430\u0434\u043e\u0447\u043d\u044b\u0435 \u0441\u043e\u0431\u044b\u0442\u0438\u044f",
+          "language": "RU",
+          "type": null
+        },
+        {
+          "name": "Zvl\u00e1\u0161tne veci",
+          "language": "SK",
+          "type": null
+        },
+        {
+          "name": "Tuhaf \u015eeyler",
+          "language": "TR",
+          "type": null
+        },
+        {
+          "name": "\u0417\u0430\u0433\u0430\u0434\u043a\u043e\u0432\u0456 \u0441\u043f\u0440\u0430\u0432\u0438",
+          "language": "UA",
+          "type": null
+        },
+        {
+          "name": "\u0414\u0438\u0432\u043d\u0456 \u0434\u0438\u0432\u0430 2",
+          "language": "UA",
+          "type": "season 2 title"
+        },
+        {
+          "name": "\u0414\u0438\u0432\u043d\u0456 \u0434\u0438\u0432\u0430 3",
+          "language": "UA",
+          "type": "season 3 title"
+        }
+      ],
+      "movieLength": null,
+      "shortDescription": null,
+      "logo": {
+        "url": null
+      },
+      "watchability": {
+        "items": null
+      },
+      "releaseYears": [
+        {
+          "start": 2016,
+          "end": 2024
+        }
+      ]
+    },
+    {
+      "externalId": {
+        "kpHD": "4da3da52b65c9a54a61ba2d699c81bbc",
+        "imdb": "tt0319262",
+        "tmdb": 435
+      },
+      "rating": {
+        "kp": 7.677,
+        "imdb": 6.4,
+        "filmCritics": 5.3,
+        "russianFilmCritics": 0,
+        "await": null
+      },
+      "votes": {
+        "kp": 445381,
+        "imdb": 458687,
+        "filmCritics": 219,
+        "russianFilmCritics": 0,
+        "await": 0
+      },
+      "movieLength": 124,
+      "id": 2053,
+      "type": "movie",
+      "name": "\u041f\u043e\u0441\u043b\u0435\u0437\u0430\u0432\u0442\u0440\u0430",
+      "description": "\u0417\u0435\u043c\u043b\u044f \u0443\u0432\u0435\u0440\u0435\u043d\u043d\u043e \u0434\u0432\u0438\u0436\u0435\u0442\u0441\u044f \u043d\u0430\u0432\u0441\u0442\u0440\u0435\u0447\u0443 \u0433\u043b\u043e\u0431\u0430\u043b\u044c\u043d\u043e\u0439 \u044d\u043a\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u043e\u0439 \u043a\u0430\u0442\u0430\u0441\u0442\u0440\u043e\u0444\u0435: \u0432 \u043e\u0434\u043d\u043e\u0439 \u0447\u0430\u0441\u0442\u0438 \u0441\u0432\u0435\u0442\u0430 \u0432\u0441\u0435 \u0436\u0438\u0432\u043e\u0435 \u043f\u043e\u0433\u0438\u0431\u0430\u0435\u0442 \u043e\u0442 \u0437\u0430\u0441\u0443\u0445\u0438, \u0432 \u0434\u0440\u0443\u0433\u043e\u0439 - \u0440\u0430\u0437\u0431\u0443\u0448\u0435\u0432\u0430\u0432\u0448\u0430\u044f\u0441\u044f \u0432\u043e\u0434\u043d\u0430\u044f \u0441\u0442\u0438\u0445\u0438\u044f \u0441\u043d\u043e\u0441\u0438\u0442 \u0433\u043e\u0440\u043e\u0434\u0430.\n\n\u0411\u043b\u0438\u0437\u043e\u0441\u0442\u044c \u043a\u0430\u0442\u0430\u0441\u0442\u0440\u043e\u0444\u044b \u0432\u044b\u043d\u0443\u0436\u0434\u0430\u0435\u0442 \u0443\u0447\u0435\u043d\u043e\u0433\u043e-\u043a\u043b\u0438\u043c\u0430\u0442\u043e\u043b\u043e\u0433\u0430, \u043f\u044b\u0442\u0430\u044e\u0449\u0435\u0433\u043e\u0441\u044f \u043d\u0430\u0439\u0442\u0438 \u0441\u043f\u043e\u0441\u043e\u0431 \u043e\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u044c \u0433\u043b\u043e\u0431\u0430\u043b\u044c\u043d\u043e\u0435 \u043f\u043e\u0442\u0435\u043f\u043b\u0435\u043d\u0438\u0435, \u043e\u0442\u043f\u0440\u0430\u0432\u0438\u0442\u044c\u0441\u044f \u043d\u0430 \u043f\u043e\u0438\u0441\u043a\u0438 \u043f\u0440\u043e\u043f\u0430\u0432\u0448\u0435\u0433\u043e \u0441\u044b\u043d\u0430 \u0432 \u041d\u044c\u044e-\u0419\u043e\u0440\u043a, \u0432 \u043a\u043e\u0442\u043e\u0440\u043e\u043c \u043d\u0430\u0441\u0442\u0443\u043f\u0438\u043b \u043d\u043e\u0432\u044b\u0439 \u043b\u0435\u0434\u043d\u0438\u043a\u043e\u0432\u044b\u0439 \u043f\u0435\u0440\u0438\u043e\u0434\u2026",
+      "year": 2004,
+      "poster": {
+        "url": "https://st.kp.yandex.net/images/film_big/2053.jpg",
+        "previewUrl": "https://st.kp.yandex.net/images/film_iphone/iphone360_2053.jpg"
+      },
+      "genres": [
+        {
+          "name": "\u0444\u0430\u043d\u0442\u0430\u0441\u0442\u0438\u043a\u0430"
+        },
+        {
+          "name": "\u0442\u0440\u0438\u043b\u043b\u0435\u0440"
+        },
+        {
+          "name": "\u0434\u0440\u0430\u043c\u0430"
+        },
+        {
+          "name": "\u043f\u0440\u0438\u043a\u043b\u044e\u0447\u0435\u043d\u0438\u044f"
+        }
+      ],
+      "countries": [
+        {
+          "name": "\u0421\u0428\u0410"
+        }
+      ],
+      "alternativeName": "The Day After Tomorrow",
+      "enName": null,
+      "names": [
+        {
+          "name": "\u041f\u043e\u0441\u043b\u0435\u0437\u0430\u0432\u0442\u0440\u0430"
+        },
+        {
+          "name": "The Day After Tomorrow"
+        }
+      ],
+      "shortDescription": "\u0418\u0437-\u0437\u0430 \u0442\u0430\u044f\u043d\u0438\u044f \u043b\u0435\u0434\u043d\u0438\u043a\u043e\u0432 \u043d\u0430 \u0417\u0435\u043c\u043b\u0435 \u043d\u0430\u0447\u0438\u043d\u0430\u0435\u0442\u0441\u044f \u0445\u0430\u043e\u0441. \u0413\u0440\u0430\u043d\u0434\u0438\u043e\u0437\u043d\u044b\u0439 \u0444\u0438\u043b\u044c\u043c-\u043a\u0430\u0442\u0430\u0441\u0442\u0440\u043e\u0444\u0430 \u043e \u0433\u043b\u043e\u0431\u0430\u043b\u044c\u043d\u043e\u043c \u043f\u043e\u0442\u0435\u043f\u043b\u0435\u043d\u0438\u0438",
+      "logo": {
+        "url": "https://avatars.mds.yandex.net/get-ott/1534341/2a00000176af97af944ca1c9e72b4a0269a1/orig"
+      },
+      "watchability": {
+        "items": null
+      }
+    },
+    {
+      "id": 462762,
+      "type": "movie",
+      "externalId": {
+        "kpHD": "43399e666f3ee606bc9e55997cd41438",
+        "imdb": "tt1300854",
+        "tmdb": 68721
+      },
+      "name": "\u0416\u0435\u043b\u0435\u0437\u043d\u044b\u0439 \u0447\u0435\u043b\u043e\u0432\u0435\u043a 3",
+      "rating": {
+        "kp": 7.457,
+        "imdb": 7.1,
+        "filmCritics": 7,
+        "russianFilmCritics": 86.3636,
+        "await": null
+      },
+      "description": "\u041a\u043e\u0433\u0434\u0430 \u043c\u0438\u0440 \u0421\u0442\u0430\u0440\u043a\u0430 \u0440\u0443\u0448\u0438\u0442\u0441\u044f \u043d\u0430 \u0435\u0433\u043e \u0433\u043b\u0430\u0437\u0430\u0445 \u043f\u043e \u0432\u0438\u043d\u0435 \u043d\u0435\u0438\u0437\u0432\u0435\u0441\u0442\u043d\u044b\u0445 \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u043e\u0432, \u0422\u043e\u043d\u0438 \u0436\u0430\u0436\u0434\u0435\u0442 \u043d\u0430\u0439\u0442\u0438 \u0432\u0438\u043d\u043e\u0432\u043d\u044b\u0445 \u0438 \u0441\u0432\u0435\u0441\u0442\u0438 \u0441 \u043d\u0438\u043c\u0438 \u0441\u0447\u0435\u0442\u044b. \u041e\u043a\u0430\u0437\u0430\u0432\u0448\u0438\u0441\u044c \u0432 \u0431\u0435\u0437\u0432\u044b\u0445\u043e\u0434\u043d\u043e\u0439 \u0441\u0438\u0442\u0443\u0430\u0446\u0438\u0438, \u0421\u0442\u0430\u0440\u043a \u043c\u043e\u0436\u0435\u0442 \u0440\u0430\u0441\u0441\u0447\u0438\u0442\u044b\u0432\u0430\u0442\u044c \u0442\u043e\u043b\u044c\u043a\u043e \u043d\u0430 \u0441\u0435\u0431\u044f \u0438 \u0441\u0432\u043e\u044e \u0438\u0437\u043e\u0431\u0440\u0435\u0442\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u044c, \u0447\u0442\u043e\u0431\u044b \u0437\u0430\u0449\u0438\u0442\u0438\u0442\u044c \u0442\u0435\u0445, \u043a\u0442\u043e \u0435\u043c\u0443 \u0434\u043e\u0440\u043e\u0433. \u042d\u0442\u043e \u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u0441\u044f \u043d\u0430\u0441\u0442\u043e\u044f\u0449\u0438\u043c \u0438\u0441\u043f\u044b\u0442\u0430\u043d\u0438\u0435\u043c \u0434\u043b\u044f \u0433\u0435\u0440\u043e\u044f, \u043a\u043e\u0442\u043e\u0440\u043e\u043c\u0443 \u043f\u0440\u0438\u0434\u0435\u0442\u0441\u044f \u043d\u0435 \u0442\u043e\u043b\u044c\u043a\u043e \u0441\u0440\u0430\u0436\u0430\u0442\u044c\u0441\u044f \u0441 \u043a\u043e\u0432\u0430\u0440\u043d\u044b\u043c \u0432\u0440\u0430\u0433\u043e\u043c, \u043d\u043e \u0438 \u0440\u0430\u0437\u043e\u0431\u0440\u0430\u0442\u044c\u0441\u044f \u0432 \u0441\u0435\u0431\u0435, \u0447\u0442\u043e\u0431\u044b \u043d\u0430\u0439\u0442\u0438 \u043e\u0442\u0432\u0435\u0442 \u043d\u0430 \u0432\u043e\u043f\u0440\u043e\u0441, \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u0434\u0430\u0432\u043d\u043e \u0435\u0433\u043e \u0442\u0440\u0435\u0432\u043e\u0436\u0438\u0442: \u0447\u0442\u043e \u0432\u0430\u0436\u043d\u0435\u0435 - \u0447\u0435\u043b\u043e\u0432\u0435\u043a \u0438\u043b\u0438 \u043a\u043e\u0441\u0442\u044e\u043c?",
+      "votes": {
+        "kp": 441986,
+        "imdb": 866136,
+        "filmCritics": 331,
+        "russianFilmCritics": 22,
+        "await": 73696
+      },
+      "year": 2013,
+      "poster": {
+        "url": "https://st.kp.yandex.net/images/film_big/462762.jpg",
+        "previewUrl": "https://st.kp.yandex.net/images/film_iphone/iphone360_462762.jpg"
+      },
+      "genres": [
+        {
+          "name": "\u0444\u0430\u043d\u0442\u0430\u0441\u0442\u0438\u043a\u0430"
+        },
+        {
+          "name": "\u0431\u043e\u0435\u0432\u0438\u043a"
+        },
+        {
+          "name": "\u043f\u0440\u0438\u043a\u043b\u044e\u0447\u0435\u043d\u0438\u044f"
+        }
+      ],
+      "countries": [
+        {
+          "name": "\u0421\u0428\u0410"
+        }
+      ],
+      "alternativeName": "Iron Man Three",
+      "enName": null,
+      "movieLength": 125,
+      "names": [
+        {
+          "name": "\u0416\u0435\u043b\u0435\u0437\u043d\u044b\u0439 \u0447\u0435\u043b\u043e\u0432\u0435\u043a 3"
+        },
+        {
+          "name": "Iron Man Three"
+        },
+        {
+          "name": "Caged Heat",
+          "language": "US",
+          "type": "working title"
+        },
+        {
+          "name": "\u0417\u0430\u043bi\u0437\u043d\u0430 \u043b\u044e\u0434\u0438\u043d\u0430 3",
+          "language": "UA",
+          "type": null
+        },
+        {
+          "name": "Marvel's Iron Man 3",
+          "language": "US",
+          "type": "promotional title"
+        },
+        {
+          "name": "\u0e44\u0e2d\u0e23\u0e48\u0e2d\u0e19 \u0e41\u0e21\u0e19 3 \u0e21\u0e2b\u0e32\u0e1b\u0e23\u0e30\u0e25\u0e31\u0e22 \u0e04\u0e19\u0e40\u0e01\u0e23\u0e32\u0e30\u0e40\u0e2b\u0e25\u0e47\u0e01",
+          "language": "TH",
+          "type": null
+        },
+        {
+          "name": "Iron Man III",
+          "language": "US",
+          "type": null
+        },
+        {
+          "name": "Hombre De Hierro 3",
+          "language": "ES",
+          "type": "translated title"
+        },
+        {
+          "name": "\ub9c8\ube14 \uc544\uc774\uc5b8\ub9e8 3",
+          "language": "KR",
+          "type": null
+        },
+        {
+          "name": "\u0416e\u043b\u0435\u0437\u043d\u044b\u0439 \u0447\u0435\u043b\u043e\u0432e\u043a 3",
+          "language": "RU",
+          "type": null
+        },
+        {
+          "name": "Marvel Studios' Iron Man 3",
+          "language": "US",
+          "type": null
+        },
+        {
+          "name": "Iron Man 3 de Marvel",
+          "language": "ES",
+          "type": "promotional title"
+        },
+        {
+          "name": "\u30a2\u30a4\u30a2\u30f3\u30de\u30f33",
+          "language": "JP",
+          "type": null
+        },
+        {
+          "name": "Marvel Film 07 - Iron Man 3",
+          "language": "FR",
+          "type": null
+        }
+      ],
+      "shortDescription": "\u0422\u043e\u043d\u0438 \u0421\u0442\u0430\u0440\u043a \u0431\u043e\u0440\u0435\u0442\u0441\u044f \u0441 \u0442\u0435\u0440\u0440\u043e\u0440\u0438\u0441\u0442\u0430\u043c\u0438 \u0438 \u0432\u043d\u0443\u0442\u0440\u0435\u043d\u043d\u0438\u043c\u0438 \u0434\u0435\u043c\u043e\u043d\u0430\u043c\u0438. \u0424\u0438\u043d\u0430\u043b \u0441\u043e\u043b\u044c\u043d\u043e\u0439 \u0442\u0440\u0438\u043b\u043e\u0433\u0438\u0438 \u043e \u043c\u0438\u043b\u043b\u0438\u0430\u0440\u0434\u0435\u0440\u0435-\u0441\u0443\u043f\u0435\u0440\u0433\u0435\u0440\u043e\u0435",
+      "logo": {
+        "url": "https://avatars.mds.yandex.net/get-ott/1531675/2a00000178cbf79122de28bd897da28ea2e8/orig"
+      },
+      "watchability": {
+        "items": null
+      }
+    },
+    {
+      "id": 411924,
+      "type": "movie",
+      "externalId": {
+        "kpHD": "42285851232276c28eb6157894365aef",
+        "imdb": "tt1228705",
+        "tmdb": 10138
+      },
+      "name": "\u0416\u0435\u043b\u0435\u0437\u043d\u044b\u0439 \u0447\u0435\u043b\u043e\u0432\u0435\u043a 2",
+      "rating": {
+        "kp": 7.463,
+        "imdb": 6.9,
+        "filmCritics": 6.5,
+        "russianFilmCritics": 100,
+        "await": null
+      },
+      "description": "\u041f\u0440\u043e\u0448\u043b\u043e \u043f\u043e\u043b\u0433\u043e\u0434\u0430 \u0441 \u0442\u0435\u0445 \u043f\u043e\u0440, \u043a\u0430\u043a \u043c\u0438\u0440 \u0443\u0437\u043d\u0430\u043b, \u0447\u0442\u043e \u043c\u0438\u043b\u043b\u0438\u0430\u0440\u0434\u0435\u0440-\u0438\u0437\u043e\u0431\u0440\u0435\u0442\u0430\u0442\u0435\u043b\u044c \u0422\u043e\u043d\u0438 \u0421\u0442\u0430\u0440\u043a \u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u043e\u0431\u043b\u0430\u0434\u0430\u0442\u0435\u043b\u0435\u043c \u0443\u043d\u0438\u043a\u0430\u043b\u044c\u043d\u043e\u0439 \u043a\u0438\u0431\u0435\u0440-\u0431\u0440\u043e\u043d\u0438  \u0416\u0435\u043b\u0435\u0437\u043d\u043e\u0433\u043e \u0447\u0435\u043b\u043e\u0432\u0435\u043a\u0430. \u041e\u0431\u0449\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0441\u0442\u044c \u0442\u0440\u0435\u0431\u0443\u0435\u0442, \u0447\u0442\u043e\u0431\u044b \u0421\u0442\u0430\u0440\u043a \u043f\u0435\u0440\u0435\u0434\u0430\u043b \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u044e \u0431\u0440\u043e\u043d\u0438 \u043f\u0440\u0430\u0432\u0438\u0442\u0435\u043b\u044c\u0441\u0442\u0432\u0443 \u0421\u0428\u0410, \u043d\u043e \u0422\u043e\u043d\u0438 \u043d\u0435 \u0445\u043e\u0447\u0435\u0442 \u0440\u0430\u0437\u0433\u043b\u0430\u0448\u0430\u0442\u044c \u0435\u0451 \u0441\u0435\u043a\u0440\u0435\u0442\u044b, \u043f\u043e\u0442\u043e\u043c\u0443 \u0447\u0442\u043e \u0431\u043e\u0438\u0442\u0441\u044f, \u0447\u0442\u043e \u043e\u043d\u0430 \u043f\u043e\u043f\u0430\u0434\u0451\u0442 \u043d\u0435 \u0432 \u0442\u0435 \u0440\u0443\u043a\u0438. \n\n\u041c\u0435\u0436\u0434\u0443 \u0442\u0435\u043c \u0418\u0432\u0430\u043d \u0412\u0430\u043d\u043a\u043e \u2014 \u0441\u044b\u043d \u0440\u0443\u0441\u0441\u043a\u043e\u0433\u043e \u0443\u0447\u0451\u043d\u043e\u0433\u043e, \u043a\u043e\u0433\u0434\u0430-\u0442\u043e \u0440\u0430\u0431\u043e\u0442\u0430\u0432\u0448\u0435\u0433\u043e \u043d\u0430 \u0444\u0438\u0440\u043c\u0443 \u0421\u0442\u0430\u0440\u043a\u0430, \u043d\u043e \u043f\u043e\u0442\u043e\u043c \u0443\u0432\u043e\u043b\u0435\u043d\u043d\u043e\u0433\u043e \u0438 \u043b\u0438\u0448\u0435\u043d\u043d\u043e\u0433\u043e \u0432\u0441\u0435\u0433\u043e, \u043d\u0430\u043c\u0435\u0440\u0435\u043d \u043e\u0442\u043e\u043c\u0441\u0442\u0438\u0442\u044c \u0422\u043e\u043d\u0438 \u0437\u0430 \u0431\u0435\u0434\u044b \u0441\u0432\u043e\u0435\u0439 \u0441\u0435\u043c\u044c\u0438. \u0414\u043b\u044f \u0447\u0435\u0433\u043e \u0441\u043e\u043e\u0440\u0443\u0436\u0430\u0435\u0442 \u0441\u0432\u043e\u0451 \u0432\u044b\u0441\u043e\u043a\u043e\u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0447\u043d\u043e\u0435 \u043e\u0440\u0443\u0436\u0438\u0435.",
+      "votes": {
+        "kp": 440963,
+        "imdb": 833574,
+        "filmCritics": 303,
+        "russianFilmCritics": 8,
+        "await": 41629
+      },
+      "year": 2010,
+      "poster": {
+        "url": "https://st.kp.yandex.net/images/film_big/411924.jpg",
+        "previewUrl": "https://st.kp.yandex.net/images/film_iphone/iphone360_411924.jpg"
+      },
+      "genres": [
+        {
+          "name": "\u0444\u0430\u043d\u0442\u0430\u0441\u0442\u0438\u043a\u0430"
+        },
+        {
+          "name": "\u0431\u043e\u0435\u0432\u0438\u043a"
+        },
+        {
+          "name": "\u043f\u0440\u0438\u043a\u043b\u044e\u0447\u0435\u043d\u0438\u044f"
+        }
+      ],
+      "countries": [
+        {
+          "name": "\u0421\u0428\u0410"
+        }
+      ],
+      "alternativeName": "Iron Man 2",
+      "enName": null,
+      "movieLength": 119,
+      "names": [
+        {
+          "name": "\u0416\u0435\u043b\u0435\u0437\u043d\u044b\u0439 \u0447\u0435\u043b\u043e\u0432\u0435\u043a 2"
+        },
+        {
+          "name": "Iron Man 2"
+        }
+      ],
+      "shortDescription": "\u0422\u043e\u043d\u0438 \u0421\u0442\u0430\u0440\u043a \u043f\u0440\u043e\u0442\u0438\u0432\u043e\u0441\u0442\u043e\u0438\u0442 \u043f\u043e\u043b\u0438\u0442\u0438\u043a\u0430\u043c, \u043a\u043e\u043d\u043a\u0443\u0440\u0435\u043d\u0442\u0430\u043c \u0438 \u0438\u043d\u0436\u0435\u043d\u0435\u0440\u0443 \u0438\u0437 \u0420\u043e\u0441\u0441\u0438\u0438. \u041c\u0438\u043a\u043a\u0438 \u0420\u0443\u0440\u043a \u0432 \u0440\u043e\u043b\u0438 \u0441\u0443\u043f\u0435\u0440\u0437\u043b\u043e\u0434\u0435\u044f \u0418\u0432\u0430\u043d\u0430 \u0412\u0430\u043d\u043a\u043e",
+      "logo": {
+        "url": "https://avatars.mds.yandex.net/get-ott/2385704/2a0000016eadd1925e4d3476cbb89c135316/orig"
+      },
+      "watchability": {
+        "items": null
+      }
+    },
+    {
+      "id": 5492,
+      "countries": [
+        {
+          "name": "\u0421\u0428\u0410"
+        }
+      ],
+      "genres": [
+        {
+          "name": "\u043c\u0435\u043b\u043e\u0434\u0440\u0430\u043c\u0430"
+        },
+        {
+          "name": "\u0444\u0430\u043d\u0442\u0430\u0441\u0442\u0438\u043a\u0430"
+        },
+        {
+          "name": "\u0434\u0440\u0430\u043c\u0430"
+        }
+      ],
+      "names": [
+        {
+          "name": "\u0412\u0435\u0447\u043d\u043e\u0435 \u0441\u0438\u044f\u043d\u0438\u0435 \u0447\u0438\u0441\u0442\u043e\u0433\u043e \u0440\u0430\u0437\u0443\u043c\u0430"
+        },
+        {
+          "name": "Eternal Sunshine of the Spotless Mind"
+        }
+      ],
+      "alternativeName": "Eternal Sunshine of the Spotless Mind",
+      "description": "\u0417\u0430\u0441\u0442\u0435\u043d\u0447\u0438\u0432\u044b\u0439 \u0438 \u043c\u0435\u043b\u0430\u043d\u0445\u043e\u043b\u0438\u0447\u043d\u044b\u0439 \u0414\u0436\u043e\u044d\u043b \u0436\u0438\u0432\u0451\u0442 \u043d\u0438\u0447\u0435\u043c \u043d\u0435 \u043f\u0440\u0438\u043c\u0435\u0447\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0439 \u0441\u0435\u0440\u043e\u0439 \u0438 \u0443\u043d\u044b\u043b\u043e\u0439 \u0436\u0438\u0437\u043d\u044c\u044e. \u041d\u043e \u043e\u0434\u043d\u0430\u0436\u0434\u044b \u0432\u043c\u0435\u0441\u0442\u043e \u043f\u0440\u0438\u0432\u044b\u0447\u043d\u043e\u0433\u043e \u0440\u0430\u0431\u043e\u0447\u0435\u0433\u043e \u043c\u0430\u0440\u0448\u0440\u0443\u0442\u0430 \u043c\u043e\u043b\u043e\u0434\u043e\u0439 \u0447\u0435\u043b\u043e\u0432\u0435\u043a \u0432\u0434\u0440\u0443\u0433 \u0441\u0430\u0434\u0438\u0442\u0441\u044f \u043d\u0430 \u044d\u043b\u0435\u043a\u0442\u0440\u0438\u0447\u043a\u0443 \u0432 \u0434\u0440\u0443\u0433\u043e\u043c \u043d\u0430\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u0438 \u0438 \u0443\u0441\u0442\u0440\u0435\u043c\u043b\u044f\u0435\u0442\u0441\u044f \u043a \u043c\u043e\u0440\u044e. \u041d\u0430 \u043f\u0435\u0441\u0447\u0430\u043d\u043e\u043c \u0431\u0435\u0440\u0435\u0433\u0443 \u0414\u0436\u043e\u044d\u043b \u0437\u0430\u043c\u0435\u0447\u0430\u0435\u0442 \u0434\u0435\u0432\u0443\u0448\u043a\u0443 \u0441 \u044f\u0440\u043a\u043e-\u0441\u0438\u043d\u0438\u043c\u0438 \u0432\u043e\u043b\u043e\u0441\u0430\u043c\u0438. \u041d\u0430 \u043e\u0431\u0440\u0430\u0442\u043d\u043e\u043c \u043f\u0443\u0442\u0438 \u043e\u043d\u0438 \u0437\u043d\u0430\u043a\u043e\u043c\u044f\u0442\u0441\u044f \u0432 \u0432\u0430\u0433\u043e\u043d\u0435 \u044d\u043b\u0435\u043a\u0442\u0440\u0438\u0447\u043a\u0438 \u0438 \u043f\u0430\u0440\u0435\u043d\u044c \u043f\u043e\u043d\u0438\u043c\u0430\u0435\u0442, \u0447\u0442\u043e \u0443 \u043d\u0438\u0445 \u0441 \u041a\u043b\u0435\u043c\u0435\u043d\u0442\u0438\u043d\u043e\u0439 \u043e\u0447\u0435\u043d\u044c \u043c\u043d\u043e\u0433\u043e \u043e\u0431\u0449\u0435\u0433\u043e, \u043a\u0430\u043a \u0431\u0443\u0434\u0442\u043e \u043e\u043d \u0443\u0436\u0435 \u0437\u043d\u0430\u0435\u0442 \u044d\u0442\u0443 \u0434\u0435\u0432\u0443\u0448\u043a\u0443. \u0421\u043e\u0432\u0441\u0435\u043c \u0441\u043a\u043e\u0440\u043e \u0414\u0436\u043e\u044d\u043b \u043f\u043e\u0439\u043c\u0451\u0442, \u0447\u0442\u043e \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u0442\u0435\u043b\u044c\u043d\u043e \u0431\u044b\u043b \u0437\u043d\u0430\u043a\u043e\u043c \u0441 \u043d\u0435\u0439, \u0431\u043e\u043b\u0435\u0435 \u0442\u043e\u0433\u043e - \u043e\u043d\u0438 \u0431\u044b\u043b\u0438 \u043f\u0430\u0440\u043e\u0439.",
+      "enName": null,
+      "externalId": {
+        "kpHD": "46bd6402dda059e886e2fc54573b8fc0",
+        "imdb": "tt0338013",
+        "tmdb": 38
+      },
+      "movieLength": 108,
+      "name": "\u0412\u0435\u0447\u043d\u043e\u0435 \u0441\u0438\u044f\u043d\u0438\u0435 \u0447\u0438\u0441\u0442\u043e\u0433\u043e \u0440\u0430\u0437\u0443\u043c\u0430",
+      "poster": {
+        "url": "https://st.kp.yandex.net/images/film_big/5492.jpg",
+        "previewUrl": "https://st.kp.yandex.net/images/film_iphone/iphone360_5492.jpg"
+      },
+      "rating": {
+        "kp": 8.039,
+        "imdb": 8.3,
+        "filmCritics": 8.5,
+        "russianFilmCritics": 75,
+        "await": null
+      },
+      "shortDescription": "\u0411\u044b\u0432\u0448\u0438\u0435 \u043b\u044e\u0431\u043e\u0432\u043d\u0438\u043a\u0438 \u0441\u0442\u0438\u0440\u0430\u044e\u0442 \u0434\u0440\u0443\u0433 \u0434\u0440\u0443\u0433\u0430 \u0438\u0437 \u043f\u0430\u043c\u044f\u0442\u0438, \u043d\u043e \u0441\u0435\u0440\u0434\u0446\u0435 \u0432\u0441\u0435 \u043f\u043e\u043c\u043d\u0438\u0442. \u041b\u0443\u0447\u0448\u0430\u044f \u0434\u0440\u0430\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u0440\u043e\u043b\u044c \u0414\u0436\u0438\u043c\u0430 \u041a\u0435\u0440\u0440\u0438",
+      "type": "movie",
+      "votes": {
+        "kp": 439789,
+        "imdb": 1027765,
+        "filmCritics": 255,
+        "russianFilmCritics": 8,
+        "await": 0
+      },
+      "year": 2004,
+      "logo": {
+        "url": "https://avatars.mds.yandex.net/get-ott/374297/2a00000172c6b6930a8bfda76a0aea0a87e9/orig"
+      },
+      "watchability": {
+        "items": [
+          {
+            "name": "\u0418\u0432\u0438",
+            "logo": {
+              "url": "https://avatars.mds.yandex.net/get-ott/2419418/0dfd1724-848f-4725-9160-abc571f41c11/orig"
+            },
+            "url": "https://www.ivi.ru/watch/100004?utm_source=yandex&utm_medium=wizard"
+          }
+        ]
+      }
+    },
+    {
+      "externalId": {
+        "kpHD": "4d1fd3e7bf7c83bf910c3e141334accb",
+        "imdb": "tt0145487",
+        "tmdb": 557
+      },
+      "rating": {
+        "kp": 7.684,
+        "imdb": 7.4,
+        "filmCritics": 7.6,
+        "russianFilmCritics": 0,
+        "await": null
+      },
+      "votes": {
+        "kp": 434211,
+        "imdb": 834850,
+        "filmCritics": 247,
+        "russianFilmCritics": 0,
+        "await": 0
+      },
+      "movieLength": 121,
+      "id": 838,
+      "type": "movie",
+      "name": "\u0427\u0435\u043b\u043e\u0432\u0435\u043a-\u043f\u0430\u0443\u043a",
+      "description": "\u041f\u0438\u0442\u0435\u0440 \u041f\u0430\u0440\u043a\u0435\u0440 \u2013 \u043e\u0431\u044b\u043a\u043d\u043e\u0432\u0435\u043d\u043d\u044b\u0439 \u0448\u043a\u043e\u043b\u044c\u043d\u0438\u043a. \u041e\u0434\u043d\u0430\u0436\u0434\u044b \u043e\u043d \u043e\u0442\u043f\u0440\u0430\u0432\u0438\u043b\u0441\u044f \u0441 \u043a\u043b\u0430\u0441\u0441\u043e\u043c \u043d\u0430 \u044d\u043a\u0441\u043a\u0443\u0440\u0441\u0438\u044e, \u0433\u0434\u0435 \u0435\u0433\u043e \u043a\u0443\u0441\u0430\u0435\u0442 \u0441\u0442\u0440\u0430\u043d\u043d\u044b\u0439 \u043f\u0430\u0443\u043a-\u043c\u0443\u0442\u0430\u043d\u0442. \u0427\u0435\u0440\u0435\u0437 \u0432\u0440\u0435\u043c\u044f \u043f\u0430\u0440\u0435\u043d\u044c \u043f\u043e\u0447\u0443\u0432\u0441\u0442\u0432\u043e\u0432\u0430\u043b \u0432 \u0441\u0435\u0431\u0435 \u043d\u0435\u0447\u0435\u043b\u043e\u0432\u0435\u0447\u0435\u0441\u043a\u0443\u044e \u0441\u0438\u043b\u0443 \u0438 \u043b\u043e\u0432\u043a\u043e\u0441\u0442\u044c \u0432 \u0434\u0432\u0438\u0436\u0435\u043d\u0438\u0438, \u0430 \u0433\u043b\u0430\u0432\u043d\u043e\u0435 \u2013 \u0443\u043c\u0435\u043d\u0438\u0435 \u043b\u0430\u0437\u0430\u0442\u044c \u043f\u043e \u0441\u0442\u0435\u043d\u0430\u043c \u0438 \u043c\u0435\u0442\u0430\u0442\u044c \u0441\u0442\u0430\u043b\u044c\u043d\u0443\u044e \u043f\u0430\u0443\u0442\u0438\u043d\u0443. \u0421\u0432\u043e\u0438 \u0441\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0441\u0442\u0438 \u043e\u043d \u043d\u0430\u043f\u0440\u0430\u0432\u043b\u044f\u0435\u0442 \u043d\u0430 \u0437\u0430\u0449\u0438\u0442\u0443 \u0441\u043b\u0430\u0431\u044b\u0445. \u0422\u0430\u043a \u041f\u0438\u0442\u0435\u0440 \u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u0441\u044f \u043d\u0430\u0441\u0442\u043e\u044f\u0449\u0438\u043c \u0441\u0443\u043f\u0435\u0440\u0433\u0435\u0440\u043e\u0435\u043c \u043f\u043e \u0438\u043c\u0435\u043d\u0438 \u0427\u0435\u043b\u043e\u0432\u0435\u043a-\u043f\u0430\u0443\u043a, \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u043f\u043e\u043c\u043e\u0433\u0430\u0435\u0442 \u043b\u044e\u0434\u044f\u043c \u0438 \u0431\u043e\u0440\u0435\u0442\u0441\u044f \u0441 \u043f\u0440\u0435\u0441\u0442\u0443\u043f\u043d\u043e\u0441\u0442\u044c\u044e. \u041d\u043e \u0442\u0430\u043c, \u0433\u0434\u0435 \u0435\u0441\u0442\u044c \u0441\u0443\u043f\u0435\u0440\u0433\u0435\u0440\u043e\u0439, \u0440\u0430\u043d\u043e \u0438\u043b\u0438 \u043f\u043e\u0437\u0434\u043d\u043e \u0432\u0441\u0435\u0433\u0434\u0430 \u043e\u0431\u044a\u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u0438 \u0441\u0443\u043f\u0435\u0440\u0437\u043b\u043e\u0434\u0435\u0439...",
+      "year": 2002,
+      "poster": {
+        "url": "https://st.kp.yandex.net/images/film_big/838.jpg",
+        "previewUrl": "https://st.kp.yandex.net/images/film_iphone/iphone360_838.jpg"
+      },
+      "genres": [
+        {
+          "name": "\u0444\u0430\u043d\u0442\u0430\u0441\u0442\u0438\u043a\u0430"
+        },
+        {
+          "name": "\u0431\u043e\u0435\u0432\u0438\u043a"
+        },
+        {
+          "name": "\u043f\u0440\u0438\u043a\u043b\u044e\u0447\u0435\u043d\u0438\u044f"
+        }
+      ],
+      "countries": [
+        {
+          "name": "\u0421\u0428\u0410"
+        }
+      ],
+      "alternativeName": "Spider-Man",
+      "enName": null,
+      "names": [
+        {
+          "name": "\u0427\u0435\u043b\u043e\u0432\u0435\u043a-\u043f\u0430\u0443\u043a"
+        },
+        {
+          "name": "Spider-Man"
+        },
+        {
+          "name": "Spider-Man: The Motion Picture",
+          "language": "US",
+          "type": "working title"
+        },
+        {
+          "name": "Spajdermen",
+          "language": "RS",
+          "type": "Romanized title"
+        },
+        {
+          "name": "Spiderman",
+          "language": "US",
+          "type": "alternative spelling"
+        },
+        {
+          "name": "Lyudyna-pavuk",
+          "language": "UA",
+          "type": null
+        },
+        {
+          "name": "Spai\u0306d\u016dr-men",
+          "language": "BG",
+          "type": null
+        },
+        {
+          "name": "\u8718\u86db\u4fa0\u521d\u4ee3",
+          "language": "CN",
+          "type": null
+        },
+        {
+          "name": "\uc2a4\ud30c\uc774\ub354 \ub9e8",
+          "language": "KR",
+          "type": null
+        },
+        {
+          "name": "H\u00e4m\u00e4h\u00e4kkimies",
+          "language": "FI",
+          "type": null
+        },
+        {
+          "name": "\u8718\u86db\u4eba",
+          "language": "TW",
+          "type": null
+        },
+        {
+          "name": "\u10dd\u10d1\u10dd\u10d1\u10d0-\u10d9\u10d0\u10ea\u10d8",
+          "language": "GE",
+          "type": null
+        },
+        {
+          "name": "\u10e1\u10de\u10d0\u10d8\u10d3\u10d4\u10e0\u10db\u10d4\u10dc\u10d8",
+          "language": "GE",
+          "type": null
+        },
+        {
+          "name": "Spider-Man 1",
+          "language": "DE",
+          "type": null
+        },
+        {
+          "name": "Spider-Man I",
+          "language": "US",
+          "type": "Alternative title"
+        }
+      ],
+      "shortDescription": "\u0428\u043a\u043e\u043b\u044c\u043d\u0438\u043a-\u043d\u0435\u0443\u0434\u0430\u0447\u043d\u0438\u043a \u041f\u0438\u0442\u0435\u0440 \u041f\u0430\u0440\u043a\u0435\u0440 \u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u0441\u044f \u0441\u0443\u043f\u0435\u0440\u0433\u0435\u0440\u043e\u0435\u043c. \u0422\u043e\u0431\u0438 \u041c\u0430\u0433\u0443\u0430\u0439\u0440 \u0432 \u043a\u0443\u043b\u044c\u0442\u043e\u0432\u043e\u043c \u043a\u0438\u043d\u043e\u043a\u043e\u043c\u0438\u043a\u0441\u0435 \u0421\u044d\u043c\u0430 \u0420\u044d\u0439\u043c\u0438",
+      "logo": {
+        "url": "https://avatars.mds.yandex.net/get-ott/212840/2a0000016eadd455a2f17fd3676319109d80/orig"
+      },
+      "watchability": {
+        "items": [
+          {
+            "name": "Okko",
+            "logo": {
+              "url": "https://avatars.mds.yandex.net/get-ott/239697/7713e586-17d1-42d1-ac62-53e9ef1e70c3/orig"
+            },
+            "url": "https://okko.tv/movie/spider-man-fullhd?utm_medium=referral&utm_source=yandex_search&utm_campaign=new_search_feed"
+          },
+          {
+            "name": "\u0418\u0432\u0438",
+            "logo": {
+              "url": "https://avatars.mds.yandex.net/get-ott/2419418/0dfd1724-848f-4725-9160-abc571f41c11/orig"
+            },
+            "url": "https://www.ivi.ru/watch/63763?utm_source=yandex&utm_medium=wizard"
+          },
+          {
+            "name": "Wink",
+            "logo": {
+              "url": "https://avatars.mds.yandex.net/get-ott/1672343/54096cbe-cc3b-41c9-8e44-990ebbca8d61/orig"
+            },
+            "url": "https://wink.ru/media_items/54954897?utm_source=yandex&utm_medium=koldunschick&utm_content=name"
+          },
+          {
+            "name": "viju",
+            "logo": {
+              "url": "https://avatars.mds.yandex.net/get-ott/224348/8b10c84b-e1bb-4493-9bc4-6ee56554403a/orig"
+            },
+            "url": "https://viju.ru/filmy/chelovek-pauk?utm_campaign=yandex_content_integration&utm_medium=affiliate&utm_source=yandex"
+          },
+          {
+            "name": "24\u0422\u0412",
+            "logo": {
+              "url": "https://avatars.mds.yandex.net/get-ott/2439731/85e83b8d-1159-4781-bad5-ce0a809b3843/orig"
+            },
+            "url": "https://24h.tv/contents/2002-spider-man-546313478181225307"
+          }
+        ]
+      }
+    },
+    {
+      "externalId": {
+        "kpHD": "4475f71e8b1e8e8ea88403b92fe82799",
+        "imdb": "tt0119654",
+        "tmdb": 607
+      },
+      "rating": {
+        "kp": 8.003,
+        "imdb": 7.3,
+        "filmCritics": 7.5,
+        "russianFilmCritics": 0,
+        "await": null
+      },
+      "votes": {
+        "kp": 430115,
+        "imdb": 582189,
+        "filmCritics": 93,
+        "russianFilmCritics": 0,
+        "await": 0
+      },
+      "movieLength": 98,
+      "id": 1091,
+      "type": "movie",
+      "name": "\u041b\u044e\u0434\u0438 \u0432 \u0447\u0451\u0440\u043d\u043e\u043c",
+      "description": "\u041e\u043d\u0438 - \u0441\u0430\u043c\u044b\u0439 \u0431\u043e\u043b\u044c\u0448\u043e\u0439 \u0441\u0435\u043a\u0440\u0435\u0442 \u0417\u0435\u043c\u043b\u0438. \u041e\u043d\u0438 \u0440\u0430\u0431\u043e\u0442\u0430\u044e\u0442 \u043d\u0430 \u043d\u0435\u043e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u043e\u0435 \u043f\u0440\u0430\u0432\u0438\u0442\u0435\u043b\u044c\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0435 \u0430\u0433\u0435\u043d\u0442\u0441\u0442\u0432\u043e, \u0440\u0435\u0433\u0443\u043b\u0438\u0440\u0443\u044e\u0449\u0435\u0435 \u0434\u0435\u044f\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u044c \u0438\u043d\u043e\u043f\u043b\u0430\u043d\u0435\u0442\u044f\u043d \u043d\u0430 \u0417\u0435\u043c\u043b\u0435.\n\n\u041e\u043d\u0438 - \u044d\u0442\u043e \u043b\u0443\u0447\u0448\u0430\u044f, \u043f\u043e\u0441\u043b\u0435\u0434\u043d\u044f\u044f \u0438 \u0435\u0434\u0438\u043d\u0441\u0442\u0432\u0435\u043d\u043d\u0430\u044f \u043b\u0438\u043d\u0438\u044f \u0437\u0430\u0449\u0438\u0442\u044b \u0417\u0435\u043c\u043b\u0438 \u043e\u0442 \u043e\u0442\u0431\u0440\u043e\u0441\u043e\u0432 \u0432\u0441\u0435\u043b\u0435\u043d\u043d\u043e\u0439. \u0418\u0445 \u0440\u0430\u0431\u043e\u0442\u0430 \u0441\u0435\u043a\u0440\u0435\u0442\u043d\u0430, \u0438\u0445 \u043e\u0440\u0443\u0436\u0438\u0435 \u0441\u043e\u0432\u0435\u0440\u0448\u0435\u043d\u043d\u043e, \u0438\u043c \u043d\u0435\u0442 \u0440\u0430\u0432\u043d\u044b\u0445, \u043e\u043d\u0438 \u043d\u0435 \u043e\u0441\u0442\u0430\u0432\u043b\u044f\u044e\u0442 \u0441\u043b\u0435\u0434\u043e\u0432. \u041e\u043d\u0438 - \u044d\u0442\u043e \u041b\u044e\u0434\u0438 \u0432 \u0447\u0435\u0440\u043d\u043e\u043c.",
+      "year": 1997,
+      "poster": {
+        "url": "https://st.kp.yandex.net/images/film_big/1091.jpg",
+        "previewUrl": "https://st.kp.yandex.net/images/film_iphone/iphone360_1091.jpg"
+      },
+      "genres": [
+        {
+          "name": "\u0444\u0430\u043d\u0442\u0430\u0441\u0442\u0438\u043a\u0430"
+        },
+        {
+          "name": "\u0431\u043e\u0435\u0432\u0438\u043a"
+        },
+        {
+          "name": "\u043a\u043e\u043c\u0435\u0434\u0438\u044f"
+        },
+        {
+          "name": "\u043f\u0440\u0438\u043a\u043b\u044e\u0447\u0435\u043d\u0438\u044f"
+        }
+      ],
+      "countries": [
+        {
+          "name": "\u0421\u0428\u0410"
+        }
+      ],
+      "alternativeName": "Men in Black",
+      "enName": null,
+      "names": [
+        {
+          "name": "\u041b\u044e\u0434\u0438 \u0432 \u0447\u0451\u0440\u043d\u043e\u043c"
+        },
+        {
+          "name": "Men in Black"
+        },
+        {
+          "name": "Gvarim B'Shahor",
+          "language": "IL",
+          "type": "Romanized title"
+        },
+        {
+          "name": "MIB",
+          "language": "US",
+          "type": "promotional abbreviation"
+        },
+        {
+          "name": "Adamianebi shavebshi",
+          "language": "GE",
+          "type": "Romanized title"
+        },
+        {
+          "name": "\u041b\u044e\u0434\u0438 \u0432 \u0447\u0435\u0440\u043d\u043e\u043c",
+          "language": "RU",
+          "type": null
+        },
+        {
+          "name": "Men in black \u2013 Miehet mustissa",
+          "language": "FI",
+          "type": "Video"
+        },
+        {
+          "name": "MIB: Men in Black (Hombres de negro)",
+          "language": "ES",
+          "type": null
+        },
+        {
+          "name": "MIB - Men in Black",
+          "language": "IT",
+          "type": null
+        },
+        {
+          "name": "\ub9e8 \uc778 \ube14\ub799 1",
+          "language": "KR",
+          "type": null
+        },
+        {
+          "name": "\u9ed1\u8d85\u7279\u8b66\u7ec4",
+          "language": "CN",
+          "type": null
+        },
+        {
+          "name": "\u039f\u03b9 \u0386\u03bd\u03b4\u03c1\u03b5\u03c2 \u03bc\u03b5 \u03c4\u03b1 \u039c\u03b1\u03cd\u03c1\u03b1",
+          "language": "GR",
+          "type": null
+        },
+        {
+          "name": "\u039f\u03b9 \u0386\u03bd\u03c4\u03c1\u03b5\u03c2 \u03bc\u03b5 \u03c4\u03b1 \u039c\u03b1\u03cd\u03c1\u03b1",
+          "language": "GR",
+          "type": "Alternative spelling"
+        },
+        {
+          "name": "Faceci w czerni",
+          "language": "PL",
+          "type": null
+        },
+        {
+          "name": "\u9ed1\u8863\u4eba1",
+          "language": "CN",
+          "type": null
+        }
+      ],
+      "shortDescription": "\u0417\u0435\u043c\u043b\u044f \u043a\u0438\u0448\u0438\u0442 \u043f\u0440\u0438\u0448\u0435\u043b\u044c\u0446\u0430\u043c\u0438, \u0437\u0430 \u043a\u043e\u0442\u043e\u0440\u044b\u043c\u0438 \u0433\u043b\u0430\u0437 \u0434\u0430 \u0433\u043b\u0430\u0437. \u0423\u0438\u043b\u043b \u0421\u043c\u0438\u0442 \u0438 \u0422\u043e\u043c\u043c\u0438 \u041b\u0438 \u0414\u0436\u043e\u043d\u0441 \u0432 \u0440\u043e\u043b\u044f\u0445 \u0441\u043b\u0435\u0434\u044f\u0449\u0438\u0445 \u0437\u0430 \u043f\u043e\u0440\u044f\u0434\u043a\u043e\u043c",
+      "logo": {
+        "url": "https://avatars.mds.yandex.net/get-ott/2439731/2a0000017179252ff8a3a180b99cf02e7565/orig"
+      },
+      "watchability": {
+        "items": [
+          {
+            "name": "Okko",
+            "logo": {
+              "url": "https://avatars.mds.yandex.net/get-ott/239697/7713e586-17d1-42d1-ac62-53e9ef1e70c3/orig"
+            },
+            "url": "https://okko.tv/movie/men-in-black-5232?utm_medium=referral&utm_source=yandex_search&utm_campaign=new_search_feed"
+          },
+          {
+            "name": "\u0418\u0432\u0438",
+            "logo": {
+              "url": "https://avatars.mds.yandex.net/get-ott/2419418/0dfd1724-848f-4725-9160-abc571f41c11/orig"
+            },
+            "url": "https://www.ivi.ru/watch/83344?utm_source=yandex&utm_medium=wizard"
+          },
+          {
+            "name": "Wink",
+            "logo": {
+              "url": "https://avatars.mds.yandex.net/get-ott/1672343/54096cbe-cc3b-41c9-8e44-990ebbca8d61/orig"
+            },
+            "url": "https://wink.ru/media_items/79342252?utm_source=yandex&utm_medium=koldunschick&utm_content=name"
+          },
+          {
+            "name": "viju",
+            "logo": {
+              "url": "https://avatars.mds.yandex.net/get-ott/224348/8b10c84b-e1bb-4493-9bc4-6ee56554403a/orig"
+            },
+            "url": "https://viju.ru/filmy/lyudi-v-chernom?utm_campaign=yandex_content_integration&utm_medium=affiliate&utm_source=yandex"
+          },
+          {
+            "name": "24\u0422\u0412",
+            "logo": {
+              "url": "https://avatars.mds.yandex.net/get-ott/2439731/85e83b8d-1159-4781-bad5-ce0a809b3843/orig"
+            },
+            "url": "https://24h.tv/contents/1997-men-in-black-546346630899564885"
+          }
+        ]
+      }
+    }
+  ],
+  "total": 34732,
+  "limit": 10,
+  "page": 5,
+  "pages": 3474
+}

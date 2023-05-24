@@ -1,0 +1,1408 @@
+{
+  "docs": [
+    {
+      "externalId": {
+        "kpHD": "4726854ee2be6d928a2d852281fa18f9",
+        "imdb": "tt0245429",
+        "tmdb": 129
+      },
+      "rating": {
+        "kp": 8.481,
+        "imdb": 8.6,
+        "filmCritics": 8.6,
+        "russianFilmCritics": 100,
+        "await": 0
+      },
+      "votes": {
+        "kp": 511545,
+        "imdb": 784312,
+        "filmCritics": 195,
+        "russianFilmCritics": 5,
+        "await": 0
+      },
+      "movieLength": 125,
+      "id": 370,
+      "type": "anime",
+      "name": "\u0423\u043d\u0435\u0441\u0451\u043d\u043d\u044b\u0435 \u043f\u0440\u0438\u0437\u0440\u0430\u043a\u0430\u043c\u0438",
+      "description": "\u0422\u0438\u0445\u0438\u0440\u043e \u0441\u00a0\u043c\u0430\u043c\u043e\u0439 \u0438\u00a0\u043f\u0430\u043f\u043e\u0439 \u043f\u0435\u0440\u0435\u0435\u0437\u0436\u0430\u0435\u0442 \u0432\u00a0\u043d\u043e\u0432\u044b\u0439 \u0434\u043e\u043c. \u0417\u0430\u0431\u043b\u0443\u0434\u0438\u0432\u0448\u0438\u0441\u044c \u043f\u043e\u00a0\u0434\u043e\u0440\u043e\u0433\u0435, \u043e\u043d\u0438\u00a0\u043e\u043a\u0430\u0437\u044b\u0432\u0430\u044e\u0442\u0441\u044f \u0432\u00a0\u0441\u0442\u0440\u0430\u043d\u043d\u043e\u043c \u043f\u0443\u0441\u0442\u044b\u043d\u043d\u043e\u043c \u0433\u043e\u0440\u043e\u0434\u0435, \u0433\u0434\u0435\u00a0\u0438\u0445 \u0436\u0434\u0435\u0442 \u0432\u0435\u043b\u0438\u043a\u043e\u043b\u0435\u043f\u043d\u044b\u0439 \u043f\u0438\u0440. \u0420\u043e\u0434\u0438\u0442\u0435\u043b\u0438 \u0441\u00a0\u0436\u0430\u0434\u043d\u043e\u0441\u0442\u044c\u044e \u043d\u0430\u0431\u0440\u0430\u0441\u044b\u0432\u0430\u044e\u0442\u0441\u044f \u043d\u0430\u00a0\u0435\u0434\u0443 \u0438\u00a0\u043a \u0443\u0436\u0430\u0441\u0443 \u0434\u0435\u0432\u043e\u0447\u043a\u0438 \u043f\u0440\u0435\u0432\u0440\u0430\u0449\u0430\u044e\u0442\u0441\u044f \u0432\u00a0\u0441\u0432\u0438\u043d\u0435\u0439, \u0441\u0442\u0430\u0432 \u043f\u043b\u0435\u043d\u043d\u0438\u043a\u0430\u043c\u0438 \u0437\u043b\u043e\u0439 \u043a\u043e\u043b\u0434\u0443\u043d\u044c\u0438 \u042e\u0431\u0430\u0431\u044b. \u0422\u0435\u043f\u0435\u0440\u044c, \u043e\u043a\u0430\u0437\u0430\u0432\u0448\u0438\u0441\u044c \u043e\u0434\u043d\u0430 \u0441\u0440\u0435\u0434\u0438 \u0432\u043e\u043b\u0448\u0435\u0431\u043d\u044b\u0445 \u0441\u0443\u0449\u0435\u0441\u0442\u0432 \u0438\u00a0\u0437\u0430\u0433\u0430\u0434\u043e\u0447\u043d\u044b\u0445 \u0432\u0438\u0434\u0435\u043d\u0438\u0439, \u0422\u0438\u0445\u0438\u0440\u043e \u0434\u043e\u043b\u0436\u043d\u0430 \u043f\u0440\u0438\u0434\u0443\u043c\u0430\u0442\u044c, \u043a\u0430\u043a\u00a0\u0438\u0437\u0431\u0430\u0432\u0438\u0442\u044c \u0441\u0432\u043e\u0438\u0445 \u0440\u043e\u0434\u0438\u0442\u0435\u043b\u0435\u0439 \u043e\u0442\u00a0\u0447\u0430\u0440 \u043a\u043e\u0432\u0430\u0440\u043d\u043e\u0439 \u0441\u0442\u0430\u0440\u0443\u0445\u0438.",
+      "year": 2001,
+      "poster": {
+        "url": "https://st.kp.yandex.net/images/film_big/370.jpg",
+        "previewUrl": "https://st.kp.yandex.net/images/film_iphone/iphone360_370.jpg"
+      },
+      "genres": [
+        {
+          "name": "\u0430\u043d\u0438\u043c\u0435"
+        },
+        {
+          "name": "\u043c\u0443\u043b\u044c\u0442\u0444\u0438\u043b\u044c\u043c"
+        },
+        {
+          "name": "\u0444\u044d\u043d\u0442\u0435\u0437\u0438"
+        },
+        {
+          "name": "\u043f\u0440\u0438\u043a\u043b\u044e\u0447\u0435\u043d\u0438\u044f"
+        },
+        {
+          "name": "\u0441\u0435\u043c\u0435\u0439\u043d\u044b\u0439"
+        }
+      ],
+      "countries": [
+        {
+          "name": "\u042f\u043f\u043e\u043d\u0438\u044f"
+        }
+      ],
+      "alternativeName": "Sen to Chihiro no kamikakushi",
+      "enName": null,
+      "names": [
+        {
+          "name": "\u0423\u043d\u0435\u0441\u0451\u043d\u043d\u044b\u0435 \u043f\u0440\u0438\u0437\u0440\u0430\u043a\u0430\u043c\u0438"
+        },
+        {
+          "name": "Sen to Chihiro no kamikakushi"
+        },
+        {
+          "name": "Sen to Chihiro no Kamikakushi",
+          "language": "JP",
+          "type": "Romaji"
+        },
+        {
+          "name": "Unesenniye prizrakami",
+          "language": "RU",
+          "type": "Romanization"
+        },
+        {
+          "name": "Sen gwa Chihiro ui Haengbang Bulmyeong",
+          "language": "KR",
+          "type": "Romanization"
+        },
+        {
+          "name": "Chihiro ilmmiid gaskkas",
+          "language": "FI",
+          "type": null
+        },
+        {
+          "name": "El viatge de Chihiro",
+          "language": "AD",
+          "type": null
+        },
+        {
+          "name": "Shahre Ashbah",
+          "language": "IR",
+          "type": "Romanization"
+        },
+        {
+          "name": "Shahr-e Ashbah",
+          "language": "IR",
+          "type": "Romanization"
+        },
+        {
+          "name": "Shahr Ashbah",
+          "language": "IR",
+          "type": "Romanization"
+        },
+        {
+          "name": "Sen and Chihiro's Spiriting Away",
+          "language": "US",
+          "type": null
+        },
+        {
+          "name": "The Spiriting Away of Sen and Chihiro",
+          "language": "US",
+          "type": null
+        },
+        {
+          "name": "A Viagem de Chihiro",
+          "language": "BR",
+          "type": null
+        },
+        {
+          "name": "Spirited Away",
+          "language": "US",
+          "type": null
+        },
+        {
+          "name": "Le voyage de Chihiro",
+          "language": "FR",
+          "type": null
+        },
+        {
+          "name": "\u5343\u8207\u5343\u5c0b",
+          "language": "HK",
+          "type": null
+        },
+        {
+          "name": "El viaje de Chihiro",
+          "language": "ES",
+          "type": null
+        },
+        {
+          "name": "Chihiros Reise ins Zauberland",
+          "language": "DE",
+          "type": null
+        },
+        {
+          "name": "\uc13c\uacfc \uce58\ud788\ub85c\uc758 \ud589\ubc29\ubd88\uba85",
+          "language": "KR",
+          "type": "korean title"
+        },
+        {
+          "name": "Chihiro og heksene",
+          "language": "NO",
+          "type": null
+        }
+      ],
+      "shortDescription": "\u0414\u0435\u0432\u043e\u0447\u043a\u0430 \u0434\u043e\u043b\u0436\u043d\u0430 \u0441\u043f\u0430\u0441\u0442\u0438 \u0441\u0432\u043e\u0438\u0445 \u0440\u043e\u0434\u0438\u0442\u0435\u043b\u0435\u0439 \u0432 \u043c\u0438\u0440\u0435 \u0434\u0443\u0445\u043e\u0432. \u0428\u0435\u0434\u0435\u0432\u0440 \u0425\u0430\u044f\u043e \u041c\u0438\u044f\u0434\u0437\u0430\u043a\u0438, \u0444\u0430\u0432\u043e\u0440\u0438\u0442 \u0430\u043d\u0438\u043c\u0430\u0446\u0438\u043e\u043d\u043d\u044b\u0445 \u0440\u0435\u0439\u0442\u0438\u043d\u0433\u043e\u0432 \u043c\u0438\u0440\u0430",
+      "logo": {
+        "url": "https://avatars.mds.yandex.net/get-ott/1531675/2a00000173947e70f5a7e9d4ab80cf554ade/orig"
+      },
+      "watchability": {
+        "items": [
+          {
+            "name": "Okko",
+            "logo": {
+              "url": "https://avatars.mds.yandex.net/get-ott/239697/7713e586-17d1-42d1-ac62-53e9ef1e70c3/orig"
+            },
+            "url": "https://okko.tv/movie/sen-to-chihiro-no-kamikakushi?utm_medium=referral&utm_source=yandex_search&utm_campaign=new_search_feed"
+          },
+          {
+            "name": "\u0418\u0432\u0438",
+            "logo": {
+              "url": "https://avatars.mds.yandex.net/get-ott/2419418/0dfd1724-848f-4725-9160-abc571f41c11/orig"
+            },
+            "url": "https://www.ivi.ru/watch/100076?utm_source=yandex&utm_medium=wizard"
+          },
+          {
+            "name": "KION",
+            "logo": {
+              "url": "https://avatars.mds.yandex.net/get-ott/239697/daeb142e-3ecc-4bb2-9bff-4827996643ab/orig"
+            },
+            "url": "https://kion.ru/video/movie/601879570?utm_source=yandex&utm_medium=organic&utm_campaign=wizard"
+          },
+          {
+            "name": "Wink",
+            "logo": {
+              "url": "https://avatars.mds.yandex.net/get-ott/1672343/54096cbe-cc3b-41c9-8e44-990ebbca8d61/orig"
+            },
+            "url": "https://wink.ru/media_items/146708518?utm_source=yandex&utm_medium=koldunschick&utm_content=name"
+          }
+        ]
+      }
+    },
+    {
+      "id": 749374,
+      "type": "anime",
+      "externalId": {
+        "kpHD": "4e408995ea402cafb36eaab1d1b9ba0a",
+        "imdb": "tt0307901",
+        "tmdb": 1429
+      },
+      "name": "\u0410\u0442\u0430\u043a\u0430 \u0442\u0438\u0442\u0430\u043d\u043e\u0432",
+      "rating": {
+        "kp": 8.674,
+        "imdb": 9.1,
+        "filmCritics": 0,
+        "russianFilmCritics": 100,
+        "await": null
+      },
+      "description": "\u0423\u0436\u0435 \u043c\u043d\u043e\u0433\u0438\u0435 \u0433\u043e\u0434\u044b \u0447\u0435\u043b\u043e\u0432\u0435\u0447\u0435\u0441\u0442\u0432\u043e \u0432\u0435\u0434\u0451\u0442 \u0431\u043e\u0440\u044c\u0431\u0443 \u0441\u00a0\u0442\u0438\u0442\u0430\u043d\u0430\u043c\u0438\u00a0\u2014\u00a0\u043e\u0433\u0440\u043e\u043c\u043d\u044b\u043c\u0438 \u0441\u0443\u0449\u0435\u0441\u0442\u0432\u0430\u043c\u0438, \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u043d\u0435\u00a0\u043e\u0431\u043b\u0430\u0434\u0430\u044e\u0442 \u043e\u0441\u043e\u0431\u044b\u043c \u0438\u043d\u0442\u0435\u043b\u043b\u0435\u043a\u0442\u043e\u043c, \u0437\u0430\u0442\u043e \u0435\u0434\u044f\u0442 \u043b\u044e\u0434\u0435\u0439 \u0438\u00a0\u043f\u043e\u043b\u0443\u0447\u0430\u044e\u0442 \u043e\u0442\u00a0\u044d\u0442\u043e\u0433\u043e \u0443\u0434\u043e\u0432\u043e\u043b\u044c\u0441\u0442\u0432\u0438\u0435. \u041f\u043e\u0441\u043b\u0435 \u043f\u0440\u043e\u0434\u043e\u043b\u0436\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0439 \u0431\u043e\u0440\u044c\u0431\u044b \u043e\u0441\u0442\u0430\u0442\u043a\u0438 \u0447\u0435\u043b\u043e\u0432\u0435\u0447\u0435\u0441\u0442\u0432\u0430 \u043f\u043e\u0441\u0442\u0440\u043e\u0438\u043b\u0438 \u0432\u044b\u0441\u043e\u043a\u0443\u044e \u0441\u0442\u0435\u043d\u0443, \u043e\u043a\u0440\u0443\u0436\u0438\u0432\u0448\u0443\u044e \u0441\u0442\u0440\u0430\u043d\u0443 \u043b\u044e\u0434\u0435\u0439, \u0447\u0435\u0440\u0435\u0437 \u043a\u043e\u0442\u043e\u0440\u0443\u044e \u0442\u0438\u0442\u0430\u043d\u044b \u043f\u0440\u043e\u0439\u0442\u0438 \u043d\u0435\u00a0\u043c\u043e\u0433\u043b\u0438. \u0421\u00a0\u0442\u0435\u0445 \u043f\u043e\u0440\u00a0\u043f\u0440\u043e\u0448\u043b\u043e \u0441\u0442\u043e\u00a0\u043b\u0435\u0442, \u043b\u044e\u0434\u0438 \u043c\u0438\u0440\u043d\u043e \u0436\u0438\u0432\u0443\u0442 \u043f\u043e\u0434\u00a0\u0437\u0430\u0449\u0438\u0442\u043e\u0439 \u0441\u0442\u0435\u043d\u044b. \u041d\u043e\u00a0\u043e\u0434\u043d\u0430\u0436\u0434\u044b \u043f\u043e\u0434\u0440\u043e\u0441\u0442\u043e\u043a \u042d\u0440\u044d\u043d \u0438\u00a0\u0435\u0433\u043e \u0441\u0432\u043e\u0434\u043d\u0430\u044f \u0441\u0435\u0441\u0442\u0440\u0430 \u041c\u0438\u043a\u0430\u0441\u0430 \u0441\u0442\u0430\u043d\u043e\u0432\u044f\u0442\u0441\u044f \u0441\u0432\u0438\u0434\u0435\u0442\u0435\u043b\u044f\u043c\u0438 \u0441\u0442\u0440\u0430\u0448\u043d\u043e\u0433\u043e \u0441\u043e\u0431\u044b\u0442\u0438\u044f\u00a0\u2014\u00a0\u0443\u0447\u0430\u0441\u0442\u043e\u043a \u0441\u0442\u0435\u043d\u044b \u0440\u0430\u0437\u0440\u0443\u0448\u0430\u0435\u0442\u0441\u044f \u0441\u0443\u043f\u0435\u0440\u0442\u0438\u0442\u0430\u043d\u043e\u043c, \u043f\u043e\u044f\u0432\u0438\u0432\u0448\u0438\u043c\u0441\u044f \u043f\u0440\u044f\u043c\u043e \u0438\u0437\u00a0\u0432\u043e\u0437\u0434\u0443\u0445\u0430. \u0422\u0438\u0442\u0430\u043d\u044b \u043d\u0430\u043f\u0430\u0434\u0430\u044e\u0442 \u043d\u0430\u00a0\u0433\u043e\u0440\u043e\u0434, \u0438\u00a0\u0434\u0435\u0442\u0438 \u0432\u00a0\u0443\u0436\u0430\u0441\u0435 \u0432\u0438\u0434\u044f\u0442, \u043a\u0430\u043a\u00a0\u043e\u0434\u0438\u043d \u0438\u0437\u00a0\u043c\u043e\u043d\u0441\u0442\u0440\u043e\u0432 \u0437\u0430\u0436\u0438\u0432\u043e \u0441\u044a\u0435\u0434\u0430\u0435\u0442 \u0438\u0445\u00a0\u043c\u0430\u0442\u044c. \u042d\u0440\u044d\u043d \u043a\u043b\u044f\u043d\u0451\u0442\u0441\u044f, \u0447\u0442\u043e\u00a0\u0443\u0431\u044c\u0451\u0442 \u0432\u0441\u0435\u0445 \u0442\u0438\u0442\u0430\u043d\u043e\u0432 \u0438\u00a0\u043e\u0442\u043e\u043c\u0441\u0442\u0438\u0442 \u0437\u0430\u00a0\u0447\u0435\u043b\u043e\u0432\u0435\u0447\u0435\u0441\u0442\u0432\u043e.",
+      "votes": {
+        "kp": 393835,
+        "imdb": 407172,
+        "filmCritics": 0,
+        "russianFilmCritics": 4,
+        "await": 13
+      },
+      "year": 2013,
+      "poster": {
+        "url": "https://st.kp.yandex.net/images/film_big/749374.jpg",
+        "previewUrl": "https://st.kp.yandex.net/images/film_iphone/iphone360_749374.jpg"
+      },
+      "genres": [
+        {
+          "name": "\u0430\u043d\u0438\u043c\u0435"
+        },
+        {
+          "name": "\u043c\u0443\u043b\u044c\u0442\u0444\u0438\u043b\u044c\u043c"
+        },
+        {
+          "name": "\u0444\u0430\u043d\u0442\u0430\u0441\u0442\u0438\u043a\u0430"
+        },
+        {
+          "name": "\u0434\u0440\u0430\u043c\u0430"
+        },
+        {
+          "name": "\u0431\u043e\u0435\u0432\u0438\u043a"
+        },
+        {
+          "name": "\u0444\u044d\u043d\u0442\u0435\u0437\u0438"
+        }
+      ],
+      "countries": [
+        {
+          "name": "\u042f\u043f\u043e\u043d\u0438\u044f"
+        }
+      ],
+      "alternativeName": "Shingeki no kyojin",
+      "enName": null,
+      "movieLength": null,
+      "names": [
+        {
+          "name": "\u0410\u0442\u0430\u043a\u0430 \u0442\u0438\u0442\u0430\u043d\u043e\u0432"
+        },
+        {
+          "name": "Shingeki no kyojin"
+        },
+        {
+          "name": "La 25a ora",
+          "language": "IT",
+          "type": null
+        },
+        {
+          "name": "La 25\u00e8me Heure",
+          "language": "FR",
+          "type": null
+        },
+        {
+          "name": "La hora 25",
+          "language": "AR",
+          "type": null
+        },
+        {
+          "name": "La venticinquesima ora",
+          "language": "IT",
+          "type": null
+        },
+        {
+          "name": "\u8f6c\u6298\u4e00\u523b",
+          "language": "CN",
+          "type": null
+        },
+        {
+          "name": "\u4e00\u7ebf\u66d9\u5149",
+          "language": "CN",
+          "type": null
+        },
+        {
+          "name": "La 25e heure",
+          "language": "FR",
+          "type": null
+        },
+        {
+          "name": "La 25eme Heure",
+          "language": "FR",
+          "type": null
+        },
+        {
+          "name": "La 25ima ora",
+          "language": "IT",
+          "type": null
+        },
+        {
+          "name": "24 heures avant la nuit",
+          "language": "FR",
+          "type": null
+        }
+      ],
+      "shortDescription": "\u041b\u044e\u0434\u0438 \u0441\u0440\u0430\u0436\u0430\u044e\u0442\u0441\u044f \u0441 \u0432\u0435\u043b\u0438\u043a\u0430\u043d\u0430\u043c\u0438, \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u043c\u0435\u0447\u0442\u0430\u044e\u0442 \u0438\u0445 \u0441\u044a\u0435\u0441\u0442\u044c. \u0421\u0430\u043c\u043e\u0435 \u044d\u043f\u0438\u0447\u043d\u043e\u0435 \u0438 \u043e\u0431\u0441\u0443\u0436\u0434\u0430\u0435\u043c\u043e\u0435 \u0430\u043d\u0438\u043c\u0435 \u0441\u043e\u0432\u0440\u0435\u043c\u0435\u043d\u043d\u043e\u0441\u0442\u0438",
+      "logo": {
+        "url": "https://avatars.mds.yandex.net/get-ott/224348/2a00000180c1eed0533fb1a60aacaa399403/orig"
+      },
+      "watchability": {
+        "items": [
+          {
+            "name": "24\u0422\u0412",
+            "logo": {
+              "url": "https://avatars.mds.yandex.net/get-ott/2439731/85e83b8d-1159-4781-bad5-ce0a809b3843/orig"
+            },
+            "url": "https://24h.tv/contents/2013-shingeki-no-kyojin-818644104557278609"
+          }
+        ]
+      },
+      "releaseYears": [
+        {
+          "start": 2013,
+          "end": null
+        }
+      ]
+    },
+    {
+      "externalId": {
+        "kpHD": "4c4086bb916d4d01b984e2d5a8a63005",
+        "imdb": "tt0347149",
+        "tmdb": 4935
+      },
+      "rating": {
+        "kp": 8.322,
+        "imdb": 8.2,
+        "filmCritics": 7.5,
+        "russianFilmCritics": 100,
+        "await": null
+      },
+      "votes": {
+        "kp": 370094,
+        "imdb": 409230,
+        "filmCritics": 182,
+        "russianFilmCritics": 6,
+        "await": 0
+      },
+      "movieLength": 119,
+      "id": 49684,
+      "type": "anime",
+      "name": "\u0425\u043e\u0434\u044f\u0447\u0438\u0439 \u0437\u0430\u043c\u043e\u043a",
+      "description": "\u0417\u043b\u0430\u044f \u0432\u0435\u0434\u044c\u043c\u0430 \u0437\u0430\u0442\u043e\u0447\u0438\u043b\u0430 18-\u043b\u0435\u0442\u043d\u044e\u044e \u0421\u043e\u0444\u0438 \u0432 \u0442\u0435\u043b\u043e \u0441\u0442\u0430\u0440\u0443\u0445\u0438. \u0414\u0435\u0432\u0443\u0448\u043a\u0430-\u0431\u0430\u0431\u0443\u0448\u043a\u0430 \u0431\u0435\u0436\u0438\u0442 \u0438\u0437 \u0433\u043e\u0440\u043e\u0434\u0430 \u043a\u0443\u0434\u0430 \u0433\u043b\u0430\u0437\u0430 \u0433\u043b\u044f\u0434\u044f\u0442 \u0438 \u0432\u0441\u0442\u0440\u0435\u0447\u0430\u0435\u0442 \u0443\u0434\u0438\u0432\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0439 \u0434\u043e\u043c \u043d\u0430 \u043d\u043e\u0436\u043a\u0430\u0445, \u0433\u0434\u0435 \u0437\u043d\u0430\u043a\u043e\u043c\u0438\u0442\u0441\u044f \u0441 \u043c\u043e\u0433\u0443\u0449\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u043c \u0432\u043e\u043b\u0448\u0435\u0431\u043d\u0438\u043a\u043e\u043c \u0425\u0430\u0443\u043b\u043e\u043c \u0438 \u0434\u0435\u043c\u043e\u043d\u043e\u043c \u041a\u0430\u043b\u044c\u0446\u0438\u0444\u0435\u0440\u043e\u043c. \u041a\u0430\u043b\u044c\u0446\u0438\u0444\u0435\u0440 \u0434\u043e\u043b\u0436\u0435\u043d \u0441\u043b\u0443\u0436\u0438\u0442\u044c \u0425\u0430\u0443\u043b\u0443 \u043f\u043e \u0434\u043e\u0433\u043e\u0432\u043e\u0440\u0443, \u0443\u0441\u043b\u043e\u0432\u0438\u044f \u043a\u043e\u0442\u043e\u0440\u043e\u0433\u043e \u043e\u043d \u043d\u0435 \u043c\u043e\u0436\u0435\u0442 \u0440\u0430\u0437\u0433\u043b\u0430\u0448\u0430\u0442\u044c. \u0414\u0435\u0432\u0443\u0448\u043a\u0430 \u0438 \u0434\u0435\u043c\u043e\u043d \u0440\u0435\u0448\u0430\u044e\u0442 \u043f\u043e\u043c\u043e\u0447\u044c \u0434\u0440\u0443\u0433 \u0434\u0440\u0443\u0433\u0443 \u0438\u0437\u0431\u0430\u0432\u0438\u0442\u044c\u0441\u044f \u043e\u0442 \u0437\u043b\u044b\u0445 \u0447\u0430\u0440.",
+      "year": 2004,
+      "poster": {
+        "url": "https://st.kp.yandex.net/images/film_big/49684.jpg",
+        "previewUrl": "https://st.kp.yandex.net/images/film_iphone/iphone360_49684.jpg"
+      },
+      "genres": [
+        {
+          "name": "\u0430\u043d\u0438\u043c\u0435"
+        },
+        {
+          "name": "\u043c\u0443\u043b\u044c\u0442\u0444\u0438\u043b\u044c\u043c"
+        },
+        {
+          "name": "\u0444\u044d\u043d\u0442\u0435\u0437\u0438"
+        },
+        {
+          "name": "\u043c\u0435\u043b\u043e\u0434\u0440\u0430\u043c\u0430"
+        },
+        {
+          "name": "\u043f\u0440\u0438\u043a\u043b\u044e\u0447\u0435\u043d\u0438\u044f"
+        }
+      ],
+      "countries": [
+        {
+          "name": "\u042f\u043f\u043e\u043d\u0438\u044f"
+        }
+      ],
+      "alternativeName": "Howl no Ugoku Shiro",
+      "enName": null,
+      "names": [
+        {
+          "name": "\u0425\u043e\u0434\u044f\u0447\u0438\u0439 \u0437\u0430\u043c\u043e\u043a"
+        },
+        {
+          "name": "Howl no Ugoku Shiro"
+        }
+      ],
+      "shortDescription": "\u0417\u043b\u0430\u044f \u043a\u043e\u043b\u0434\u0443\u043d\u044c\u044f \u043f\u0440\u0435\u0432\u0440\u0430\u0449\u0430\u0435\u0442 \u044e\u043d\u0443\u044e \u0421\u043e\u0444\u0438 \u0432 \u0441\u0442\u0430\u0440\u0443\u0448\u043a\u0443. \u0412\u043e\u043b\u0448\u0435\u0431\u043d\u0430\u044f \u0441\u043a\u0430\u0437\u043a\u0430 \u043e \u0441\u0438\u043b\u0435 \u043b\u044e\u0431\u0432\u0438 \u043f\u043e \u043c\u043e\u0442\u0438\u0432\u0430\u043c \u043a\u043d\u0438\u0433\u0438 \u0414\u0438\u0430\u043d\u044b \u0423\u0438\u043d\u043d \u0414\u0436\u043e\u043d\u0441",
+      "logo": {
+        "url": "https://avatars.mds.yandex.net/get-ott/223007/2a000001739479cbe711a4bd9dbe4e816ae7/orig"
+      },
+      "watchability": {
+        "items": [
+          {
+            "name": "Okko",
+            "logo": {
+              "url": "https://avatars.mds.yandex.net/get-ott/239697/7713e586-17d1-42d1-ac62-53e9ef1e70c3/orig"
+            },
+            "url": "https://okko.tv/movie/hauru-no-ugoku-shiro?utm_medium=referral&utm_source=yandex_search&utm_campaign=new_search_feed"
+          },
+          {
+            "name": "\u0418\u0432\u0438",
+            "logo": {
+              "url": "https://avatars.mds.yandex.net/get-ott/2419418/0dfd1724-848f-4725-9160-abc571f41c11/orig"
+            },
+            "url": "https://www.ivi.ru/watch/100072?utm_source=yandex&utm_medium=wizard"
+          },
+          {
+            "name": "KION",
+            "logo": {
+              "url": "https://avatars.mds.yandex.net/get-ott/239697/daeb142e-3ecc-4bb2-9bff-4827996643ab/orig"
+            },
+            "url": "https://kion.ru/video/movie/601634946?utm_source=yandex&utm_medium=organic&utm_campaign=wizard"
+          },
+          {
+            "name": "Wink",
+            "logo": {
+              "url": "https://avatars.mds.yandex.net/get-ott/1672343/54096cbe-cc3b-41c9-8e44-990ebbca8d61/orig"
+            },
+            "url": "https://wink.ru/media_items/146708270?utm_source=yandex&utm_medium=koldunschick&utm_content=name"
+          }
+        ]
+      }
+    },
+    {
+      "id": 958722,
+      "type": "anime",
+      "externalId": {
+        "kpHD": "4274a6e34cc5c6fd8beb9de557d327be",
+        "imdb": "tt5311514",
+        "tmdb": 372058
+      },
+      "name": "\u0422\u0432\u043e\u0451 \u0438\u043c\u044f",
+      "rating": {
+        "kp": 8.374,
+        "imdb": 8.4,
+        "filmCritics": 8.2,
+        "russianFilmCritics": 75,
+        "await": null
+      },
+      "description": "\u0422\u043e\u043a\u0438\u0439\u0441\u043a\u0438\u0439 \u043f\u0430\u0440\u0435\u043d\u044c \u0422\u0430\u043a\u0438 \u0438\u00a0\u043f\u0440\u043e\u0432\u0438\u043d\u0446\u0438\u0430\u043b\u044c\u043d\u0430\u044f \u0434\u0435\u0432\u0443\u0448\u043a\u0430 \u041c\u0438\u0446\u0443\u0445\u0430 \u043e\u0431\u043d\u0430\u0440\u0443\u0436\u0438\u0432\u0430\u044e\u0442, \u0447\u0442\u043e\u00a0\u043c\u0435\u0436\u0434\u0443 \u043d\u0438\u043c\u0438 \u0441\u0443\u0449\u0435\u0441\u0442\u0432\u0443\u0435\u0442 \u0441\u0442\u0440\u0430\u043d\u043d\u0430\u044f \u0441\u0432\u044f\u0437\u044c. \u0412\u043e\u00a0\u0441\u043d\u0435 \u043e\u043d\u0438\u00a0\u043c\u0435\u043d\u044f\u044e\u0442\u0441\u044f \u0442\u0435\u043b\u0430\u043c\u0438 \u0438\u00a0\u043f\u0440\u043e\u0436\u0438\u0432\u0430\u044e\u0442 \u0436\u0438\u0437\u043d\u0438 \u0434\u0440\u0443\u0433 \u0434\u0440\u0443\u0433\u0430. \u041d\u043e\u00a0\u043e\u0434\u043d\u0430\u0436\u0434\u044b \u044d\u0442\u0430\u00a0\u0441\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0441\u0442\u044c \u0438\u0441\u0447\u0435\u0437\u0430\u0435\u0442 \u0442\u0430\u043a\u00a0\u0436\u0435 \u0432\u043d\u0435\u0437\u0430\u043f\u043d\u043e, \u043a\u0430\u043a\u00a0\u043f\u043e\u044f\u0432\u0438\u043b\u0430\u0441\u044c. \u0422\u0430\u043a\u0438 \u0440\u0435\u0448\u0430\u0435\u0442 \u0432\u043e\u00a0\u0447\u0442\u043e \u0431\u044b\u00a0\u0442\u043e \u043d\u0438\u00a0\u0441\u0442\u0430\u043b\u043e \u043e\u0442\u044b\u0441\u043a\u0430\u0442\u044c \u041c\u0438\u0446\u0443\u0445\u0443.",
+      "votes": {
+        "kp": 243346,
+        "imdb": 283326,
+        "filmCritics": 116,
+        "russianFilmCritics": 4,
+        "await": 335
+      },
+      "year": 2016,
+      "poster": {
+        "url": "https://st.kp.yandex.net/images/film_big/958722.jpg",
+        "previewUrl": "https://st.kp.yandex.net/images/film_iphone/iphone360_958722.jpg"
+      },
+      "genres": [
+        {
+          "name": "\u0430\u043d\u0438\u043c\u0435"
+        },
+        {
+          "name": "\u043c\u0443\u043b\u044c\u0442\u0444\u0438\u043b\u044c\u043c"
+        },
+        {
+          "name": "\u0444\u044d\u043d\u0442\u0435\u0437\u0438"
+        },
+        {
+          "name": "\u0434\u0440\u0430\u043c\u0430"
+        },
+        {
+          "name": "\u043c\u0435\u043b\u043e\u0434\u0440\u0430\u043c\u0430"
+        }
+      ],
+      "countries": [
+        {
+          "name": "\u042f\u043f\u043e\u043d\u0438\u044f"
+        }
+      ],
+      "alternativeName": "Kimi no na wa.",
+      "enName": null,
+      "movieLength": 110,
+      "names": [
+        {
+          "name": "\u0422\u0432\u043e\u0451 \u0438\u043c\u044f"
+        },
+        {
+          "name": "Kimi no na wa."
+        },
+        {
+          "name": "Numele tau e ...",
+          "language": "RO",
+          "type": null
+        },
+        {
+          "name": "Seu Nome",
+          "language": "BR",
+          "type": null
+        },
+        {
+          "name": "\u0422\u0432\u043e\u0435 \u0438\u043c\u044f",
+          "language": "RU",
+          "type": null
+        },
+        {
+          "name": "Ton Nom",
+          "language": "FR",
+          "type": null
+        },
+        {
+          "name": "\ub108\uc758 \uc774\ub984\uc740.",
+          "language": "KR",
+          "type": null
+        },
+        {
+          "name": "Comment Tu T'Appelles?",
+          "language": "FR",
+          "type": null
+        },
+        {
+          "name": "\u4f60\u7684\u540d\u5b57",
+          "language": "CN",
+          "type": null
+        },
+        {
+          "name": "\u541b\u4e4b\u540d",
+          "language": "CN",
+          "type": null
+        },
+        {
+          "name": "\u0e2b\u0e25\u0e31\u0e1a\u0e15\u0e32\u0e1d\u0e31\u0e19 \u0e16\u0e36\u0e07\u0e0a\u0e37\u0e48\u0e2d\u0e40\u0e18\u0e2d",
+          "language": "TH",
+          "type": null
+        },
+        {
+          "name": "Your Name.",
+          "language": "US",
+          "type": null
+        },
+        {
+          "name": "\u4f60\u7684\u540d\u5b57",
+          "language": "HK",
+          "type": null
+        },
+        {
+          "name": "Kimi no Na wa. -your name.",
+          "language": "US",
+          "type": null
+        },
+        {
+          "name": "Twoje imi\u0119.",
+          "language": "PL",
+          "type": null
+        },
+        {
+          "name": "\u541b\u306e\u540d\u306f.",
+          "language": "JP",
+          "type": null
+        },
+        {
+          "name": "\u541b\u306e\u540d\u306f\u3002",
+          "language": "JP",
+          "type": null
+        },
+        {
+          "name": "Kimi no Na wa.",
+          "language": "JP",
+          "type": null
+        },
+        {
+          "name": "Twoje imi\u0119",
+          "language": "PL",
+          "type": null
+        },
+        {
+          "name": "\u541b\u306e\u540d\u306f",
+          "language": "JP",
+          "type": null
+        },
+        {
+          "name": "Your Name",
+          "language": "US",
+          "type": null
+        },
+        {
+          "name": "\u0924\u0941\u092e\u094d\u0939\u093e\u0930\u093e  \u0928\u093e\u092e",
+          "language": "IN",
+          "type": null
+        }
+      ],
+      "shortDescription": "\u041d\u0435\u0436\u043d\u0430\u044f \u0441\u043a\u0430\u0437\u043a\u0430 \u043e \u043f\u0435\u0440\u0432\u043e\u0439 \u043b\u044e\u0431\u0432\u0438, \u043a\u043e\u0442\u043e\u0440\u0430\u044f \u043f\u0440\u0435\u043e\u0434\u043e\u043b\u0435\u0432\u0430\u0435\u0442 \u043f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u0441\u0442\u0432\u043e \u0438 \u0432\u0440\u0435\u043c\u044f. \u0410\u043d\u0438\u043c\u0435 \u2014 \u0440\u0435\u043a\u043e\u0440\u0434\u0441\u043c\u0435\u043d \u0431\u043e\u043a\u0441-\u043e\u0444\u0438\u0441\u0430",
+      "logo": {
+        "url": "https://avatars.mds.yandex.net/get-ott/224348/2a000001722748afd22b6cd005ea5059c8a4/orig"
+      },
+      "watchability": {
+        "items": null
+      }
+    },
+    {
+      "externalId": {
+        "kpHD": "430d58d3b063b340824ff7ec7df330b8",
+        "imdb": "tt0096283",
+        "tmdb": 8392
+      },
+      "rating": {
+        "kp": 8.221,
+        "imdb": 8.1,
+        "filmCritics": 8.4,
+        "russianFilmCritics": 0,
+        "await": null
+      },
+      "votes": {
+        "kp": 192458,
+        "imdb": 350791,
+        "filmCritics": 57,
+        "russianFilmCritics": 2,
+        "await": 0
+      },
+      "movieLength": 86,
+      "id": 8221,
+      "type": "anime",
+      "name": "\u041c\u043e\u0439 \u0441\u043e\u0441\u0435\u0434 \u0422\u043e\u0442\u043e\u0440\u043e",
+      "description": "\u0421\u0435\u0441\u0442\u0440\u044b \u0421\u0430\u0446\u0443\u043a\u0438 \u0438\u00a0\u041c\u044d\u0439 \u043f\u0435\u0440\u0435\u0435\u0437\u0436\u0430\u044e\u0442 \u0432\u043c\u0435\u0441\u0442\u0435 \u0441\u00a0\u043f\u0430\u043f\u043e\u0439 \u0432\u00a0\u0434\u0435\u0440\u0435\u0432\u0435\u043d\u0441\u043a\u0438\u0439 \u0434\u043e\u043c. \u041e\u0434\u043d\u0430\u0436\u0434\u044b \u0434\u0435\u0432\u043e\u0447\u043a\u0438 \u043e\u0431\u043d\u0430\u0440\u0443\u0436\u0438\u0432\u0430\u044e\u0442, \u0447\u0442\u043e\u00a0\u043f\u043e \u0441\u043e\u0441\u0435\u0434\u0441\u0442\u0432\u0443 \u0441\u00a0\u043d\u0438\u043c\u0438 \u0436\u0438\u0432\u0443\u0442 \u043b\u0435\u0441\u043d\u044b\u0435 \u0434\u0443\u0445\u0438\u00a0\u2014\u00a0\u0445\u0440\u0430\u043d\u0438\u0442\u0435\u043b\u0438 \u043b\u0435\u0441\u0430 \u0432\u043e\u00a0\u0433\u043b\u0430\u0432\u0435 \u0441\u043e\u00a0\u0441\u0432\u043e\u0438\u043c \u043c\u043e\u0433\u0443\u0449\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u043c \u0438\u00a0\u0434\u043e\u0431\u0440\u044b\u043c \u043f\u043e\u0432\u0435\u043b\u0438\u0442\u0435\u043b\u0435\u043c \u0422\u043e\u0442\u043e\u0440\u043e. \u041f\u043e\u0441\u0442\u0435\u043f\u0435\u043d\u043d\u043e \u0422\u043e\u0442\u043e\u0440\u043e \u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u0441\u044f \u0434\u0440\u0443\u0433\u043e\u043c \u0434\u0435\u0432\u043e\u0447\u0435\u043a, \u043f\u043e\u043c\u043e\u0433\u0430\u044f \u0438\u043c\u00a0\u0432 \u0438\u0445\u00a0\u043f\u043e\u0432\u0441\u0435\u0434\u043d\u0435\u0432\u043d\u044b\u0445 \u043f\u0440\u0438\u043a\u043b\u044e\u0447\u0435\u043d\u0438\u044f\u0445.",
+      "year": 1988,
+      "poster": {
+        "url": "https://st.kp.yandex.net/images/film_big/8221.jpg",
+        "previewUrl": "https://st.kp.yandex.net/images/film_iphone/iphone360_8221.jpg"
+      },
+      "genres": [
+        {
+          "name": "\u0430\u043d\u0438\u043c\u0435"
+        },
+        {
+          "name": "\u043c\u0443\u043b\u044c\u0442\u0444\u0438\u043b\u044c\u043c"
+        },
+        {
+          "name": "\u0444\u044d\u043d\u0442\u0435\u0437\u0438"
+        },
+        {
+          "name": "\u043f\u0440\u0438\u043a\u043b\u044e\u0447\u0435\u043d\u0438\u044f"
+        },
+        {
+          "name": "\u0441\u0435\u043c\u0435\u0439\u043d\u044b\u0439"
+        }
+      ],
+      "countries": [
+        {
+          "name": "\u042f\u043f\u043e\u043d\u0438\u044f"
+        }
+      ],
+      "alternativeName": "Tonari no Totoro",
+      "enName": null,
+      "names": [
+        {
+          "name": "\u041c\u043e\u0439 \u0441\u043e\u0441\u0435\u0434 \u0422\u043e\u0442\u043e\u0440\u043e"
+        },
+        {
+          "name": "Tonari no Totoro"
+        },
+        {
+          "name": "Tonari No Totoro",
+          "language": "JP",
+          "type": "Hepburn Spelling"
+        },
+        {
+          "name": "Magiska \u00e4ventyr med Totoro",
+          "language": "SE",
+          "type": "Tv title"
+        },
+        {
+          "name": "N\u00e4kym\u00e4t\u00f6n yst\u00e4v\u00e4",
+          "language": "FI",
+          "type": "tv title"
+        },
+        {
+          "name": "Totoro",
+          "language": "FI",
+          "type": "Swedish title"
+        },
+        {
+          "name": "My Neighbor Totoro",
+          "language": "US",
+          "type": null
+        },
+        {
+          "name": "Totoro auzokidea",
+          "language": "ES",
+          "type": "Euskera"
+        },
+        {
+          "name": "Mon Voisin Totoro",
+          "language": "FR",
+          "type": null
+        },
+        {
+          "name": "Kom\u015fum Totoro",
+          "language": "TR",
+          "type": null
+        },
+        {
+          "name": "Mein Nachbar Totoro",
+          "language": "DE",
+          "type": null
+        },
+        {
+          "name": "\u9f8d\u8c93",
+          "language": "HK",
+          "type": null
+        },
+        {
+          "name": "\uc774\uc6c3\uc9d1 \ud1a0\ud1a0\ub85c",
+          "language": "KR",
+          "type": null
+        },
+        {
+          "name": "My Neighbour Totoro",
+          "language": "GB",
+          "type": null
+        },
+        {
+          "name": "Min nabo Totoro",
+          "language": "NO",
+          "type": null
+        }
+      ],
+      "shortDescription": "\u0421\u0435\u0441\u0442\u0440\u0435\u043d\u043a\u0438 \u0437\u043d\u0430\u043a\u043e\u043c\u044f\u0442\u0441\u044f \u0441 \u043e\u0431\u0430\u044f\u0442\u0435\u043b\u044c\u043d\u044b\u043c \u0434\u0443\u0445\u043e\u043c \u043b\u0435\u0441\u0430. \u0418\u0441\u0442\u043e\u0440\u0438\u044f \u043e \u0432\u0435\u0440\u0435 \u0432 \u0447\u0443\u0434\u043e, \u0441\u0442\u0430\u0432\u0448\u0430\u044f \u0432\u0438\u0437\u0438\u0442\u043d\u043e\u0439 \u043a\u0430\u0440\u0442\u043e\u0447\u043a\u043e\u0439 \u0441\u0442\u0443\u0434\u0438\u0438 Ghibli",
+      "logo": {
+        "url": "https://avatars.mds.yandex.net/get-ott/1672343/2a00000173947a879571090c7ef4e5e197de/orig"
+      },
+      "watchability": {
+        "items": [
+          {
+            "name": "Okko",
+            "logo": {
+              "url": "https://avatars.mds.yandex.net/get-ott/239697/7713e586-17d1-42d1-ac62-53e9ef1e70c3/orig"
+            },
+            "url": "https://okko.tv/movie/tonari-no-totoro?utm_medium=referral&utm_source=yandex_search&utm_campaign=new_search_feed"
+          },
+          {
+            "name": "\u0418\u0432\u0438",
+            "logo": {
+              "url": "https://avatars.mds.yandex.net/get-ott/2419418/0dfd1724-848f-4725-9160-abc571f41c11/orig"
+            },
+            "url": "https://www.ivi.ru/watch/100075?utm_source=yandex&utm_medium=wizard"
+          },
+          {
+            "name": "KION",
+            "logo": {
+              "url": "https://avatars.mds.yandex.net/get-ott/239697/daeb142e-3ecc-4bb2-9bff-4827996643ab/orig"
+            },
+            "url": "https://kion.ru/video/movie/601879520?utm_source=yandex&utm_medium=organic&utm_campaign=wizard"
+          },
+          {
+            "name": "Wink",
+            "logo": {
+              "url": "https://avatars.mds.yandex.net/get-ott/1672343/54096cbe-cc3b-41c9-8e44-990ebbca8d61/orig"
+            },
+            "url": "https://wink.ru/media_items/146684950?utm_source=yandex&utm_medium=koldunschick&utm_content=name"
+          }
+        ]
+      }
+    },
+    {
+      "id": 406148,
+      "type": "anime",
+      "externalId": {
+        "kpHD": null,
+        "imdb": "tt0339526",
+        "tmdb": 13916
+      },
+      "name": "\u0422\u0435\u0442\u0440\u0430\u0434\u044c \u0441\u043c\u0435\u0440\u0442\u0438",
+      "rating": {
+        "kp": 8.587,
+        "imdb": 9,
+        "filmCritics": 0,
+        "russianFilmCritics": 0,
+        "await": null
+      },
+      "description": "\u0421\u0442\u0430\u0440\u0448\u0435\u043a\u043b\u0430\u0441\u0441\u043d\u0438\u043a\u0443 \u041b\u0430\u0439\u0442\u0443 \u042f\u0433\u0430\u043c\u0438 \u0432 \u0440\u0443\u043a\u0438 \u043f\u043e\u043f\u0430\u0434\u0430\u0435\u0442 \u0442\u0435\u0442\u0440\u0430\u0434\u044c \u0441\u0438\u043d\u0438\u0433\u0430\u043c\u0438 \u0420\u044e\u043a\u0430. \u041a\u0430\u0436\u0434\u044b\u0439 \u0447\u0435\u043b\u043e\u0432\u0435\u043a, \u0447\u044c\u0451 \u0438\u043c\u044f \u0437\u0430\u043f\u0438\u0441\u0430\u0442\u044c \u0432 \u044d\u0442\u0443 \u0442\u0435\u0442\u0440\u0430\u0434\u043a\u0443, \u0443\u043c\u0440\u0451\u0442, \u043f\u043e\u044d\u0442\u043e\u043c\u0443 \u041b\u0430\u0439\u0442 \u0440\u0435\u0448\u0430\u0435\u0442 \u0431\u043e\u0440\u043e\u0442\u044c\u0441\u044f \u0441\u043e \u0437\u043b\u043e\u043c \u043d\u0430 \u0437\u0435\u043c\u043b\u0435.",
+      "votes": {
+        "kp": 166415,
+        "imdb": 340490,
+        "filmCritics": 0,
+        "russianFilmCritics": 0,
+        "await": 0
+      },
+      "year": 2006,
+      "poster": {
+        "url": "https://st.kp.yandex.net/images/film_big/406148.jpg",
+        "previewUrl": "https://st.kp.yandex.net/images/film_iphone/iphone360_406148.jpg"
+      },
+      "genres": [
+        {
+          "name": "\u0430\u043d\u0438\u043c\u0435"
+        },
+        {
+          "name": "\u043c\u0443\u043b\u044c\u0442\u0444\u0438\u043b\u044c\u043c"
+        },
+        {
+          "name": "\u0444\u044d\u043d\u0442\u0435\u0437\u0438"
+        },
+        {
+          "name": "\u0442\u0440\u0438\u043b\u043b\u0435\u0440"
+        },
+        {
+          "name": "\u0434\u0440\u0430\u043c\u0430"
+        },
+        {
+          "name": "\u043a\u0440\u0438\u043c\u0438\u043d\u0430\u043b"
+        },
+        {
+          "name": "\u0434\u0435\u0442\u0435\u043a\u0442\u0438\u0432"
+        }
+      ],
+      "countries": [
+        {
+          "name": "\u042f\u043f\u043e\u043d\u0438\u044f"
+        }
+      ],
+      "alternativeName": "Desu noto",
+      "enName": null,
+      "movieLength": null,
+      "names": [
+        {
+          "name": "\u0422\u0435\u0442\u0440\u0430\u0434\u044c \u0441\u043c\u0435\u0440\u0442\u0438"
+        },
+        {
+          "name": "Desu noto"
+        },
+        {
+          "name": "Poolhall Prophets",
+          "language": "GB",
+          "type": "International"
+        }
+      ],
+      "shortDescription": null,
+      "logo": {
+        "url": null
+      },
+      "watchability": {
+        "items": null
+      },
+      "releaseYears": [
+        {
+          "start": 2006,
+          "end": 2007
+        }
+      ]
+    },
+    {
+      "externalId": {
+        "kpHD": "47c92cded6e021d28f0ec1cbe1ca6ff8",
+        "imdb": "tt0119698",
+        "tmdb": 128
+      },
+      "rating": {
+        "kp": 8.201,
+        "imdb": 8.3,
+        "filmCritics": 8,
+        "russianFilmCritics": 0,
+        "await": null
+      },
+      "votes": {
+        "kp": 154042,
+        "imdb": 404862,
+        "filmCritics": 114,
+        "russianFilmCritics": 2,
+        "await": 0
+      },
+      "movieLength": 134,
+      "id": 441,
+      "type": "anime",
+      "name": "\u041f\u0440\u0438\u043d\u0446\u0435\u0441\u0441\u0430 \u041c\u043e\u043d\u043e\u043d\u043e\u043a\u0435",
+      "description": "\u0423\u0431\u0438\u0432 \u0432\u0435\u043f\u0440\u044f, \u044e\u043d\u044b\u0439 \u043f\u0440\u0438\u043d\u0446 \u0410\u0441\u0438\u0442\u0430\u043a\u0430 \u043d\u0430\u0432\u043b\u0435\u043a \u043d\u0430 \u0441\u0435\u0431\u044f \u0441\u043c\u0435\u0440\u0442\u0435\u043b\u044c\u043d\u043e\u0435 \u043f\u0440\u043e\u043a\u043b\u044f\u0442\u0438\u0435. \u0421\u0442\u0430\u0440\u0430\u044f \u0437\u043d\u0430\u0445\u0430\u0440\u043a\u0430 \u043f\u0440\u0435\u0434\u0441\u043a\u0430\u0437\u0430\u043b\u0430, \u0447\u0442\u043e \u0442\u043e\u043b\u044c\u043a\u043e \u043e\u043d \u0441\u0430\u043c \u0441\u043f\u043e\u0441\u043e\u0431\u0435\u043d \u0438\u0437\u043c\u0435\u043d\u0438\u0442\u044c \u0441\u0432\u043e\u044e \u0441\u0443\u0434\u044c\u0431\u0443, \u0438 \u043e\u0442\u0432\u0430\u0436\u043d\u044b\u0439 \u0432\u043e\u0438\u043d \u043e\u0442\u043f\u0440\u0430\u0432\u0438\u043b\u0441\u044f \u0432 \u043e\u043f\u0430\u0441\u043d\u043e\u0435 \u043f\u0443\u0442\u0435\u0448\u0435\u0441\u0442\u0432\u0438\u0435. \u0422\u0430\u043a \u043e\u043d \u043e\u043a\u0430\u0437\u0430\u043b\u0441\u044f \u0432 \u0437\u0430\u0433\u0430\u0434\u043e\u0447\u043d\u043e\u0439 \u0441\u0442\u0440\u0430\u043d\u0435, \u0433\u0434\u0435 \u043b\u044e\u0434\u0438 \u043f\u043e\u0434 \u043f\u0440\u0435\u0434\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c\u0441\u0442\u0432\u043e\u043c \u0437\u043b\u043e\u0439 \u0433\u043e\u0441\u043f\u043e\u0436\u0438 \u042d\u0431\u043e\u0441\u0438 \u0432\u043e\u0435\u0432\u0430\u043b\u0438 \u0441 \u043e\u0431\u0438\u0442\u0430\u0442\u0435\u043b\u044f\u043c\u0438 \u043b\u0435\u0441\u0430: \u0434\u0443\u0445\u0430\u043c\u0438, \u0434\u0435\u043c\u043e\u043d\u0430\u043c\u0438 \u0438 \u0433\u0438\u0433\u0430\u043d\u0442\u0441\u043a\u0438\u043c\u0438 \u0441\u0443\u0449\u0435\u0441\u0442\u0432\u0430\u043c\u0438, \u043a\u0430\u043a\u0438\u0445 \u0410\u0441\u0438\u0442\u0430\u043a\u0430 \u0440\u0430\u043d\u044c\u0448\u0435 \u043d\u0438\u043a\u043e\u0433\u0434\u0430 \u043d\u0435 \u0432\u0438\u0434\u0435\u043b. \n\n\u0418 \u0431\u044b\u043b\u0430 \u0441 \u043d\u0438\u043c\u0438 \u043f\u0440\u0438\u043d\u0446\u0435\u0441\u0441\u0430 \u041c\u043e\u043d\u043e\u043d\u043e\u043a\u0435 - \u043f\u043e\u0432\u0435\u043b\u0438\u0442\u0435\u043b\u044c\u043d\u0438\u0446\u0430 \u0437\u0432\u0435\u0440\u0435\u0439 \u0438 \u0434\u043e\u0447\u044c \u0432\u043e\u043b\u0447\u0438\u0446\u044b. \u0422\u0435\u043f\u0435\u0440\u044c \u0441\u0443\u0434\u044c\u0431\u0430 \u0432\u0441\u0435\u0445 \u0437\u0430\u0432\u0438\u0441\u0438\u0442 \u0442\u043e\u043b\u044c\u043a\u043e \u043e\u0442 \u043e\u0434\u043d\u043e\u0433\u043e \u0432\u043e\u0438\u043d\u0430 - \u043f\u0440\u0438\u043d\u0446\u0430 \u0410\u0441\u0438\u0442\u0430\u043a\u0438.",
+      "year": 1997,
+      "poster": {
+        "url": "https://st.kp.yandex.net/images/film_big/441.jpg",
+        "previewUrl": "https://st.kp.yandex.net/images/film_iphone/iphone360_441.jpg"
+      },
+      "genres": [
+        {
+          "name": "\u0430\u043d\u0438\u043c\u0435"
+        },
+        {
+          "name": "\u043c\u0443\u043b\u044c\u0442\u0444\u0438\u043b\u044c\u043c"
+        },
+        {
+          "name": "\u0444\u044d\u043d\u0442\u0435\u0437\u0438"
+        },
+        {
+          "name": "\u0431\u043e\u0435\u0432\u0438\u043a"
+        },
+        {
+          "name": "\u0434\u0440\u0430\u043c\u0430"
+        },
+        {
+          "name": "\u043f\u0440\u0438\u043a\u043b\u044e\u0447\u0435\u043d\u0438\u044f"
+        }
+      ],
+      "countries": [
+        {
+          "name": "\u042f\u043f\u043e\u043d\u0438\u044f"
+        }
+      ],
+      "alternativeName": "Mononoke-hime",
+      "enName": null,
+      "names": [
+        {
+          "name": "\u041f\u0440\u0438\u043d\u0446\u0435\u0441\u0441\u0430 \u041c\u043e\u043d\u043e\u043d\u043e\u043a\u0435"
+        },
+        {
+          "name": "Mononoke-hime"
+        },
+        {
+          "name": "Mononoke Hime",
+          "language": "JP",
+          "type": "Romaji"
+        },
+        {
+          "name": "\uc6d0\ub839\uacf5\uc8fc",
+          "language": "KR",
+          "type": "korean title"
+        },
+        {
+          "name": "Princeza Mononoke",
+          "language": "RS",
+          "type": null
+        },
+        {
+          "name": "Princesa Mononoke",
+          "language": "BR",
+          "type": null
+        },
+        {
+          "name": "A Princesa Mononoke",
+          "language": "PT",
+          "type": null
+        },
+        {
+          "name": "\u5e7d\u7075\u516c\u4e3b",
+          "language": "CN",
+          "type": "\u52a8\u753b / \u5947\u5e7b / \u5192\u9669"
+        },
+        {
+          "name": "Prenses Mononoke",
+          "language": "TR",
+          "type": null
+        },
+        {
+          "name": "Princess Mononoke",
+          "language": "IT",
+          "type": null
+        },
+        {
+          "name": "Mononoke Hime",
+          "language": "ES",
+          "type": "Romaji"
+        },
+        {
+          "name": "\u5e7d\u9748\u516c\u4e3b",
+          "language": "HK",
+          "type": null
+        },
+        {
+          "name": "The Princess Mononoke",
+          "language": "JP",
+          "type": "Older official translations"
+        },
+        {
+          "name": "Principessa Mononoke",
+          "language": "IT",
+          "type": null
+        },
+        {
+          "name": "Ksi\u0119\u017cniczka Mononoke",
+          "language": "PL",
+          "type": null
+        },
+        {
+          "name": "Prinzessin Mononoke",
+          "language": "DE",
+          "type": null
+        },
+        {
+          "name": "\ubaa8\ub178\ub178\ucf00 \ud788\uba54",
+          "language": "KR",
+          "type": "alternative korean title"
+        }
+      ],
+      "shortDescription": "\u0417\u0430\u043a\u043e\u043b\u0434\u043e\u0432\u0430\u043d\u043d\u044b\u0439 \u043f\u0440\u0438\u043d\u0446 \u0438 \u043b\u0435\u0441\u043d\u0430\u044f \u043f\u0440\u0438\u043d\u0446\u0435\u0441\u0441\u0430 \u0431\u043e\u0440\u044e\u0442\u0441\u044f \u0441 \u0434\u0440\u0435\u0432\u043d\u0438\u043c \u0434\u0435\u043c\u043e\u043d\u043e\u043c \u0438 \u0435\u0433\u043e \u0440\u0430\u0431\u0430\u043c\u0438. \u0410\u043d\u0438\u043c\u0435-\u0431\u043b\u043e\u043a\u0431\u0430\u0441\u0442\u0435\u0440 \u0425\u0430\u044f\u043e \u041c\u0438\u044f\u0434\u0437\u0430\u043a\u0438",
+      "logo": {
+        "url": "https://avatars.mds.yandex.net/get-ott/236744/2a00000173947daba25a2156e8af43dbb41b/orig"
+      },
+      "watchability": {
+        "items": [
+          {
+            "name": "Okko",
+            "logo": {
+              "url": "https://avatars.mds.yandex.net/get-ott/239697/7713e586-17d1-42d1-ac62-53e9ef1e70c3/orig"
+            },
+            "url": "https://okko.tv/movie/mononoke-hime?utm_medium=referral&utm_source=yandex_search&utm_campaign=new_search_feed"
+          },
+          {
+            "name": "\u0418\u0432\u0438",
+            "logo": {
+              "url": "https://avatars.mds.yandex.net/get-ott/2419418/0dfd1724-848f-4725-9160-abc571f41c11/orig"
+            },
+            "url": "https://www.ivi.ru/watch/100073?utm_source=yandex&utm_medium=wizard"
+          },
+          {
+            "name": "KION",
+            "logo": {
+              "url": "https://avatars.mds.yandex.net/get-ott/239697/daeb142e-3ecc-4bb2-9bff-4827996643ab/orig"
+            },
+            "url": "https://kion.ru/video/movie/601635018?utm_source=yandex&utm_medium=organic&utm_campaign=wizard"
+          },
+          {
+            "name": "Wink",
+            "logo": {
+              "url": "https://avatars.mds.yandex.net/get-ott/1672343/54096cbe-cc3b-41c9-8e44-990ebbca8d61/orig"
+            },
+            "url": "https://wink.ru/media_items/146709111?utm_source=yandex&utm_medium=koldunschick&utm_content=name"
+          }
+        ]
+      }
+    },
+    {
+      "externalId": {
+        "kpHD": "4243bce9cf1b5a1dbfe23dcef25d2e5e",
+        "imdb": "tt0983213",
+        "tmdb": 38142
+      },
+      "rating": {
+        "kp": 7.89,
+        "imdb": 7.5,
+        "filmCritics": 0,
+        "russianFilmCritics": 0,
+        "await": null
+      },
+      "votes": {
+        "kp": 125040,
+        "imdb": 60369,
+        "filmCritics": 0,
+        "russianFilmCritics": 0,
+        "await": 0
+      },
+      "movieLength": 63,
+      "id": 280961,
+      "type": "anime",
+      "name": "5 \u0441\u0430\u043d\u0442\u0438\u043c\u0435\u0442\u0440\u043e\u0432 \u0432 \u0441\u0435\u043a\u0443\u043d\u0434\u0443",
+      "description": "\u0422\u0440\u0438 \u0438\u0441\u0442\u043e\u0440\u0438\u0438 \u0438\u0437 \u0436\u0438\u0437\u043d\u0438 \u0422\u0430\u043a\u0430\u043a\u0438 \u0422\u043e\u043d\u043e, \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u043d\u0430\u0447\u0438\u043d\u0430\u044e\u0442\u0441\u044f \u0432 \u042f\u043f\u043e\u043d\u0438\u0438 \u0432 \u0441\u0435\u0440\u0435\u0434\u0438\u043d\u0435 1990-\u0445 \u0433\u043e\u0434\u043e\u0432.",
+      "year": 2007,
+      "poster": {
+        "url": "https://st.kp.yandex.net/images/film_big/280961.jpg",
+        "previewUrl": "https://st.kp.yandex.net/images/film_iphone/iphone360_280961.jpg"
+      },
+      "genres": [
+        {
+          "name": "\u0430\u043d\u0438\u043c\u0435"
+        },
+        {
+          "name": "\u043c\u0443\u043b\u044c\u0442\u0444\u0438\u043b\u044c\u043c"
+        },
+        {
+          "name": "\u0434\u0440\u0430\u043c\u0430"
+        },
+        {
+          "name": "\u043c\u0435\u043b\u043e\u0434\u0440\u0430\u043c\u0430"
+        }
+      ],
+      "countries": [
+        {
+          "name": "\u042f\u043f\u043e\u043d\u0438\u044f"
+        }
+      ],
+      "alternativeName": "Byousoku 5 Centimeter",
+      "enName": null,
+      "names": [
+        {
+          "name": "5 \u0441\u0430\u043d\u0442\u0438\u043c\u0435\u0442\u0440\u043e\u0432 \u0432 \u0441\u0435\u043a\u0443\u043d\u0434\u0443"
+        },
+        {
+          "name": "Byousoku 5 Centimeter"
+        }
+      ],
+      "shortDescription": "\u0422\u0440\u0438 \u0438\u0441\u0442\u043e\u0440\u0438\u0438 \u043e \u043f\u0435\u0440\u0432\u043e\u0439 \u043b\u044e\u0431\u0432\u0438, \u043a\u0440\u0430\u0441\u043e\u0442\u0435 \u0438 \u043d\u0435\u0443\u043c\u043e\u043b\u0438\u043c\u043e\u0439 \u043f\u043e\u0432\u0441\u0435\u0434\u043d\u0435\u0432\u043d\u043e\u0441\u0442\u0438. \u041c\u0435\u0434\u0438\u0442\u0430\u0442\u0438\u0432\u043d\u043e\u0435, \u0449\u0435\u043c\u044f\u0449\u0435\u0435 \u0430\u043d\u0438\u043c\u0435 \u041c\u0430\u043a\u043e\u0442\u043e \u0421\u0438\u043d\u043a\u0430\u044f",
+      "logo": {
+        "url": "https://avatars.mds.yandex.net/get-ott/1672343/2a00000174c0509b3823f969558437f6aa45/orig"
+      },
+      "watchability": {
+        "items": [
+          {
+            "name": "Okko",
+            "logo": {
+              "url": "https://avatars.mds.yandex.net/get-ott/239697/7713e586-17d1-42d1-ac62-53e9ef1e70c3/orig"
+            },
+            "url": "https://okko.tv/movie/byosoku-5-senchimetoru?utm_medium=referral&utm_source=yandex_search&utm_campaign=new_search_feed"
+          },
+          {
+            "name": "\u0418\u0432\u0438",
+            "logo": {
+              "url": "https://avatars.mds.yandex.net/get-ott/2419418/0dfd1724-848f-4725-9160-abc571f41c11/orig"
+            },
+            "url": "https://www.ivi.ru/watch/131494?utm_source=yandex&utm_medium=wizard"
+          },
+          {
+            "name": "KION",
+            "logo": {
+              "url": "https://avatars.mds.yandex.net/get-ott/239697/daeb142e-3ecc-4bb2-9bff-4827996643ab/orig"
+            },
+            "url": "https://kion.ru/video/movie/274477616?utm_source=yandex&utm_medium=organic&utm_campaign=wizard"
+          },
+          {
+            "name": "PREMIER",
+            "logo": {
+              "url": "https://avatars.mds.yandex.net/get-ott/239697/0f86e907-9531-47e9-87bd-5101a08d4e30/orig"
+            },
+            "url": "https://premier.one/show/19569?utm_source=yandex&utm_medium=yandex_feed_search&utm_campaign=yandex_feed"
+          },
+          {
+            "name": "\u041a\u0438\u043d\u043e1\u0422\u0412",
+            "logo": {
+              "url": "https://avatars.mds.yandex.net/get-ott/1672343/4e5f7a8e-d5ac-4904-9fc0-208753ccf520/orig"
+            },
+            "url": "https://kino.1tv.ru/serials/5-santimetrov-v-sekundu?utm_source=yandex&utm_medium=wizard"
+          },
+          {
+            "name": "Wink",
+            "logo": {
+              "url": "https://avatars.mds.yandex.net/get-ott/1672343/54096cbe-cc3b-41c9-8e44-990ebbca8d61/orig"
+            },
+            "url": "https://wink.ru/media_items/109637539?utm_source=yandex&utm_medium=koldunschick&utm_content=name"
+          }
+        ]
+      }
+    },
+    {
+      "externalId": {
+        "kpHD": "420582e59b0ad54caeb47d0273e6f93d",
+        "imdb": "tt9426210",
+        "tmdb": 568160
+      },
+      "rating": {
+        "kp": 7.956,
+        "imdb": 7.5,
+        "filmCritics": 7.4,
+        "russianFilmCritics": 87.5,
+        "await": null
+      },
+      "votes": {
+        "kp": 121496,
+        "imdb": 46915,
+        "filmCritics": 96,
+        "russianFilmCritics": 8,
+        "await": 1220
+      },
+      "movieLength": 112,
+      "id": 1219417,
+      "type": "anime",
+      "name": "\u0414\u0438\u0442\u044f \u043f\u043e\u0433\u043e\u0434\u044b",
+      "description": "16-\u043b\u0435\u0442\u043d\u0438\u0439 \u0425\u043e\u0434\u0430\u043a\u0430 \u041c\u043e\u0440\u0438\u0441\u0438\u043c\u0430 \u0443\u0431\u0435\u0433\u0430\u0435\u0442 \u0438\u0437 \u0434\u043e\u043c\u0430 \u0432 \u0422\u043e\u043a\u0438\u043e, \u0433\u0434\u0435 \u0443 \u043d\u0435\u0433\u043e \u0441\u0440\u0430\u0437\u0443 \u043a\u043e\u043d\u0447\u0430\u044e\u0442\u0441\u044f \u0434\u0435\u043d\u044c\u0433\u0438. \u041c\u0430\u043b\u043e \u0442\u043e\u0433\u043e, \u0447\u0442\u043e \u0431\u0435\u0437 \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u043e\u0432 \u043e\u043d \u043d\u0435 \u043c\u043e\u0436\u0435\u0442 \u043d\u0430\u0439\u0442\u0438 \u0440\u0430\u0431\u043e\u0442\u0443, \u0442\u0430\u043a \u0435\u0449\u0451 \u043d\u0430 \u0443\u043b\u0438\u0446\u0435 \u0438\u0434\u0451\u0442 \u0431\u0435\u0441\u043a\u043e\u043d\u0435\u0447\u043d\u044b\u0439 \u0434\u043e\u0436\u0434\u044c, \u0438 \u043d\u0435\u0431\u043e \u043f\u043e\u0441\u0442\u043e\u044f\u043d\u043d\u043e \u0437\u0430\u0442\u044f\u043d\u0443\u0442\u043e \u0442\u0443\u0447\u0430\u043c\u0438. \u0412 \u043e\u0442\u0447\u0430\u044f\u043d\u0438\u0438 \u043f\u0430\u0440\u0435\u043d\u044c \u043e\u0431\u0440\u0430\u0449\u0430\u0435\u0442\u0441\u044f \u043a \u0431\u044b\u0432\u0448\u0435\u043c\u0443 \u043f\u043e\u043f\u0443\u0442\u0447\u0438\u043a\u0443, \u0430 \u0442\u043e\u0442 \u043d\u0435 \u0442\u043e\u043b\u044c\u043a\u043e \u0431\u0435\u0440\u0451\u0442 \u0435\u0433\u043e \u0432 \u0441\u0432\u043e\u0439 \u0436\u0443\u0440\u043d\u0430\u043b, \u043f\u0438\u0448\u0443\u0449\u0438\u0439 \u043e \u0441\u0432\u0435\u0440\u0445\u044a\u0435\u0441\u0442\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u043c, \u043d\u043e \u0438 \u043f\u0440\u0435\u0434\u043e\u0441\u0442\u0430\u0432\u043b\u044f\u0435\u0442 \u0436\u0438\u043b\u044c\u0451. \u041e\u0434\u043d\u0430\u0436\u0434\u044b \u0425\u043e\u0434\u0430\u043a\u0430 \u0437\u043d\u0430\u043a\u043e\u043c\u0438\u0442\u0441\u044f \u0441 \u0434\u0435\u0432\u0443\u0448\u043a\u043e\u0439 \u043f\u043e \u0438\u043c\u0435\u043d\u0438 \u0425\u0438\u043d\u0430 \u0410\u043c\u0430\u043d\u043e, \u043a\u043e\u0442\u043e\u0440\u0430\u044f \u043e\u0431\u043b\u0430\u0434\u0430\u0435\u0442 \u0443\u0434\u0438\u0432\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0439 \u0441\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0441\u0442\u044c\u044e \u0440\u0430\u0437\u0433\u043e\u043d\u044f\u0442\u044c \u0442\u0443\u0447\u0438 \u0438 \u043e\u0441\u0442\u0430\u043d\u0430\u0432\u043b\u0438\u0432\u0430\u0442\u044c \u0434\u043e\u0436\u0434\u044c.",
+      "year": 2019,
+      "poster": {
+        "url": "https://st.kp.yandex.net/images/film_big/1219417.jpg",
+        "previewUrl": "https://st.kp.yandex.net/images/film_iphone/iphone360_1219417.jpg"
+      },
+      "genres": [
+        {
+          "name": "\u0430\u043d\u0438\u043c\u0435"
+        },
+        {
+          "name": "\u043c\u0443\u043b\u044c\u0442\u0444\u0438\u043b\u044c\u043c"
+        },
+        {
+          "name": "\u043c\u0435\u043b\u043e\u0434\u0440\u0430\u043c\u0430"
+        },
+        {
+          "name": "\u0444\u044d\u043d\u0442\u0435\u0437\u0438"
+        }
+      ],
+      "countries": [
+        {
+          "name": "\u042f\u043f\u043e\u043d\u0438\u044f"
+        }
+      ],
+      "alternativeName": "Tenki no ko",
+      "enName": null,
+      "names": [
+        {
+          "name": "\u0414\u0438\u0442\u044f \u043f\u043e\u0433\u043e\u0434\u044b"
+        },
+        {
+          "name": "Tenki no ko"
+        },
+        {
+          "name": "Weather Child",
+          "language": "US",
+          "type": "Informal Literal English Title"
+        },
+        {
+          "name": "Child of Weather",
+          "language": "US",
+          "type": "Informal Literal English Title"
+        },
+        {
+          "name": "Weathering with You - Das M\u00e4dchen, das die Sonne ber\u00fchrte",
+          "language": "DE",
+          "type": null
+        },
+        {
+          "name": "\u5929\u6c14\u4e4b\u5b50",
+          "language": "CN",
+          "type": null
+        },
+        {
+          "name": "O Tempo com Voc\u00ea",
+          "language": "BR",
+          "type": "Filme"
+        },
+        {
+          "name": "\u0906\u092a\u0915\u0947 \u0938\u093e\u0925 \u0905\u092a\u0915\u094d\u0937\u092f",
+          "language": "IN",
+          "type": "Hindi"
+        },
+        {
+          "name": "\u5929\u6c17\u306e\u5b50",
+          "language": "JP",
+          "type": null
+        },
+        {
+          "name": "El tiempo contigo",
+          "language": "ES",
+          "type": "Spanish Title"
+        },
+        {
+          "name": "Tenki no Ko",
+          "language": "US",
+          "type": "Romaji"
+        },
+        {
+          "name": "Les Enfants du Temps",
+          "language": "FR",
+          "type": null
+        },
+        {
+          "name": "Tenki No Ko",
+          "language": "FR",
+          "type": "Title Research"
+        },
+        {
+          "name": "\u0e24\u0e14\u0e39\u0e1d\u0e31\u0e19 \u0e09\u0e31\u0e19\u0e21\u0e35\u0e40\u0e18\u0e2d",
+          "language": "TH",
+          "type": null
+        },
+        {
+          "name": "Weathering With You",
+          "language": "US",
+          "type": null
+        },
+        {
+          "name": "\u5929\u6c23\u4e4b\u5b50",
+          "language": "HK",
+          "type": null
+        },
+        {
+          "name": "Weathering with You - Das M\u00e4dchen das die Sonne ber\u00fchrte",
+          "language": "DE",
+          "type": null
+        }
+      ],
+      "shortDescription": "\u041b\u044e\u0431\u043e\u0432\u044c \u0438 \u0434\u0440\u0435\u0432\u043d\u044f\u044f \u043c\u0430\u0433\u0438\u044f \u0432 \u043c\u0435\u0433\u0430\u043f\u043e\u043b\u0438\u0441\u0435. \u0410\u043d\u0438\u043c\u0435-\u0448\u0435\u0434\u0435\u0432\u0440 \u043e \u0446\u0435\u043d\u043d\u043e\u0441\u0442\u0438 \u0441\u043e\u043b\u043d\u0435\u0447\u043d\u043e\u0433\u043e \u0441\u0432\u0435\u0442\u0430 \u043e\u0442 \u0430\u0432\u0442\u043e\u0440\u0430 \u0445\u0438\u0442\u0430 \u00ab\u0422\u0432\u043e\u0435 \u0438\u043c\u044f\u00bb",
+      "logo": {
+        "url": "https://avatars.mds.yandex.net/get-ott/1672343/2a00000172508c8ded8db7400beb99d4e45c/orig"
+      },
+      "watchability": {
+        "items": [
+          {
+            "name": "Okko",
+            "logo": {
+              "url": "https://avatars.mds.yandex.net/get-ott/239697/7713e586-17d1-42d1-ac62-53e9ef1e70c3/orig"
+            },
+            "url": "https://okko.tv/movie/tenki-no-ko?utm_medium=referral&utm_source=yandex_search&utm_campaign=new_search_feed"
+          },
+          {
+            "name": "\u0418\u0432\u0438",
+            "logo": {
+              "url": "https://avatars.mds.yandex.net/get-ott/2419418/0dfd1724-848f-4725-9160-abc571f41c11/orig"
+            },
+            "url": "https://www.ivi.ru/watch/411299?utm_source=yandex&utm_medium=wizard"
+          },
+          {
+            "name": "START",
+            "logo": {
+              "url": "https://avatars.mds.yandex.net/get-ott/239697/1a632675-0d99-4268-bd5e-d5f3dd800174/orig"
+            },
+            "url": "https://start.ru/watch/ditya-pogody?utm_source=kinopoisk&utm_medium=feed_watch&utm_campaign=ditya-pogody"
+          },
+          {
+            "name": "KION",
+            "logo": {
+              "url": "https://avatars.mds.yandex.net/get-ott/239697/daeb142e-3ecc-4bb2-9bff-4827996643ab/orig"
+            },
+            "url": "https://kion.ru/video/movie/188544591?utm_source=yandex&utm_medium=organic&utm_campaign=wizard"
+          },
+          {
+            "name": "PREMIER",
+            "logo": {
+              "url": "https://avatars.mds.yandex.net/get-ott/239697/0f86e907-9531-47e9-87bd-5101a08d4e30/orig"
+            },
+            "url": "https://premier.one/show/18727?utm_source=yandex&utm_medium=yandex_feed_search&utm_campaign=yandex_feed"
+          },
+          {
+            "name": "\u041a\u0438\u043d\u043e1\u0422\u0412",
+            "logo": {
+              "url": "https://avatars.mds.yandex.net/get-ott/1672343/4e5f7a8e-d5ac-4904-9fc0-208753ccf520/orig"
+            },
+            "url": "https://kino.1tv.ru/serials/ditya-pogody?utm_source=yandex&utm_medium=wizard"
+          },
+          {
+            "name": "Wink",
+            "logo": {
+              "url": "https://avatars.mds.yandex.net/get-ott/1672343/54096cbe-cc3b-41c9-8e44-990ebbca8d61/orig"
+            },
+            "url": "https://wink.ru/media_items/98995897?utm_source=yandex&utm_medium=koldunschick&utm_content=name"
+          }
+        ]
+      }
+    },
+    {
+      "externalId": {
+        "kpHD": "4bf7b53f70c3b3a8819cd8733195bece",
+        "imdb": "tt5323662",
+        "tmdb": 378064
+      },
+      "rating": {
+        "kp": 8.175,
+        "imdb": 8.1,
+        "filmCritics": 7.6,
+        "russianFilmCritics": 0,
+        "await": null
+      },
+      "votes": {
+        "kp": 115234,
+        "imdb": 88435,
+        "filmCritics": 37,
+        "russianFilmCritics": 0,
+        "await": 54
+      },
+      "movieLength": 130,
+      "id": 963343,
+      "type": "anime",
+      "name": "\u0424\u043e\u0440\u043c\u0430 \u0433\u043e\u043b\u043e\u0441\u0430",
+      "description": "\u041c\u043e\u043b\u043e\u0434\u043e\u0439 \u0447\u0435\u043b\u043e\u0432\u0435\u043a \u0421\u0451\u044f\u00a0\u0418\u0441\u0438\u0434\u0430 \u0432\u043d\u0435\u0437\u0430\u043f\u043d\u043e \u043e\u0441\u043e\u0437\u043d\u0430\u0451\u0442, \u0447\u0442\u043e\u00a0\u0432 \u0448\u043a\u043e\u043b\u0435 \u0443\u043c\u0443\u0434\u0440\u0438\u043b\u0441\u044f \u043f\u0440\u0435\u0432\u0440\u0430\u0442\u0438\u0442\u044c \u0436\u0438\u0437\u043d\u044c \u043e\u0434\u043d\u043e\u043a\u043b\u0430\u0441\u0441\u043d\u0438\u0446\u044b \u0421\u0451\u043a\u043e \u0432\u00a0\u0430\u0434 \u0442\u043e\u043b\u044c\u043a\u043e \u043f\u043e\u0442\u043e\u043c\u0443, \u0447\u0442\u043e\u00a0\u0442\u0430 \u0431\u044b\u043b\u0430 \u0433\u043b\u0443\u0445\u0430\u044f. \u0418\u00a0\u0442\u0435\u043f\u0435\u0440\u044c, \u0445\u043e\u0442\u044c \u0438\u00a0\u0437\u0430\u043f\u043e\u0437\u0434\u0430\u043b\u043e, \u043f\u0430\u0440\u0435\u043d\u044c \u043f\u043e\u043d\u0438\u043c\u0430\u0435\u0442\u00a0\u2014\u00a0\u0447\u0442\u043e\u0431\u044b \u0441\u043a\u0430\u0437\u0430\u0442\u044c \u043d\u0435\u0447\u0442\u043e \u0432\u0430\u0436\u043d\u043e\u0435 \u0442\u043e\u043c\u0443, \u043a\u0442\u043e\u00a0\u043d\u0435 \u043c\u043e\u0436\u0435\u0442 \u0442\u0435\u0431\u044f \u0443\u0441\u043b\u044b\u0448\u0430\u0442\u044c, \u0432\u043e\u0432\u0441\u0435 \u043d\u0435\u00a0\u043e\u0431\u044f\u0437\u0430\u0442\u0435\u043b\u044c\u043d\u043e \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u044c \u0433\u043e\u043b\u043e\u0441.",
+      "year": 2016,
+      "poster": {
+        "url": "https://st.kp.yandex.net/images/film_big/963343.jpg",
+        "previewUrl": "https://st.kp.yandex.net/images/film_iphone/iphone360_963343.jpg"
+      },
+      "genres": [
+        {
+          "name": "\u0430\u043d\u0438\u043c\u0435"
+        },
+        {
+          "name": "\u043c\u0443\u043b\u044c\u0442\u0444\u0438\u043b\u044c\u043c"
+        },
+        {
+          "name": "\u0434\u0440\u0430\u043c\u0430"
+        },
+        {
+          "name": "\u043c\u0435\u043b\u043e\u0434\u0440\u0430\u043c\u0430"
+        }
+      ],
+      "countries": [
+        {
+          "name": "\u042f\u043f\u043e\u043d\u0438\u044f"
+        }
+      ],
+      "alternativeName": "Koe no katachi",
+      "enName": null,
+      "names": [
+        {
+          "name": "\u0424\u043e\u0440\u043c\u0430 \u0433\u043e\u043b\u043e\u0441\u0430"
+        },
+        {
+          "name": "Koe no katachi"
+        }
+      ],
+      "shortDescription": "\u0414\u0435\u0432\u043e\u0447\u043a\u0430 \u0441 \u043f\u0440\u043e\u0431\u043b\u0435\u043c\u0430\u043c\u0438 \u0441\u043e \u0441\u043b\u0443\u0445\u043e\u043c \u043f\u043e\u0434\u0432\u0435\u0440\u0433\u0430\u0435\u0442\u0441\u044f \u0442\u0440\u0430\u0432\u043b\u0435 \u0432 \u0448\u043a\u043e\u043b\u0435. \u0410\u043d\u0438\u043c\u0435 \u043e \u0437\u0430\u043f\u043e\u0437\u0434\u0430\u043b\u043e\u043c \u0440\u0430\u0441\u043a\u0430\u044f\u043d\u0438\u0438 \u0438 \u0448\u0430\u043d\u0441\u0435 \u043d\u0430 \u043f\u0440\u043e\u0449\u0435\u043d\u0438\u0435",
+      "logo": {
+        "url": "https://avatars.mds.yandex.net/get-ott/2439731/2a00000171bfe7e1d5ddaba36e9a6b94e89e/orig"
+      },
+      "watchability": {
+        "items": [
+          {
+            "name": "KION",
+            "logo": {
+              "url": "https://avatars.mds.yandex.net/get-ott/239697/daeb142e-3ecc-4bb2-9bff-4827996643ab/orig"
+            },
+            "url": "https://kion.ru/video/movie/180209372?utm_source=yandex&utm_medium=organic&utm_campaign=wizard"
+          }
+        ]
+      }
+    }
+  ],
+  "total": 5603,
+  "limit": 10,
+  "page": 1,
+  "pages": 561
+}

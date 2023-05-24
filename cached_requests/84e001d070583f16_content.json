@@ -1,0 +1,707 @@
+{
+  "docs": [
+    {
+      "id": 568180,
+      "type": "tv-series",
+      "externalId": {
+        "kpHD": null,
+        "imdb": "tt1673441",
+        "tmdb": 32997
+      },
+      "name": "\u0412\u044b\u0436\u0438\u0442\u044c \u0432\u043c\u0435\u0441\u0442\u0435",
+      "rating": {
+        "kp": 7.43,
+        "imdb": 7.4,
+        "filmCritics": 0,
+        "russianFilmCritics": 0,
+        "await": null
+      },
+      "description": "\u0411\u044b\u0432\u0448\u0438\u0439 \u0432\u043e\u0435\u043d\u043d\u044b\u0439 \u0414\u0435\u0439\u0432 \u041a\u0435\u043d\u0442\u0435\u0440\u0431\u0435\u0440\u0438 \u0438 \u0443\u0447\u0435\u043d\u044b\u0439 \u041a\u043e\u0434\u0438 \u041b\u0430\u043d\u0434\u0438\u043d. \u041e\u043d\u0438 \u043e\u0442\u043f\u0440\u0430\u0432\u043b\u044f\u044e\u0442\u0441\u044f \u0432 \u0441\u0430\u043c\u044b\u0435 \u043d\u0435\u0433\u043e\u0441\u0442\u0435\u043f\u0440\u0438\u0438\u043c\u043d\u044b\u0435 \u043c\u0435\u0441\u0442\u0430 \u043d\u0430 \u0417\u0435\u043c\u043b\u0435 \u0438 \u043f\u043e\u043a\u0430\u0437\u044b\u0432\u0430\u044e\u0442, \u043a\u0430\u043a \u043f\u0440\u0430\u0432\u0438\u043b\u044c\u043d\u044b\u0435 \u043d\u0430\u0432\u044b\u043a\u0438 \u0438 \u0442\u0432\u043e\u0440\u0447\u0435\u0441\u043a\u0438\u0439 \u043f\u043e\u0434\u0445\u043e\u0434 \u043f\u043e\u043c\u043e\u0433\u0430\u044e\u0442 \u0432\u044b\u0436\u0438\u0442\u044c.",
+      "votes": {
+        "kp": 1018,
+        "imdb": 3257,
+        "filmCritics": 0,
+        "russianFilmCritics": 0,
+        "await": 0
+      },
+      "year": 2010,
+      "poster": {
+        "url": "https://st.kp.yandex.net/images/film_big/568180.jpg",
+        "previewUrl": "https://st.kp.yandex.net/images/film_iphone/iphone360_568180.jpg"
+      },
+      "genres": [
+        {
+          "name": "\u0438\u0433\u0440\u0430"
+        },
+        {
+          "name": "\u0440\u0435\u0430\u043b\u044c\u043d\u043e\u0435 \u0422\u0412"
+        },
+        {
+          "name": "\u043f\u0440\u0438\u043a\u043b\u044e\u0447\u0435\u043d\u0438\u044f"
+        }
+      ],
+      "countries": [
+        {
+          "name": "\u0421\u0428\u0410"
+        }
+      ],
+      "alternativeName": "Dual Survival",
+      "enName": null,
+      "names": [
+        {
+          "name": "\u0412\u044b\u0436\u0438\u0442\u044c \u0432\u043c\u0435\u0441\u0442\u0435"
+        },
+        {
+          "name": "Dual Survival"
+        }
+      ],
+      "movieLength": null,
+      "shortDescription": null,
+      "logo": {
+        "url": null
+      },
+      "watchability": {
+        "items": null
+      },
+      "releaseYears": [
+        {
+          "start": 2010,
+          "end": 2016
+        }
+      ]
+    },
+    {
+      "id": 5174160,
+      "externalId": {
+        "kpHD": null
+      },
+      "name": "\u041d\u0430\u0441\u043b\u0435\u0434\u043d\u0438\u043a\u0438 \u0438 \u0441\u0430\u043c\u043e\u0437\u0432\u0430\u043d\u0446\u044b",
+      "alternativeName": null,
+      "names": [
+        {
+          "name": "\u041d\u0430\u0441\u043b\u0435\u0434\u043d\u0438\u043a\u0438 \u0438 \u0441\u0430\u043c\u043e\u0437\u0432\u0430\u043d\u0446\u044b"
+        }
+      ],
+      "type": "tv-series",
+      "description": "\u0417\u0432\u0451\u0437\u0434\u044b \u0448\u043e\u0443-\u0431\u0438\u0437\u043d\u0435\u0441\u0430\u00a0\u2014\u00a0\u0437\u043d\u0430\u043c\u0435\u043d\u0438\u0442\u044b\u0435 \u0430\u043a\u0442\u0451\u0440\u044b, \u043f\u043e\u043f\u0443\u043b\u044f\u0440\u043d\u044b\u0435 \u0431\u043b\u043e\u0433\u0435\u0440\u044b \u0438\u00a0\u0441\u043f\u043e\u0440\u0442\u0441\u043c\u0435\u043d\u044b \u0432\u0441\u0442\u0443\u043f\u044f\u0442 \u0432\u00a0\u0441\u0440\u0430\u0436\u0435\u043d\u0438\u0435 \u0437\u0430\u00a0\u043d\u0430\u0441\u043b\u0435\u0434\u0441\u0442\u0432\u043e \u0442\u0430\u0438\u043d\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0433\u043e \u043c\u0438\u043b\u043b\u0438\u043e\u043d\u0435\u0440\u0430 \u0440\u0430\u0437\u043c\u0435\u0440\u043e\u043c \u0434\u043e\u00a05 000\u00a0000 \u0440\u0443\u0431\u043b\u0435\u0439 \u0432\u00a0\u043f\u0435\u0440\u0432\u043e\u043c \u0440\u0435\u0430\u043b\u0438\u0442\u0438-\u0448\u043e\u0443 \u0432\u00a0\u0436\u0430\u043d\u0440\u0435 \u0434\u0435\u0442\u0435\u043a\u0442\u0438\u0432\u0430, \u0443\u0447\u0430\u0441\u0442\u043d\u0438\u043a\u0430\u043c \u043a\u043e\u0442\u043e\u0440\u043e\u0433\u043e \u043d\u0443\u0436\u043d\u043e \u043d\u0435\u00a0\u0442\u043e\u043b\u044c\u043a\u043e \u0440\u0430\u0441\u043a\u0440\u044b\u0432\u0430\u0442\u044c \u0438\u0441\u0442\u0438\u043d\u043d\u044b\u0435 \u0440\u043e\u043b\u0438 \u0434\u0440\u0443\u0433 \u0434\u0440\u0443\u0433\u0430, \u043d\u043e\u00a0\u0438, \u0440\u0438\u0441\u043a\u0443\u044f \u0436\u0438\u0437\u043d\u044c\u044e, \u043f\u0440\u0435\u043e\u0434\u043e\u043b\u0435\u0432\u0430\u0442\u044c \u0437\u0440\u0435\u043b\u0438\u0449\u043d\u044b\u0435, \u043b\u0435\u0434\u0435\u043d\u044f\u0449\u0438\u0435 \u043a\u0440\u043e\u0432\u044c \u0438\u00a0\u0437\u0430\u0445\u0432\u0430\u0442\u044b\u0432\u0430\u044e\u0449\u0438\u0435 \u0434\u0443\u0445\u00a0\u0438\u0441\u043f\u044b\u0442\u0430\u043d\u0438\u044f\u00a0\u2014\u00a0\u043a\u0430\u043a \u0444\u0438\u0437\u0438\u0447\u0435\u0441\u043a\u0438\u0435, \u0442\u0430\u043a\u00a0\u0438 \u043f\u0441\u0438\u0445\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u0438\u0435\u00a0\u2014\u00a0\u0447\u0442\u043e\u0431\u044b \u043f\u043e\u00a0\u0438\u0445 \u0438\u0442\u043e\u0433\u0430\u043c \u0437\u0430\u0440\u0430\u0431\u0430\u0442\u044b\u0432\u0430\u0442\u044c \u0434\u0435\u043d\u044c\u0433\u0438 \u0438\u00a0\u043f\u043e\u043f\u043e\u043b\u043d\u044f\u0442\u044c \u043e\u0431\u0449\u0438\u0439 \u043f\u0440\u0438\u0437\u043e\u0432\u043e\u0439 \u0444\u043e\u043d\u0434 \u0438\u0433\u0440\u044b.",
+      "shortDescription": null,
+      "rating": {
+        "kp": 7.48,
+        "imdb": 0,
+        "filmCritics": 0,
+        "russianFilmCritics": 0,
+        "await": null
+      },
+      "votes": {
+        "kp": 1008,
+        "imdb": 0,
+        "filmCritics": 0,
+        "russianFilmCritics": 0,
+        "await": 14
+      },
+      "movieLength": null,
+      "poster": {
+        "url": "https://st.kp.yandex.net/images/film_big/5174160.jpg",
+        "previewUrl": "https://st.kp.yandex.net/images/film_iphone/iphone360_5174160.jpg"
+      },
+      "genres": [
+        {
+          "name": "\u0440\u0435\u0430\u043b\u044c\u043d\u043e\u0435 \u0422\u0412"
+        },
+        {
+          "name": "\u043f\u0440\u0438\u043a\u043b\u044e\u0447\u0435\u043d\u0438\u044f"
+        },
+        {
+          "name": "\u0438\u0433\u0440\u0430"
+        }
+      ],
+      "countries": [
+        {
+          "name": "\u0420\u043e\u0441\u0441\u0438\u044f"
+        }
+      ],
+      "watchability": {
+        "items": null
+      },
+      "releaseYears": [
+        {
+          "start": 2022,
+          "end": 2022
+        }
+      ],
+      "year": 2022
+    },
+    {
+      "id": 5119686,
+      "externalId": {
+        "kpHD": null
+      },
+      "name": "\u0412\u043b\u044e\u0431\u0438\u0441\u044c, \u0435\u0441\u043b\u0438 \u0441\u043c\u043e\u0436\u0435\u0448\u044c",
+      "alternativeName": null,
+      "names": [
+        {
+          "name": "\u0412\u043b\u044e\u0431\u0438\u0441\u044c, \u0435\u0441\u043b\u0438 \u0441\u043c\u043e\u0436\u0435\u0448\u044c"
+        }
+      ],
+      "type": "tv-series",
+      "description": "11 \u0443\u0447\u0430\u0441\u0442\u043d\u0438\u043a\u043e\u0432 \u0438\u0449\u0443\u0442 \u0441\u0432\u043e\u044e \u043b\u044e\u0431\u043e\u0432\u044c \u043d\u0430\u00a0\u0432\u0438\u043b\u043b\u0435 \u0432\u00a0\u041a\u0435\u0439\u043f\u0442\u0430\u0443\u043d\u0435. \u041f\u043e\u043c\u0438\u043c\u043e \u043b\u044e\u0431\u0432\u0438, \u043c\u043e\u043b\u043e\u0434\u044b\u0435 \u043b\u044e\u0434\u0438 \u043c\u043e\u0433\u0443\u0442 \u0441\u043e\u0440\u0432\u0430\u0442\u044c \u0435\u0449\u0435\u00a0\u043e\u0434\u0438\u043d \u0441\u043e\u043b\u0438\u0434\u043d\u044b\u0439 \u043a\u0443\u0448\u00a0\u2014\u00a0\u0431\u043e\u043b\u044c\u0448\u043e\u0439 \u0434\u0435\u043d\u0435\u0436\u043d\u044b\u0439 \u043f\u0440\u0438\u0437, \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u0441\u0442\u043e\u0438\u0442 \u043d\u0430\u00a0\u043a\u043e\u043d\u0443.",
+      "shortDescription": null,
+      "rating": {
+        "kp": 6.4,
+        "imdb": 0,
+        "filmCritics": 0,
+        "russianFilmCritics": 0,
+        "await": null
+      },
+      "votes": {
+        "kp": 981,
+        "imdb": 0,
+        "filmCritics": 0,
+        "russianFilmCritics": 0,
+        "await": 26
+      },
+      "movieLength": null,
+      "poster": {
+        "url": "https://st.kp.yandex.net/images/film_big/5119686.jpg",
+        "previewUrl": "https://st.kp.yandex.net/images/film_iphone/iphone360_5119686.jpg"
+      },
+      "genres": [
+        {
+          "name": "\u0440\u0435\u0430\u043b\u044c\u043d\u043e\u0435 \u0422\u0412"
+        },
+        {
+          "name": "\u0438\u0433\u0440\u0430"
+        }
+      ],
+      "countries": [
+        {
+          "name": "\u0420\u043e\u0441\u0441\u0438\u044f"
+        }
+      ],
+      "watchability": {
+        "items": null
+      },
+      "releaseYears": [
+        {
+          "start": 2022,
+          "end": 2022
+        }
+      ],
+      "year": 2022
+    },
+    {
+      "id": 893939,
+      "type": "tv-series",
+      "externalId": {
+        "kpHD": null,
+        "imdb": "tt3141676",
+        "tmdb": 52823
+      },
+      "name": "\u0410\u0439\u0434\u043e\u043b \u043d\u0435\u0434\u0435\u043b\u0438",
+      "rating": {
+        "kp": 7.833,
+        "imdb": 7.6,
+        "filmCritics": 0,
+        "russianFilmCritics": 0,
+        "await": null
+      },
+      "description": null,
+      "votes": {
+        "kp": 932,
+        "imdb": 235,
+        "filmCritics": 0,
+        "russianFilmCritics": 0,
+        "await": 0
+      },
+      "year": 2011,
+      "poster": {
+        "url": "https://st.kp.yandex.net/images/film_big/893939.jpg",
+        "previewUrl": "https://st.kp.yandex.net/images/film_iphone/iphone360_893939.jpg"
+      },
+      "genres": [
+        {
+          "name": "\u0438\u0433\u0440\u0430"
+        },
+        {
+          "name": "\u0442\u043e\u043a-\u0448\u043e\u0443"
+        },
+        {
+          "name": "\u043c\u0443\u0437\u044b\u043a\u0430"
+        }
+      ],
+      "countries": [
+        {
+          "name": "\u041a\u043e\u0440\u0435\u044f \u042e\u0436\u043d\u0430\u044f"
+        }
+      ],
+      "alternativeName": "Weekly Idol",
+      "enName": null,
+      "movieLength": null,
+      "names": [
+        {
+          "name": "\u0410\u0439\u0434\u043e\u043b \u043d\u0435\u0434\u0435\u043b\u0438"
+        },
+        {
+          "name": "Weekly Idol"
+        }
+      ],
+      "shortDescription": null,
+      "logo": {
+        "url": null
+      },
+      "watchability": {
+        "items": null
+      },
+      "releaseYears": [
+        {
+          "start": 2011,
+          "end": null
+        }
+      ]
+    },
+    {
+      "id": 601995,
+      "type": "tv-series",
+      "externalId": {
+        "kpHD": null,
+        "imdb": "tt0115286",
+        "tmdb": 1847
+      },
+      "name": "\u0417\u0430\u0431\u0435\u0439 \u043d\u0430 \u043f\u0430\u043d\u043a-\u0440\u043e\u043a",
+      "rating": {
+        "kp": 8.591,
+        "imdb": 7.8,
+        "filmCritics": 0,
+        "russianFilmCritics": 0,
+        "await": null
+      },
+      "description": "\u041a\u043e\u043c\u0435\u0434\u0438\u0439\u043d\u0430\u044f \u0442\u0435\u043b\u0435\u0432\u0438\u043a\u0442\u043e\u0440\u0438\u043d\u0430 \u043e \u043f\u043e\u043f-\u043c\u0443\u0437\u044b\u043a\u0435.",
+      "votes": {
+        "kp": 925,
+        "imdb": 5893,
+        "filmCritics": 0,
+        "russianFilmCritics": 0,
+        "await": 0
+      },
+      "year": 1996,
+      "poster": {
+        "url": "https://st.kp.yandex.net/images/film_big/601995.jpg",
+        "previewUrl": "https://st.kp.yandex.net/images/film_iphone/iphone360_601995.jpg"
+      },
+      "genres": [
+        {
+          "name": "\u0438\u0433\u0440\u0430"
+        },
+        {
+          "name": "\u043a\u043e\u043c\u0435\u0434\u0438\u044f"
+        },
+        {
+          "name": "\u043c\u0443\u0437\u044b\u043a\u0430"
+        }
+      ],
+      "countries": [
+        {
+          "name": "\u0412\u0435\u043b\u0438\u043a\u043e\u0431\u0440\u0438\u0442\u0430\u043d\u0438\u044f"
+        }
+      ],
+      "alternativeName": "Never Mind the Buzzcocks",
+      "enName": null,
+      "movieLength": null,
+      "names": [
+        {
+          "name": "\u0417\u0430\u0431\u0435\u0439 \u043d\u0430 \u043f\u0430\u043d\u043a-\u0440\u043e\u043a"
+        },
+        {
+          "name": "Never Mind the Buzzcocks"
+        }
+      ],
+      "shortDescription": null,
+      "logo": {
+        "url": null
+      },
+      "watchability": {
+        "items": null
+      },
+      "releaseYears": [
+        {
+          "start": 1996,
+          "end": 2021
+        }
+      ]
+    },
+    {
+      "id": 1387127,
+      "alternativeName": null,
+      "color": "#F8F8F8",
+      "countries": [
+        {
+          "name": "\u0420\u043e\u0441\u0441\u0438\u044f"
+        }
+      ],
+      "description": "\u041d\u043e\u0432\u0430\u044f \u0432\u0435\u0440\u0441\u0438\u044f \u044e\u043c\u043e\u0440\u0438\u0441\u0442\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u0448\u043e\u0443 \u0442\u0430\u043b\u0430\u043d\u0442\u043e\u0432. \u0412\u043f\u0435\u0440\u0432\u044b\u0435 \u0432 \u0438\u0441\u0442\u043e\u0440\u0438\u0438 \u0438\u0433\u0440\u044b \u0436\u044e\u0440\u0438 \u043e\u0442\u043a\u0430\u0437\u0430\u043b\u043e\u0441\u044c \u043e\u0442 \u043e\u0446\u0435\u043d\u043e\u043a. \u0427\u0442\u043e\u0431\u044b \u043f\u0440\u043e\u043f\u0443\u0441\u0442\u0438\u0442\u044c \u0434\u0432\u0435 \u043b\u0443\u0447\u0448\u0438\u0435 \u043a\u043e\u043c\u0430\u043d\u0434\u044b \u0432 \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0438\u0439 \u044d\u0442\u0430\u043f, \u0437\u0432\u0451\u0437\u0434\u044b \u0441\u043e\u0432\u0435\u0449\u0430\u044e\u0442\u0441\u044f \u0432 \u0444\u0438\u043d\u0430\u043b\u0435 \u043a\u0430\u0436\u0434\u043e\u0433\u043e \u0432\u044b\u043f\u0443\u0441\u043a\u0430.",
+      "enName": null,
+      "externalId": {
+        "kpHD": "41e5025d1ebddbeea4240661251c2811",
+        "imdb": null
+      },
+      "genres": [
+        {
+          "name": "\u0438\u0433\u0440\u0430"
+        },
+        {
+          "name": "\u043a\u043e\u043c\u0435\u0434\u0438\u044f"
+        },
+        {
+          "name": "\u0441\u0435\u043c\u0435\u0439\u043d\u044b\u0439"
+        }
+      ],
+      "name": "\u0414\u0435\u0442\u0441\u043a\u0438\u0439 \u041a\u0412\u041d",
+      "names": [
+        {
+          "name": "\u0414\u0435\u0442\u0441\u043a\u0438\u0439 \u041a\u0412\u041d"
+        }
+      ],
+      "poster": {
+        "url": "https://st.kp.yandex.net/images/film_big/1387127.jpg",
+        "previewUrl": "https://st.kp.yandex.net/images/film_iphone/iphone360_1387127.jpg"
+      },
+      "rating": {
+        "kp": 6.859,
+        "imdb": 0,
+        "filmCritics": 0,
+        "russianFilmCritics": 0,
+        "await": null
+      },
+      "shortDescription": "\u0428\u0443\u0442\u043a\u0438 \u043f\u0440\u043e \u043a\u0430\u0448\u0443, \u0448\u043a\u043e\u043b\u0443 \u0438 \u0440\u043e\u0434\u0438\u0442\u0435\u043b\u0435\u0439 \u043e\u0442 \u0432\u0435\u0441\u0435\u043b\u044b\u0445, \u043d\u0430\u0445\u043e\u0434\u0447\u0438\u0432\u044b\u0445 \u0438 \u044e\u043d\u044b\u0445. \u0412\u0435\u0434\u0443\u0449\u0438\u0439 \u0442\u0440\u0435\u0442\u044c\u0435\u0433\u043e \u0441\u0435\u0437\u043e\u043d\u0430 \u2014 \u041c\u0438\u0445\u0430\u0438\u043b \u0413\u0430\u043b\u0443\u0441\u0442\u044f\u043d",
+      "votes": {
+        "kp": 861,
+        "imdb": 0,
+        "filmCritics": 0,
+        "russianFilmCritics": 0,
+        "await": 8
+      },
+      "year": 2017,
+      "movieLength": null,
+      "type": "tv-series",
+      "logo": {
+        "url": "https://avatars.mds.yandex.net/get-ott/223007/2a000001780196693bbd9b501dda8b8270f2/orig"
+      },
+      "watchability": {
+        "items": [
+          {
+            "name": "Wink",
+            "logo": {
+              "url": "https://avatars.mds.yandex.net/get-ott/1672343/54096cbe-cc3b-41c9-8e44-990ebbca8d61/orig"
+            },
+            "url": "https://wink.ru/media_items/103939090?utm_source=yandex&utm_medium=koldunschick&utm_content=name"
+          },
+          {
+            "name": "ctc.ru",
+            "logo": {
+              "url": "https://avatars.mds.yandex.net/get-ott/224348/9c4fb43c-11f0-4245-9848-7c76c7917d37/orig"
+            },
+            "url": "https://ctc.ru/projects/show/detskii_kvn/?utm_source=yandex&utm_medium=feed"
+          }
+        ]
+      },
+      "releaseYears": [
+        {
+          "start": 2017,
+          "end": 2020
+        }
+      ]
+    },
+    {
+      "id": 585300,
+      "type": "tv-series",
+      "externalId": {
+        "kpHD": null,
+        "imdb": "tt1839337",
+        "tmdb": 37678
+      },
+      "name": "\u0413\u043e\u043b\u043e\u0441 \u0410\u043c\u0435\u0440\u0438\u043a\u0438",
+      "rating": {
+        "kp": 7.72,
+        "imdb": 6.5,
+        "filmCritics": 0,
+        "russianFilmCritics": 0,
+        "await": null
+      },
+      "description": "\u0414\u043e\u0431\u0440\u043e \u043f\u043e\u0436\u0430\u043b\u043e\u0432\u0430\u0442\u044c \u043d\u0430 \u0448\u043e\u0443 The Voice! \u0421\u043e\u0441\u0442\u044f\u0437\u0430\u043d\u0438\u0435 \u043d\u0435 \u043f\u043e\u0445\u043e\u0436\u0435\u0435 \u043d\u0438 \u043d\u0430 \u043e\u0434\u043d\u043e \u0434\u0440\u0443\u0433\u043e\u0435 \u0448\u043e\u0443, \u043f\u043e\u0442\u043e\u043c\u0443 \u0447\u0442\u043e \u0433\u043e\u043b\u043e\u0441 \u0437\u0434\u0435\u0441\u044c \u0438\u0433\u0440\u0430\u0435\u0442 \u0433\u043b\u0430\u0432\u043d\u0443\u044e \u0440\u043e\u043b\u044c. \u0421\u0438 \u041b\u043e \u0413\u0440\u0438\u043d, \u0410\u0434\u0430\u043c \u041b\u0438\u0432\u0430\u0439\u043d, \u041a\u0440\u0438\u0441\u0442\u0438\u043d\u0430 \u0410\u0433\u0438\u043b\u0435\u0440\u0430 \u0438 \u0411\u043b\u044d\u0439\u043a \u0428\u044d\u043b\u0442\u043e\u043d \u0441\u043e\u0431\u0440\u0430\u043b\u0438\u0441\u044c \u0432\u043c\u0435\u0441\u0442\u0435, \u0447\u0442\u043e\u0431\u044b \u043e\u0442\u043a\u0440\u044b\u0442\u044c \u0432\u0435\u043b\u0438\u0447\u0430\u0439\u0448\u0438\u0439 \u0433\u043e\u043b\u043e\u0441 \u0410\u043c\u0435\u0440\u0438\u043a\u0438!",
+      "votes": {
+        "kp": 820,
+        "imdb": 12934,
+        "filmCritics": 0,
+        "russianFilmCritics": 0,
+        "await": 2
+      },
+      "year": 2011,
+      "poster": {
+        "url": "https://st.kp.yandex.net/images/film_big/585300.jpg",
+        "previewUrl": "https://st.kp.yandex.net/images/film_iphone/iphone360_585300.jpg"
+      },
+      "genres": [
+        {
+          "name": "\u0438\u0433\u0440\u0430"
+        },
+        {
+          "name": "\u0440\u0435\u0430\u043b\u044c\u043d\u043e\u0435 \u0422\u0412"
+        },
+        {
+          "name": "\u043c\u0443\u0437\u044b\u043a\u0430"
+        }
+      ],
+      "countries": [
+        {
+          "name": "\u0421\u0428\u0410"
+        }
+      ],
+      "alternativeName": "The Voice",
+      "enName": "The Voice",
+      "names": [
+        {
+          "name": "\u0413\u043e\u043b\u043e\u0441 \u0410\u043c\u0435\u0440\u0438\u043a\u0438"
+        },
+        {
+          "name": "The Voice"
+        }
+      ],
+      "movieLength": null,
+      "shortDescription": null,
+      "logo": {
+        "url": null
+      },
+      "watchability": {
+        "items": null
+      },
+      "releaseYears": [
+        {
+          "start": 2011,
+          "end": 2011
+        }
+      ]
+    },
+    {
+      "id": 4682894,
+      "alternativeName": null,
+      "countries": [
+        {
+          "name": "\u0420\u043e\u0441\u0441\u0438\u044f"
+        }
+      ],
+      "description": "\u0417\u0430 \u0433\u043b\u0430\u0432\u043d\u044b\u0439 \u043f\u0440\u0438\u0437 \u0432\u00a0\u043e\u0434\u0438\u043d \u043c\u0438\u043b\u043b\u0438\u043e\u043d \u0440\u0443\u0431\u043b\u0435\u0439 \u043f\u043e\u0431\u043e\u0440\u044e\u0442\u0441\u044f \u043b\u0443\u0447\u0448\u0438\u0435 \u043a\u043e\u043c\u0435\u0434\u0438\u0439\u043d\u044b\u0435 \u043a\u043e\u043c\u0430\u043d\u0434\u044b, \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u0432\u043e\u0437\u0433\u043b\u0430\u0432\u044f\u0442 \u0437\u0432\u0451\u0437\u0434\u043d\u044b\u0435 \u043a\u0430\u043f\u0438\u0442\u0430\u043d\u044b. \u041f\u043e\u00a0\u043f\u0440\u0430\u0432\u0438\u043b\u0430\u043c \u0438\u0433\u0440\u044b \u043a\u0430\u0436\u0434\u044b\u0439 \u0432\u044b\u043f\u0443\u0441\u043a \u043a\u043e\u043c\u0438\u043a-\u0442\u0440\u0443\u043f\u043f\u044b \u0432\u044b\u0431\u0438\u0440\u0430\u044e\u0442 \u0437\u0432\u0435\u0437\u0434\u0443, \u0441\u00a0\u043a\u043e\u0442\u043e\u0440\u043e\u0439 \u043f\u0440\u043e\u0445\u043e\u0434\u044f\u0442 \u0442\u0440\u0438\u00a0\u043a\u043e\u043c\u0435\u0434\u0438\u0439\u043d\u044b\u0445 \u0438\u0441\u043f\u044b\u0442\u0430\u043d\u0438\u044f. \u041f\u043e\u00a0\u0438\u0442\u043e\u0433\u0430\u043c \u0434\u0435\u0432\u044f\u0442\u0438 \u0432\u044b\u043f\u0443\u0441\u043a\u043e\u0432 \u043e\u043f\u0440\u0435\u0434\u0435\u043b\u044f\u044e\u0442\u0441\u044f \u0442\u0440\u0438\u00a0\u043b\u0443\u0447\u0448\u0438\u0435 \u043a\u043e\u043c\u0430\u043d\u0434\u044b, \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u0432\u00a0\u0444\u0438\u043d\u0430\u043b\u0435 \u0432\u0441\u0442\u0443\u043f\u0430\u044e\u0442 \u0432\u00a0\u0431\u043e\u0440\u044c\u0431\u0443 \u0437\u0430\u00a0\u0447\u0435\u043c\u043f\u0438\u043e\u043d\u0441\u043a\u0438\u0439 \u043f\u043e\u044f\u0441. \u041e\u0446\u0435\u043d\u0438\u0432\u0430\u0442\u044c \u043a\u043e\u043c\u0438\u043a\u043e\u0432 \u0441\u00a0\u043f\u043e\u043c\u043e\u0449\u044c\u044e \u0441\u0438\u0441\u0442\u0435\u043c\u044b \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u0443\u0435\u043c\u044b\u0445 LED-\u0441\u0442\u0438\u043a\u043e\u0432 \u0431\u0443\u0434\u0435\u0442 \u0433\u043b\u0430\u0432\u043d\u044b\u0439 \u043a\u0440\u0438\u0442\u0438\u043a\u00a0\u2014\u00a0\u0437\u0440\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0439 \u0437\u0430\u043b.",
+      "enName": null,
+      "externalId": {
+        "kpHD": "41cf64151f4a460e861441633b26c373",
+        "imdb": null
+      },
+      "genres": [
+        {
+          "name": "\u0438\u0433\u0440\u0430"
+        },
+        {
+          "name": "\u043a\u043e\u043c\u0435\u0434\u0438\u044f"
+        }
+      ],
+      "movieLength": null,
+      "name": "\u0421\u0443\u043f\u0435\u0440\u043b\u0438\u0433\u0430",
+      "names": [
+        {
+          "name": "\u0421\u0443\u043f\u0435\u0440\u043b\u0438\u0433\u0430"
+        }
+      ],
+      "poster": {
+        "url": "https://st.kp.yandex.net/images/film_big/4682894.jpg",
+        "previewUrl": "https://st.kp.yandex.net/images/film_iphone/iphone360_4682894.jpg"
+      },
+      "rating": {
+        "kp": 4.118,
+        "imdb": 0,
+        "filmCritics": 0,
+        "russianFilmCritics": 0,
+        "await": null
+      },
+      "shortDescription": "\u041a\u043e\u043c\u0438\u043a\u0438 \u0438 \u0437\u0432\u0435\u0437\u0434\u044b \u0431\u043e\u0440\u044e\u0442\u0441\u044f \u0437\u0430 \u0433\u043b\u0430\u0432\u043d\u044b\u0439 \u043f\u0440\u0438\u0437 \u2014 \u043c\u0438\u043b\u043b\u0438\u043e\u043d \u0440\u0443\u0431\u043b\u0435\u0439. \u042e\u043c\u043e\u0440\u0438\u0441\u0442\u0438\u0447\u0435\u0441\u043a\u043e\u0435 \u0448\u043e\u0443 \u043e\u0442 \u0430\u0432\u0442\u043e\u0440\u043e\u0432 \u041a\u0412\u041d",
+      "type": "tv-series",
+      "votes": {
+        "kp": 771,
+        "imdb": 0,
+        "filmCritics": 0,
+        "russianFilmCritics": 0,
+        "await": 1
+      },
+      "year": 2021,
+      "logo": {
+        "url": "https://avatars.mds.yandex.net/get-ott/2439731/2a0000017ce27452921c8bc244fb2d711b67/orig"
+      },
+      "watchability": {
+        "items": [
+          {
+            "name": "Wink",
+            "logo": {
+              "url": "https://avatars.mds.yandex.net/get-ott/1672343/54096cbe-cc3b-41c9-8e44-990ebbca8d61/orig"
+            },
+            "url": "https://wink.ru/media_items/131514397?utm_source=yandex&utm_medium=koldunschick&utm_content=name"
+          },
+          {
+            "name": "ctc.ru",
+            "logo": {
+              "url": "https://avatars.mds.yandex.net/get-ott/224348/9c4fb43c-11f0-4245-9848-7c76c7917d37/orig"
+            },
+            "url": "https://ctc.ru/projects/show/superliga/?utm_source=yandex&utm_medium=feed"
+          }
+        ]
+      },
+      "releaseYears": [
+        {
+          "start": 2021,
+          "end": null
+        }
+      ]
+    },
+    {
+      "id": 525989,
+      "type": "tv-series",
+      "externalId": {
+        "kpHD": null,
+        "imdb": "tt1663641",
+        "tmdb": 35370
+      },
+      "name": "\u0411\u0435\u0437 \u043b\u0438\u0446\u0430",
+      "rating": {
+        "kp": 7.803,
+        "imdb": 8.2,
+        "filmCritics": 0,
+        "russianFilmCritics": 0,
+        "await": 0
+      },
+      "description": "\u0410\u043c\u0435\u0440\u0438\u043a\u0430\u043d\u0441\u043a\u043e\u0435 \u0440\u0435\u0430\u043b\u0438\u0442\u0438-\u0448\u043e\u0443, \u0432 \u043a\u043e\u0442\u043e\u0440\u043e\u043c \u0441\u043e\u0440\u0435\u0432\u043d\u0443\u044e\u0442\u0441\u044f \u043d\u0435\u043f\u0440\u043e\u0444\u0435\u0441\u0441\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u044b\u0435 \u0433\u0440\u0438\u043c\u0451\u0440\u044b - \u0441\u043e\u0437\u0434\u0430\u0442\u0435\u043b\u0438 \u0441\u043f\u0435\u0446\u044d\u0444\u0444\u0435\u043a\u0442\u043e\u0432 \u0434\u043b\u044f \u043a\u0438\u043d\u043e \u0438 \u0442\u0435\u0430\u0442\u0440\u0430. \u041a\u0430\u0436\u0434\u0443\u044e \u043d\u0435\u0434\u0435\u043b\u044e \u043a\u043e\u043d\u043a\u0443\u0440\u0441\u0430\u043d\u0442\u044b \u043f\u043e\u043b\u0443\u0447\u0430\u044e\u0442 \u0437\u0430\u0434\u0430\u043d\u0438\u0435 \u043f\u043e \u0441\u043e\u0437\u0434\u0430\u043d\u0438\u044e \u043e\u0431\u0440\u0430\u0437\u0430 (\u0433\u0438\u0431\u0440\u0438\u0434 \u0447\u0435\u043b\u043e\u0432\u0435\u043a\u0430 \u0438 \u0436\u0438\u0432\u043e\u0442\u043d\u043e\u0433\u043e, \u0438\u043d\u043e\u043f\u043b\u0430\u043d\u0435\u0442\u044f\u043d\u0438\u043d, \u043c\u0430\u043d\u044c\u044f\u043a, \u0437\u043e\u043c\u0431\u0438, \u0441\u043a\u0430\u0437\u043e\u0447\u043d\u044b\u0439 \u043f\u0435\u0440\u0441\u043e\u043d\u0430\u0436, \u0433\u0440\u0438\u043c, \u043c\u0435\u043d\u044f\u044e\u0449\u0438\u0439 \u043f\u043e\u043b \u0447\u0435\u043b\u043e\u0432\u0435\u043a\u0430 \u0438 \u0442\u0434.) \u0438 \u043f\u043e \u0438\u0442\u043e\u0433\u0430\u043c \u043e\u0446\u0435\u043d\u043a\u0438 \u0436\u044e\u0440\u0438 \u0441\u0430\u043c\u044b\u0439 \u0441\u043b\u0430\u0431\u044b\u0439 \u043a\u043e\u043d\u043a\u0443\u0440\u0441\u0430\u043d\u0442 \u043f\u043e\u043a\u0438\u0434\u0430\u0435\u0442 \u0448\u043e\u0443.",
+      "votes": {
+        "kp": 748,
+        "imdb": 6722,
+        "filmCritics": 0,
+        "russianFilmCritics": 0,
+        "await": 23
+      },
+      "year": 2011,
+      "poster": {
+        "url": "https://st.kp.yandex.net/images/film_big/525989.jpg",
+        "previewUrl": "https://st.kp.yandex.net/images/film_iphone/iphone360_525989.jpg"
+      },
+      "genres": [
+        {
+          "name": "\u0438\u0433\u0440\u0430"
+        },
+        {
+          "name": "\u0440\u0435\u0430\u043b\u044c\u043d\u043e\u0435 \u0422\u0412"
+        }
+      ],
+      "countries": [
+        {
+          "name": "\u0421\u0428\u0410"
+        }
+      ],
+      "alternativeName": "Face Off",
+      "enName": null,
+      "movieLength": 43,
+      "names": [
+        {
+          "name": "\u0411\u0435\u0437 \u043b\u0438\u0446\u0430"
+        },
+        {
+          "name": "Face Off"
+        }
+      ],
+      "shortDescription": null,
+      "logo": {
+        "url": null
+      },
+      "watchability": {
+        "items": null
+      },
+      "releaseYears": [
+        {
+          "start": 2011,
+          "end": 2018
+        }
+      ]
+    },
+    {
+      "externalId": {
+        "kpHD": null,
+        "imdb": "tt0759364",
+        "tmdb": 4551
+      },
+      "rating": {
+        "kp": 5.374,
+        "imdb": 5.8,
+        "filmCritics": 0,
+        "russianFilmCritics": 0,
+        "await": null
+      },
+      "votes": {
+        "kp": 704,
+        "imdb": 10250,
+        "filmCritics": 0,
+        "russianFilmCritics": 0,
+        "await": 0
+      },
+      "id": 567048,
+      "type": "tv-series",
+      "name": "\u0410\u043c\u0435\u0440\u0438\u043a\u0430 \u0438\u0449\u0435\u0442 \u0442\u0430\u043b\u0430\u043d\u0442\u044b",
+      "description": null,
+      "year": 2006,
+      "poster": {
+        "url": "https://st.kp.yandex.net/images/film_big/567048.jpg",
+        "previewUrl": "https://st.kp.yandex.net/images/film_iphone/iphone360_567048.jpg"
+      },
+      "genres": [
+        {
+          "name": "\u0438\u0433\u0440\u0430"
+        },
+        {
+          "name": "\u0440\u0435\u0430\u043b\u044c\u043d\u043e\u0435 \u0422\u0412"
+        },
+        {
+          "name": "\u0441\u0435\u043c\u0435\u0439\u043d\u044b\u0439"
+        },
+        {
+          "name": "\u043c\u0443\u0437\u044b\u043a\u0430"
+        }
+      ],
+      "countries": [
+        {
+          "name": "\u0421\u0428\u0410"
+        }
+      ],
+      "alternativeName": "America's Got Talent",
+      "enName": null,
+      "names": [
+        {
+          "name": "\u0410\u043c\u0435\u0440\u0438\u043a\u0430 \u0438\u0449\u0435\u0442 \u0442\u0430\u043b\u0430\u043d\u0442\u044b"
+        },
+        {
+          "name": "America's Got Talent"
+        }
+      ],
+      "movieLength": null,
+      "shortDescription": null,
+      "logo": {
+        "url": null
+      },
+      "watchability": {
+        "items": null
+      },
+      "releaseYears": [
+        {
+          "start": 2006,
+          "end": 2006
+        }
+      ]
+    }
+  ],
+  "total": 553,
+  "limit": 10,
+  "page": 5,
+  "pages": 56
+}
