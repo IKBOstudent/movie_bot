@@ -28,7 +28,7 @@ logging.basicConfig(
 )
 logger = logging.getLogger(__name__)
 
-TOKEN = "6139492767:AAEjKZ1ofZLMU50ctZSDad1kzvtXwvxfwPk"
+TOKEN = os.environ['BOT_TOKEN']
 
 application = Application.builder().token(TOKEN).build()
 
@@ -37,12 +37,14 @@ class STATES:
     """states for conversations"""
     START = 0
     FIND_BY_NAME = 1
-    GET_CATEGORY = 2
+    FIND_REVIEWS = 2
+    FIND_BY_ACTOR = 3
+    GET_CATEGORY = 4
 
 
 default_markup = ReplyKeyboardMarkup([
-            ['/find', '/help'],
-            ['/test_keyboard'],['/category']
+            ['/find', '/help', '/actor'],
+            ['/test_keyboard', '/category']
         ], resize_keyboard=True)
 
 default = DefaultHandlers(logger, default_markup)
@@ -67,7 +69,21 @@ conv_handler = ConversationHandler(
     states={
         STATES.START: [],
         STATES.FIND_BY_NAME: [
-            MessageHandler(filters.TEXT & ~filters.COMMAND, search.response_film)
+            MessageHandler(filters.TEXT & ~filters.COMMAND, search.response_film),
+            CallbackQueryHandler(search.review_callback)
+        ],
+    },
+    fallbacks=[CommandHandler("cancel", cancel)],
+)
+
+application.add_handler(conv_handler)
+
+conv_handler = ConversationHandler(
+    entry_points=[CommandHandler('actor', search.send_actor)],
+    states={
+        STATES.START: [],
+        STATES.FIND_BY_ACTOR: [
+            MessageHandler(filters.TEXT & ~filters.COMMAND, search.response_actor),
         ],
     },
     fallbacks=[CommandHandler("cancel", cancel)],
@@ -93,7 +109,6 @@ async def send_unknown(update: Update, context: ContextTypes.DEFAULT_TYPE):
     await update.message.reply_text("Не понял :/")
 
 
-
 application.add_handler(MessageHandler(filters.Regex(r'.*'), send_unknown))
 
 if len(sys.argv) > 1 and sys.argv[1] == "PRODUCTION":
@@ -101,3 +116,4 @@ if len(sys.argv) > 1 and sys.argv[1] == "PRODUCTION":
 else:
     print("starting bot...")
     application.run_polling(drop_pending_updates=True)
+    application.updater.initialize()
