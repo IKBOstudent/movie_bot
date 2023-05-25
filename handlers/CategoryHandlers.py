@@ -77,7 +77,7 @@ class CategoryHandler:
 
     def createBtnFilms(self, info):
         """Creating buttons of films and switches"""
-        
+
         film_buttons = []
         for film in info['docs']:
             film_buttons.append(
