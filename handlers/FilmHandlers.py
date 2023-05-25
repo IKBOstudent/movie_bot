@@ -96,7 +96,7 @@ class FilmHandlers:
             await query.message.reply_text("Действие отменено")
             return ConversationHandler.END
 
-        elif query.data.startswith("review"):
+        if query.data.startswith("review"):
             url = "https://api.kinopoisk.dev/v1/review"
             params = {'movieId': query.data.split()[1], 'limit': '1'}
             Fetch = FilmFetch(url, params)
@@ -109,7 +109,7 @@ class FilmHandlers:
                 self.logger.error("ERROR occurred:")
             return ConversationHandler.END
 
-        elif query.data.startswith("film"):
+        if query.data.startswith("film"):
             url = "https://api.kinopoisk.dev/v1.3/movie"
             params = {'id': query.data.split()[1]}
             Fetch = FilmFetch(url, params)
@@ -119,7 +119,10 @@ class FilmHandlers:
                 poster, caption, markup_buttons = make_film_card(info)
 
                 markup_buttons.append(
-                    [InlineKeyboardButton("Просмотреть рецензию", callback_data=f"review {info['id']}")])
+                    [InlineKeyboardButton(
+                        "Просмотреть рецензию", 
+                        callback_data=f"review {info['id']}")
+                    ])
                 markup_buttons.append(
                     [InlineKeyboardButton('Отмена', callback_data="cancel")]
                 )
@@ -133,8 +136,3 @@ class FilmHandlers:
 
             except Exception:  # pylint: disable=W
                 self.logger.error("ERROR occurred:")
-
-
-
-
-

@@ -38,21 +38,20 @@ class CategoryHandler:
     def createButtons(self, info):
         """Creating buttons of categories"""
 
-        if info is not None:
-            category_buttons = []
-            tmp_arr_btn = []
-            for category in info:
-                tmp_arr_btn.append(InlineKeyboardButton(
-                    category['name'],
-                    callback_data=f"categ {category['name']}"
-                ))
-                if len(tmp_arr_btn) == 3:
-                    category_buttons.append(tmp_arr_btn)
-                    tmp_arr_btn = []
-            category_buttons.append(tmp_arr_btn)
-            category_buttons.append([InlineKeyboardButton('Отмена', callback_data="cancel")])
-            markup = InlineKeyboardMarkup(category_buttons)
-            return markup
+        category_buttons = []
+        tmp_arr_btn = []
+        for category in info:
+            tmp_arr_btn.append(InlineKeyboardButton(
+                category['name'],
+                callback_data=f"categ {category['name']}"
+            ))
+            if len(tmp_arr_btn) == 3:
+                category_buttons.append(tmp_arr_btn)
+                tmp_arr_btn = []
+        category_buttons.append(tmp_arr_btn)
+        category_buttons.append([InlineKeyboardButton('Отмена', callback_data="cancel")])
+        markup = InlineKeyboardMarkup(category_buttons)
+        return markup
 
     async def response_categories(self, update: Update, context: ContextTypes.DEFAULT_TYPE):
         """Response by categories"""
@@ -78,26 +77,25 @@ class CategoryHandler:
 
     def createBtnFilms(self, info):
         """Creating buttons of films and switches"""
-        if info is not None:
+        
+        film_buttons = []
+        for film in info['docs']:
+            film_buttons.append(
+                [InlineKeyboardButton(
+                    film['name'] + " " + str(film['year']),
+                    callback_data=f"film {film['id']}")]
+            )
 
-            film_buttons = []
-            for film in info['docs']:
-                film_buttons.append(
-                    [InlineKeyboardButton(
-                        film['name'] + " " + str(film['year']),
-                        callback_data=f"film {film['id']}")]
-                )
+        if self.current_page != 1:
+            film_buttons.append([InlineKeyboardButton(text="<-", callback_data="prev"),
+                                    InlineKeyboardButton(text="->", callback_data="next")])
+        elif self.current_page == 1:
+            film_buttons.append([InlineKeyboardButton(text="->", callback_data="next")])
 
-            if self.current_page != 1:
-                film_buttons.append([InlineKeyboardButton(text="<-", callback_data="prev"),
-                                     InlineKeyboardButton(text="->", callback_data="next")])
-            elif self.current_page == 1:
-                film_buttons.append([InlineKeyboardButton(text="->", callback_data="next")])
-
-            film_buttons.append([InlineKeyboardButton(text="Назад", callback_data="categ return")])
-            film_buttons.append([InlineKeyboardButton('Отмена', callback_data="cancel")])
-            markup = InlineKeyboardMarkup(film_buttons)
-            return markup
+        film_buttons.append([InlineKeyboardButton(text="Назад", callback_data="categ return")])
+        film_buttons.append([InlineKeyboardButton('Отмена', callback_data="cancel")])
+        markup = InlineKeyboardMarkup(film_buttons)
+        return markup
 
     async def response_film_by_categ(self, update: Update):
         """Response film by categories"""
@@ -117,9 +115,10 @@ class CategoryHandler:
         except Exception:  # pylint: disable=W
             self.logger.error("ERROR occurred:")
 
-    async def response_film_by_id(self, update: Update, id):
+    async def response_film_by_id(self, update: Update, film_id):
+        """Response film card"""
         url = 'https://api.kinopoisk.dev/v1.3/movie'
-        params = {'id': id}
+        params = {'id': film_id}
         Fetch = FilmFetch(url, params)
         try:
             data = Fetch.cached_request()
