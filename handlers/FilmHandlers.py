@@ -1,9 +1,8 @@
 """Search by name handlers"""
 
-from telegram import ReplyKeyboardMarkup, Update, InlineKeyboardButton, InlineKeyboardMarkup, InputMediaPhoto
-from telegram.ext import ContextTypes, ConversationHandler
+from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
+from telegram.ext import ConversationHandler
 from utils.fetch import FilmFetch
-from telegram.constants import ParseMode
 
 
 def make_film_card(info):
@@ -35,7 +34,7 @@ class FilmHandlers:
 
     async def random_film(self, update: Update, context):
         """Sends random film or episode"""
-        url = f"https://api.kinopoisk.dev/v1.3/movie/random"
+        url = "https://api.kinopoisk.dev/v1.3/movie/random"
         Fetch = FilmFetch(url, None)
         try:
             data = Fetch.standard_request()
@@ -111,7 +110,7 @@ class FilmHandlers:
             return ConversationHandler.END
 
         elif query.data.startswith("film"):
-            url = f"https://api.kinopoisk.dev/v1.3/movie"
+            url = "https://api.kinopoisk.dev/v1.3/movie"
             params = {'id': query.data.split()[1]}
             Fetch = FilmFetch(url, params)
             try:

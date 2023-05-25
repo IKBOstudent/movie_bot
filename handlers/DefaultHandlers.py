@@ -1,6 +1,6 @@
 """Welcome and help messages"""
 
-from telegram import Update, InlineKeyboardMarkup, InlineKeyboardButton
+from telegram import Update
 from telegram.ext import ContextTypes
 
 
@@ -22,11 +22,10 @@ class DefaultHandlers:
         """Message on '/help' """
 
         await update.message.reply_text(
-            f"Вот команды которые вы можете использовать:\n"
-            f"/find - находит фильмы по названию\n"
-            f"/random - находит случайный фильм\n"
-            f"/actor - находит фильмы по актеру\n"
-            f"/category - находит фильмы по категориям",
+            "Вот команды которые вы можете использовать:\n"
+            "/find - находит фильмы по названию\n"
+            "/random - находит случайный фильм\n"
+            "/actor - находит фильмы по актеру\n"
+            "/category - находит фильмы по категориям",
             reply_markup=self.default_markup
         )
-

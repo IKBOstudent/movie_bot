@@ -1,9 +1,8 @@
 """Search by category handlers"""
 
-from telegram import ReplyKeyboardMarkup, Update, InlineKeyboardButton, InlineKeyboardMarkup, InlineQueryResultPhoto
-from telegram.ext import ContextTypes, ConversationHandler, CallbackContext
+from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
+from telegram.ext import ContextTypes, ConversationHandler
 from utils.fetch import FilmFetch
-from telegram import InputMediaPhoto
 
 
 def make_film_card(info):
@@ -124,7 +123,7 @@ class CategoryHandler:
         Fetch = FilmFetch(url, params)
         try:
             data = Fetch.cached_request()
-            poster, caption, markup = make_film_card(data['docs'][0])
+            _, caption, markup = make_film_card(data['docs'][0])
 
             query = update.callback_query
             # await query.edit_message_media(media=InputMediaPhoto(poster))
