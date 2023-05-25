@@ -20,4 +20,12 @@ class DefaultHandlers:
 
     async def send_help(self, update: Update, context: ContextTypes.DEFAULT_TYPE):
         """Message on '/help' """
-        # TODO
+
+        await update.message.reply_text(
+            "Вот команды которые вы можете использовать:\n"
+            "/find - находит фильмы по названию\n"
+            "/random - находит случайный фильм\n"
+            "/actor - находит фильмы по актеру\n"
+            "/category - находит фильмы по категориям",
+            reply_markup=self.default_markup
+        )

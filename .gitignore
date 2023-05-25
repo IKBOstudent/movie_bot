@@ -4,3 +4,4 @@
 venv/
 __pycache__/
 pylintrc
+cached_requests
