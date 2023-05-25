@@ -40,11 +40,13 @@ class STATES_FILM:
 
 
 class STATES_ACTOR:
+    """states for conversations"""
     START = 0
     FIND_ACTORS = 1
 
 
 class STATES_CATEGORY:
+    """states for conversations"""
     START = 0
     FIND_CATEGORY = 1
 
