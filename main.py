@@ -45,7 +45,8 @@ class STATES_ACTOR:
     FIND_ACTORS = 1
 
 
-class STATES_CATEGORY:
+class \
+        STATES_CATEGORY:
     """states for conversations"""
     START = 0
     FIND_CATEGORY = 1

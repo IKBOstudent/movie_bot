@@ -37,7 +37,6 @@ class CategoryHandler:
 
     def createButtons(self, info):
         """Creating buttons of categories"""
-
         category_buttons = []
         tmp_arr_btn = []
         for category in info:
@@ -53,13 +52,14 @@ class CategoryHandler:
         markup = InlineKeyboardMarkup(category_buttons)
         return markup
 
-    async def response_categories(self, update: Update, context: ContextTypes.DEFAULT_TYPE):
+    async def response_categories(self, update, context):
         """Response by categories"""
         url = 'https://api.kinopoisk.dev/v1/movie/possible-values-by-field'
         params = {"field": "genres.name"}
         Fetch = FilmFetch(url, params)
         try:
             data = Fetch.cached_request()
+
             self.all_categ = data
 
             caption = "Жанры:"
@@ -97,7 +97,7 @@ class CategoryHandler:
         markup = InlineKeyboardMarkup(film_buttons)
         return markup
 
-    async def response_film_by_categ(self, update: Update):
+    async def response_film_by_categ(self, update):
         """Response film by categories"""
         url = 'https://api.kinopoisk.dev/v1/movie'
         params = {"page": self.current_page, "genres.name": self.current_categ}
