@@ -32,7 +32,7 @@ class FilmHandlers:
         self.states = states
         self.cancel_button = [InlineKeyboardButton('Отмена', callback_data="cancel")]
 
-    async def random_film(self, update: Update, context):
+    async def random_film(self, update, context):
         """Sends random film or episode"""
         url = "https://api.kinopoisk.dev/v1.3/movie/random"
         Fetch = FilmFetch(url, None)
@@ -40,17 +40,16 @@ class FilmHandlers:
             data = Fetch.standard_request()
 
             poster, caption, markup_buttons = make_film_card(data)
-            print(caption)
             await update.message.reply_photo(
                 photo=poster,
                 caption=caption,
                 reply_markup=InlineKeyboardMarkup(markup_buttons)
             )
 
-        except Exception:  # pylint: disable=W
-            self.logger.error("ERROR occurred:")
+        except Exception as e:  # pylint: disable=W
+            self.logger.error("ERROR occurred")
 
-    async def send_film(self, update: Update, context):
+    async def send_film(self, update, context):
         """Prompt a name"""
 
         await update.message.reply_text(

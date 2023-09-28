@@ -51,6 +51,6 @@ class FilmFetch:
 
     def standard_request(self):
         """Standard HTTP request"""
-        print("Отрпавил запрос")
+
         data = requests.get(self.url, headers=self.headers, params=self.params).json()
         return data
