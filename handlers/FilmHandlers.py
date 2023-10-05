@@ -32,7 +32,7 @@ class FilmHandlers:
         self.states = states
         self.cancel_button = [InlineKeyboardButton('Отмена', callback_data="cancel")]
 
-    async def random_film(self, update, context):
+    async def random_film(self, update):
         """Sends random film or episode"""
         url = "https://api.kinopoisk.dev/v1.3/movie/random"
         Fetch = FilmFetch(url, None)
